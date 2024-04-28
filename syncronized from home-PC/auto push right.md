@@ -1,1 +1,1 @@
-auto push can do it?
+auto syncronization fetch?
