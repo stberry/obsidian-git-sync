@@ -2,6 +2,7 @@
 2. update definition of simple attributes (come from description of PS document).
 3. correct misspeelled feature name: Scale Minimum
 4. update uom that Maximum Draught / Expected Passing Speed / Distance Above UKC Limit
+	- it needs to discuss about adding uom and constraint
 	- uom and constraint update example (from S-101)
 			<S100FC:S100_FC_SimpleAttribute>
 			<S100FC:name>Depth Range Maximum Value</S100FC:name>
@@ -28,5 +29,5 @@
 				</S100CD:range>
 			</S100FC:constraints>
 			
-5. comparision with S100FC, S100CI, S100CD schema documenation.
+5. comparision with S100FC, S100CI, S100CD schema documenation (using Claude AI).
 6. XSD update (TBD)
