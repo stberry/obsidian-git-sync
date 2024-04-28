@@ -32,18 +32,4 @@ https://www.diffchecker.com/rLLIBP8Q/
 			</S100FC:constraints>
 			
 5. comparision with S100FC, S100CI, S100CD schema documenation (using Claude AI).
-6. XSD update (no change)
-
-Hello Jason,
-
-I apologize for the delayed response.
-
-I have submitted a pull request on GitHub, which includes the updated Feature Catalogue (FC) and GML schema for version 1.2.0.
-
-While the FC underwent changes, the GML schema remained largely unchanged, with only the version number being updated.
-
-Additionally, I have incorporated units of measurement (uom) into the FC, but they require further verification as they have not been thoroughly reviewed.
-
-Best regards,
-
-Hyoseung Kim (Kevin)
+6. XSD update (no change, just change version number)
