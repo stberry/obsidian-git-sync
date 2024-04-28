@@ -1,4 +1,7 @@
 # obsidian-git-sync
- This is a private storage for syncronize the obsidian mark-down documents.
 
-using Ctrl+P and select commit, push, pull, etc.
+This is a private storage for syncronize the obsidian mark-down documents.
+
+In Obsidian, using Ctrl+P and type commit, push, pull, etc.
+
+Auto commit and push per 1 minute.
