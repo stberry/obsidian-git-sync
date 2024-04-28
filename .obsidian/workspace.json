@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f80aa74a21bbac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "syncronized from home-PC/auto push right.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "syncronized from home-PC/S-129 FC and XSD update.md",
+                "file": "syncronized from home-PC/auto push right.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "syncronized from home-PC/S-129 FC and XSD update.md",
+                "file": "syncronized from home-PC/auto push right.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "syncronized from home-PC/S-129 FC and XSD update.md"
+                "file": "syncronized from home-PC/auto push right.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0a86062f88e4f1c4",
+  "active": "2f80aa74a21bbac8",
   "lastOpenFiles": [
-    "README.md",
-    "syncronized from home-PC/S-129 FC and XSD update.md"
+    "syncronized from home-PC/S-129 FC and XSD update.md",
+    "syncronized from home-PC/auto push right.md",
+    "README.md"
   ]
 }
