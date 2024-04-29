@@ -34,4 +34,4 @@ https://www.diffchecker.com/rLLIBP8Q/
 5. comparision with S100FC, S100CI, S100CD schema documenation (using Claude AI).
 6. XSD update (no change, just change version number)
 
-pull request : I have incorporated the feedback provided by Raphael and made the necessary revisions accordingly.
+pull request : I have incorporated the feedback provided by Raphael and made the necessary revisions accordingly.w
