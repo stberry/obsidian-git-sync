@@ -33,3 +33,4 @@ https://www.diffchecker.com/rLLIBP8Q/
 			
 5. comparision with S100FC, S100CI, S100CD schema documenation (using Claude AI).
 6. XSD update (no change, just change version number)
+
