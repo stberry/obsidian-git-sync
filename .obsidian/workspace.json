@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "afc0cf9f35abb4cd",
@@ -146,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0a86062f88e4f1c4",
+  "active": "065cc061d5083b6b",
   "lastOpenFiles": [
     "syncronized from home-PC/sync test.md",
     "연구실 세미나.md",
