@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "afc0cf9f35abb4cd",
@@ -149,6 +148,8 @@
   },
   "active": "065cc061d5083b6b",
   "lastOpenFiles": [
+    "S-129/무제 폴더",
+    "Pasted image 20240430203908.png",
     "syncronized from home-PC/sync test.md",
     "연구실 세미나.md",
     "스마트수로과제/스마트 수로과제 국제활동 관련.md",
