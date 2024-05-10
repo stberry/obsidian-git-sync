@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스마트수로과제/0509 제품사양개발 side 미팅.md",
+                "file": "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스마트수로과제/0509 제품사양개발 side 미팅.md",
+                "file": "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스마트수로과제/0509 제품사양개발 side 미팅.md",
+                "file": "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스마트수로과제/0509 제품사양개발 side 미팅.md"
+                "file": "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "58b1c61b4118cb5a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "스마트수로과제/0509 제품사양개발 side 미팅.md",
+    "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
+    "conflict-files-obsidian-git.md",
     "Web-site 기획/240503 coat9 2차면접.md",
     "S-129/240430 UKCM PT11.md",
     "Web-site 기획/웹사이트 벤치마킹 분석.md",
