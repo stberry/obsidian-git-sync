@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5836fe89b0d28598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "스마트수로과제/0509 제품사양개발 side 미팅.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "58b1c61b4118cb5a",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
