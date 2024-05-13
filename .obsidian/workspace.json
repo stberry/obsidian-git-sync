@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5eeade5cc1515d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S-129/240430 UKCM PT11.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S-129/240430 UKCM PT11.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S-129/240430 UKCM PT11.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -171,8 +183,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c89316ddaf205868",
+  "active": "5eeade5cc1515d4a",
   "lastOpenFiles": [
+    "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
+    "스마트수로과제/0509 제품사양개발 side 미팅.md",
     "conflict-files-obsidian-git.md",
     "S-129/240430 UKCM PT11.md",
     "S-129/Jason 씨 이메일 문의.md",
