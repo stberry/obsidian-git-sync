@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스마트수로과제/0529 학부 캡스톤 세미나.md",
+                "file": "0529 학부 캡스톤 세미나.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스마트수로과제/0529 학부 캡스톤 세미나.md",
+                "file": "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스마트수로과제/0529 학부 캡스톤 세미나.md",
+                "file": "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스마트수로과제/0529 학부 캡스톤 세미나.md"
+                "file": "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8afe97afa7b1516f",
+  "active": "065cc061d5083b6b",
   "lastOpenFiles": [
     "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
-    "스마트수로과제/0529 학부 캡스톤 세미나.md",
+    "0529 학부 캡스톤 세미나.md",
     "스마트수로과제/0509 제품사양개발 side 미팅.md",
     "연구실 세미나.md",
     "스마트수로과제/스마트 수로과제 국제활동 관련.md",
