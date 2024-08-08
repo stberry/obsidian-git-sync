@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fc0ab4bf9aa2ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스마트수로과제/입사 준비.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
+                "file": "스마트수로과제/입사 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
+                "file": "스마트수로과제/입사 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md"
+                "file": "스마트수로과제/입사 준비.md"
               }
             }
           }
@@ -159,9 +171,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "065cc061d5083b6b",
+  "active": "0fc0ab4bf9aa2ddb",
   "lastOpenFiles": [
     "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
+    "스마트수로과제/입사 준비.md",
+    "인텍플러스",
     "0529 학부 캡스톤 세미나.md",
     "스마트수로과제/0509 제품사양개발 side 미팅.md",
     "연구실 세미나.md",
