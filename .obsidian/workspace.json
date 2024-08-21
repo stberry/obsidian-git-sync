@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31d622e7f7ede258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인텍플러스/0821 SW 프로세스 회의.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인텍플러스/0821 내부회의.md",
+                "file": "인텍플러스/0821 SW 프로세스 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인텍플러스/0821 내부회의.md",
+                "file": "인텍플러스/0821 SW 프로세스 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인텍플러스/0821 내부회의.md"
+                "file": "인텍플러스/0821 SW 프로세스 회의.md"
               }
             }
           }
@@ -183,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd34c1991c93c967",
+  "active": "31d622e7f7ede258",
   "lastOpenFiles": [
-    "인텍플러스/입사 준비.md",
     "인텍플러스/0821 내부회의.md",
+    "인텍플러스/0821 SW 프로세스 회의.md",
+    "인텍플러스/입사 준비.md",
     "인텍플러스",
     "이전 연구",
     "이전 연구/0529 학부 캡스톤 세미나.md",
