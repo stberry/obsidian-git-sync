@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58b1c61b4118cb5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "이전 연구/스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8afe97afa7b1516f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "이전 연구/0529 학부 캡스톤 세미나.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fc0ab4bf9aa2ddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인텍플러스/입사 준비.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fd34c1991c93c967",
             "type": "leaf",
             "state": {
@@ -66,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30f62062886a3bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인텍플러스/0823 셋업.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인텍플러스/0821 SW 프로세스 회의.md",
+                "file": "인텍플러스/0823 셋업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인텍플러스/0821 SW 프로세스 회의.md",
+                "file": "인텍플러스/0823 셋업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인텍플러스/0821 SW 프로세스 회의.md"
+                "file": "인텍플러스/0823 셋업.md"
               }
             }
           }
@@ -195,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31d622e7f7ede258",
+  "active": "30f62062886a3bfd",
   "lastOpenFiles": [
-    "인텍플러스/0821 내부회의.md",
     "인텍플러스/0821 SW 프로세스 회의.md",
+    "인텍플러스/0823 셋업.md",
+    "인텍플러스/0821 내부회의.md",
     "인텍플러스/입사 준비.md",
     "인텍플러스",
     "이전 연구",
@@ -239,7 +216,6 @@
     "이전 연구/S-129/S-100 PS validation (supported by AI, LLM).md",
     "이전 연구/S-129/S-100 PS간 DCEG 분석.md",
     "이전 연구/S-129/Jason 씨 이메일 문의.md",
-    "이전 연구/S-129/240306 긴급 회의.md",
     "이전 연구/S-129"
   ]
 }
