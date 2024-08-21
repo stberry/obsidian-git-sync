@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
+                "file": "이전 연구/스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0529 학부 캡스톤 세미나.md",
+                "file": "이전 연구/0529 학부 캡스톤 세미나.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스마트수로과제/입사 준비.md",
+                "file": "인텍플러스/입사 준비.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd34c1991c93c967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인텍플러스/0821 내부회의.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스마트수로과제/입사 준비.md",
+                "file": "인텍플러스/0821 내부회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스마트수로과제/입사 준비.md",
+                "file": "인텍플러스/0821 내부회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스마트수로과제/입사 준비.md"
+                "file": "인텍플러스/0821 내부회의.md"
               }
             }
           }
@@ -163,54 +175,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0fc0ab4bf9aa2ddb",
+  "active": "fd34c1991c93c967",
   "lastOpenFiles": [
-    "스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
-    "스마트수로과제/입사 준비.md",
+    "인텍플러스/입사 준비.md",
+    "인텍플러스/0821 내부회의.md",
     "인텍플러스",
-    "0529 학부 캡스톤 세미나.md",
-    "스마트수로과제/0509 제품사양개발 side 미팅.md",
-    "연구실 세미나.md",
-    "스마트수로과제/스마트 수로과제 국제활동 관련.md",
-    "S-129/240430 UKCM PT11.md",
-    "스마트수로과제/MASS PT6 (Feb. 27 ~ 28).md",
+    "이전 연구",
+    "이전 연구/0529 학부 캡스톤 세미나.md",
+    "이전 연구/연구실 세미나.md",
+    "README.md",
+    "이전 연구/스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
+    "인텍플러스",
+    "이전 연구/스마트수로과제/0509 제품사양개발 side 미팅.md",
+    "이전 연구/스마트수로과제/스마트 수로과제 국제활동 관련.md",
+    "이전 연구/S-129/240430 UKCM PT11.md",
+    "이전 연구/스마트수로과제/MASS PT6 (Feb. 27 ~ 28).md",
     "conflict-files-obsidian-git.md",
     "Web-site 기획/240503 coat9 2차면접.md",
     "Web-site 기획/웹사이트 벤치마킹 분석.md",
     "Web-site 기획/Pasted image 20240503122738.png",
     "Web-site 기획",
-    "S-129/240223 catch up meeting (UKCM PT).md",
-    "S-129/240223 catch up meeting (UKCM PT)_Kor.md",
-    "S-129/240430 UKCM PT11 screenshot/Pasted image 20240430230653.png",
-    "S-129/240430 UKCM PT11 screenshot/Pasted image 20240430231355.png",
-    "S-129/240430 UKCM PT11 screenshot/Pasted image 20240430231301.png",
-    "S-129/240422 메일회신.md",
-    "S-129/240430 UKCM PT11 screenshot/Pasted image 20240430225506.png",
-    "S-129/Jason 씨 이메일.md",
-    "S-129/240430 UKCM PT11 screenshot/Pasted image 20240430224926.png",
-    "S-129/240430 UKCM PT11 screenshot/Pasted image 20240430225304.png",
-    "S-129/240430 UKCM PT11 screenshot/Pasted image 20240430224641.png",
-    "S-129/240430 UKCM PT11 screenshot/Pasted image 20240430223715.png",
-    "S-129/240430 UKCM PT11 screenshot/Pasted image 20240430223803.png",
-    "S-129/240430 UKCM PT11 screenshot",
+    "이전 연구/S-129/240223 catch up meeting (UKCM PT).md",
+    "이전 연구/S-129/240223 catch up meeting (UKCM PT)_Kor.md",
+    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430230653.png",
+    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430231355.png",
+    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430231301.png",
+    "이전 연구/S-129/240422 메일회신.md",
+    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430225506.png",
+    "이전 연구/S-129/Jason 씨 이메일.md",
+    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430224926.png",
+    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430225304.png",
+    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430224641.png",
+    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430223715.png",
+    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430223803.png",
+    "이전 연구/S-129/240430 UKCM PT11 screenshot",
     "syncronized from home-PC/sync test.md",
-    "스마트수로과제",
-    "VDES 2내역/VDES 2내역.md",
-    "VDES 2내역/2차년도 연차보고서 작업.md",
-    "VDES 2내역",
-    "S-129/S-129 FC and XSD update.md",
-    "S-129/S-100 PS validation (supported by AI, LLM).md",
-    "S-129/S-100 PS간 DCEG 분석.md",
-    "S-129/Jason 씨 이메일 문의.md",
-    "S-129/240306 긴급 회의.md",
-    "S-129"
+    "이전 연구/스마트수로과제",
+    "이전 연구/VDES 2내역/VDES 2내역.md",
+    "이전 연구/VDES 2내역/2차년도 연차보고서 작업.md",
+    "이전 연구/VDES 2내역",
+    "이전 연구/S-129/S-129 FC and XSD update.md",
+    "이전 연구/S-129/S-100 PS validation (supported by AI, LLM).md",
+    "이전 연구/S-129/S-100 PS간 DCEG 분석.md",
+    "이전 연구/S-129/Jason 씨 이메일 문의.md",
+    "이전 연구/S-129/240306 긴급 회의.md",
+    "이전 연구/S-129"
   ]
 }
