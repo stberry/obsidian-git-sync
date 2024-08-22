@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd34c1991c93c967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인텍플러스/0821 내부회의.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31d622e7f7ede258",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인텍플러스/0821 SW 프로세스 회의.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30f62062886a3bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인텍플러스/입사 준비.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fda799a648cf3e05",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +148,8 @@
   },
   "active": "fda799a648cf3e05",
   "lastOpenFiles": [
-    "인텍플러스/0821 SW 프로세스 회의.md",
     "인텍플러스/0821 내부회의.md",
+    "인텍플러스/0821 SW 프로세스 회의.md",
     "인텍플러스/퇴근일지.md",
     "인텍플러스/입사 준비.md",
     "인텍플러스/0823 셋업.md",
