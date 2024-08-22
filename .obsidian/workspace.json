@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b384eb8f475abe9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인텍플러스/테스트케이스 작성 과정 (Claude Q&A).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인텍플러스/퇴근일지.md",
+                "file": "인텍플러스/테스트케이스 작성 과정 (Claude Q&A).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인텍플러스/퇴근일지.md",
+                "file": "인텍플러스/테스트케이스 작성 과정 (Claude Q&A).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인텍플러스/퇴근일지.md"
+                "file": "인텍플러스/테스트케이스 작성 과정 (Claude Q&A).md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fda799a648cf3e05",
+  "active": "b384eb8f475abe9c",
   "lastOpenFiles": [
+    "인텍플러스/퇴근일지.md",
+    "인텍플러스/테스트케이스 작성 과정 (Claude Q&A).md",
     "인텍플러스/0821 내부회의.md",
     "인텍플러스/0821 SW 프로세스 회의.md",
-    "인텍플러스/퇴근일지.md",
     "인텍플러스/입사 준비.md",
     "인텍플러스/0823 셋업.md",
     "인텍플러스",
@@ -190,7 +204,6 @@
     "이전 연구/VDES 2내역",
     "이전 연구/S-129/S-129 FC and XSD update.md",
     "이전 연구/S-129/S-100 PS validation (supported by AI, LLM).md",
-    "이전 연구/S-129/S-100 PS간 DCEG 분석.md",
     "이전 연구/S-129"
   ]
 }
