@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인텍플러스/0821 SW 프로세스 회의.md",
+                "file": "인텍플러스/퇴근일지.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인텍플러스/0821 SW 프로세스 회의.md",
+                "file": "인텍플러스/퇴근일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인텍플러스/0821 SW 프로세스 회의.md",
+                "file": "인텍플러스/퇴근일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인텍플러스/0821 SW 프로세스 회의.md"
+                "file": "인텍플러스/퇴근일지.md"
               }
             }
           }
@@ -185,10 +185,10 @@
   },
   "active": "fda799a648cf3e05",
   "lastOpenFiles": [
+    "인텍플러스/0821 SW 프로세스 회의.md",
     "인텍플러스/0821 내부회의.md",
     "인텍플러스/퇴근일지.md",
     "인텍플러스/입사 준비.md",
-    "인텍플러스/0821 SW 프로세스 회의.md",
     "인텍플러스/0823 셋업.md",
     "인텍플러스",
     "이전 연구",
