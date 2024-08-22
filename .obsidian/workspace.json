@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인텍플러스/0821 내부회의.md",
+                "file": "인텍플러스/입사 준비.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fda799a648cf3e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인텍플러스/퇴근일지.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인텍플러스/0821 내부회의.md",
+                "file": "인텍플러스/퇴근일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인텍플러스/0821 내부회의.md",
+                "file": "인텍플러스/퇴근일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인텍플러스/0821 내부회의.md"
+                "file": "인텍플러스/퇴근일지.md"
               }
             }
           }
@@ -171,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30f62062886a3bfd",
+  "active": "fda799a648cf3e05",
   "lastOpenFiles": [
+    "인텍플러스/입사 준비.md",
+    "인텍플러스/퇴근일지.md",
+    "인텍플러스/0821 내부회의.md",
     "인텍플러스/0821 SW 프로세스 회의.md",
     "인텍플러스/0823 셋업.md",
-    "인텍플러스/0821 내부회의.md",
-    "인텍플러스/입사 준비.md",
     "인텍플러스",
     "이전 연구",
     "이전 연구/0529 학부 캡스톤 세미나.md",
@@ -215,7 +228,6 @@
     "이전 연구/S-129/S-129 FC and XSD update.md",
     "이전 연구/S-129/S-100 PS validation (supported by AI, LLM).md",
     "이전 연구/S-129/S-100 PS간 DCEG 분석.md",
-    "이전 연구/S-129/Jason 씨 이메일 문의.md",
     "이전 연구/S-129"
   ]
 }
