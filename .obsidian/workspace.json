@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인텍플러스/셋업테스트.md",
+                "file": "인텍플러스/셋업테스트(iPIS-380hx 장비).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인텍플러스/셋업테스트.md",
+                "file": "인텍플러스/셋업테스트(iPIS-380hx 장비).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인텍플러스/셋업테스트.md",
+                "file": "인텍플러스/셋업테스트(iPIS-380hx 장비).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인텍플러스/셋업테스트.md"
+                "file": "인텍플러스/셋업테스트(iPIS-380hx 장비).md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "63334125ecdba380",
   "lastOpenFiles": [
     "인텍플러스/퇴근일지.md",
-    "인텍플러스/셋업테스트.md",
+    "인텍플러스/셋업테스트(iPIS-380hx 장비).md",
     "인텍플러스/테스트케이스 작성 과정 (Claude Q&A).md",
     "인텍플러스/0821 내부회의.md",
     "인텍플러스/0821 SW 프로세스 회의.md",
