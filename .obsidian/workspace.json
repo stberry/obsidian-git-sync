@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation)/시뮬레이터 설치.md",
+                "file": "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 설치.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,14 +59,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation)/시뮬레이터 설치.md",
+                "file": "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 설치.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0135922e231d83c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 설치.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f99ec64e757966b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 설치.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation)/시뮬레이터 설치.md",
+                "file": "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation)/시뮬레이터 설치.md",
+                "file": "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation)/시뮬레이터 설치.md"
+                "file": "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 설치.md"
               }
             }
           }
@@ -193,12 +217,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89a24159a80cb879",
+  "active": "f99ec64e757966b0",
   "lastOpenFiles": [
+    "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 설치.md",
+    "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 설치.md",
+    "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
+    "업무관련(SW validation)/시뮬레이터",
     "screenshots/Pasted image 20240826133647.png",
     "screenshots/Pasted image 20240826134209.png",
-    "업무관련(SW validation)/핸들러 시뮬레이터 작동.md",
-    "업무관련(SW validation)/시뮬레이터 설치.md",
     "screenshots/Pasted image 20240826131859.png",
     "screenshots",
     "screenshots/Pasted image 20240826132524.png",
@@ -238,7 +264,6 @@
     "Web-site 기획",
     "이전 연구/S-129/240430 UKCM PT11 screenshot",
     "이전 연구/스마트수로과제",
-    "이전 연구/VDES 2내역",
-    "이전 연구/S-129"
+    "이전 연구/VDES 2내역"
   ]
 }
