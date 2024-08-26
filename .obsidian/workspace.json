@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dffa91c6b421a4b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cd00657ae47adc89",
             "type": "leaf",
             "state": {
@@ -32,77 +20,19 @@
             }
           },
           {
-            "id": "313674e8acd6e0c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련(SW validation)/시뮬레이터/(설치) 핸들러 시뮬레이터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffdf6126246ef1a7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "screenshots/Pasted image 20240826133647.png"
-              }
-            }
-          },
-          {
-            "id": "89a24159a80cb879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련(SW validation)/시뮬레이터/(설치) 핸들러 시뮬레이터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0135922e231d83c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련(SW validation)/시뮬레이터/(설치) 핸들러 시뮬레이터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f99ec64e757966b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련(SW validation)/시뮬레이터/(설치) 비전 시뮬레이터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7ed41af561ae4058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "업무관련(SW validation)/0826 1사업부 업무협의.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "업무관련(SW validation)/0826 1사업부 업무협의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "업무관련(SW validation)/0826 1사업부 업무협의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md"
+                "file": "업무관련(SW validation)/0826 1사업부 업무협의.md"
               }
             }
           }
@@ -231,6 +161,8 @@
   },
   "active": "7ed41af561ae4058",
   "lastOpenFiles": [
+    "업무관련(SW validation)/iPIS-500 장비 Training.md",
+    "업무관련(SW validation)/0826 1사업부 업무협의.md",
     "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
     "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
     "screenshots/Pasted image 20240826141727.png",
@@ -250,7 +182,6 @@
     "개인업무기록/퇴근일지 (업무기록).md",
     "업무관련(SW validation)/0826 내부회의.md",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
-    "업무관련(SW validation)/iPIS-500 장비 Training.md",
     "업무관련(SW validation)/0821 내부회의.md",
     "업무관련(SW validation)/0821 SW 프로세스 회의.md",
     "업무관련(SW validation)/0822 셋업테스트 관련 내부 회의.md",
