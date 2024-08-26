@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md"
+                "file": "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "7ed41af561ae4058",
   "lastOpenFiles": [
-    "업무관련(SW validation)/0826 1사업부 업무협의.md",
     "업무관련(SW validation)/iPIS-500 장비 Training.md",
+    "업무관련(SW validation)/0826 1사업부 업무협의.md",
     "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
     "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
     "screenshots/Pasted image 20240826141727.png",
