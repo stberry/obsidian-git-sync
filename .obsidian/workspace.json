@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "313674e8acd6e0c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "업무관련(SW validation)/시뮬레이터 설치.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/시뮬레이터 설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/시뮬레이터 설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md"
+                "file": "업무관련(SW validation)/시뮬레이터 설치.md"
               }
             }
           }
@@ -159,12 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd00657ae47adc89",
+  "active": "313674e8acd6e0c6",
   "lastOpenFiles": [
+    "업무관련(SW validation)/Pasted image 20240826132140.png",
+    "업무관련(SW validation)/Pasted image 20240826132105.png",
+    "업무관련(SW validation)/Pasted image 20240826132018.png",
+    "업무관련(SW validation)/Pasted image 20240826132000.png",
+    "업무관련(SW validation)/Pasted image 20240826131951.png",
+    "업무관련(SW validation)/Pasted image 20240826131859.png",
+    "개인업무기록/퇴근일지 (업무기록).md",
+    "업무관련(SW validation)/시뮬레이터 설치.md",
     "업무관련(SW validation)/0826 내부회의.md",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
     "업무관련(SW validation)/iPIS-500 장비 Training.md",
-    "개인업무기록/퇴근일지 (업무기록).md",
     "업무관련(SW validation)/0821 내부회의.md",
     "업무관련(SW validation)/0821 SW 프로세스 회의.md",
     "업무관련(SW validation)/0822 셋업테스트 관련 내부 회의.md",
@@ -191,17 +210,10 @@
     "Web-site 기획/Pasted image 20240503122738.png",
     "Web-site 기획",
     "이전 연구/S-129/240223 catch up meeting (UKCM PT).md",
-    "이전 연구/S-129/240223 catch up meeting (UKCM PT)_Kor.md",
     "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430230653.png",
     "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430231355.png",
     "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430231301.png",
-    "이전 연구/S-129/240422 메일회신.md",
     "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430225506.png",
-    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430224926.png",
-    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430225304.png",
-    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430224641.png",
-    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430223715.png",
-    "이전 연구/S-129/240430 UKCM PT11 screenshot/Pasted image 20240430223803.png",
     "이전 연구/S-129/240430 UKCM PT11 screenshot",
     "이전 연구/스마트수로과제",
     "이전 연구/VDES 2내역",
