@@ -47,16 +47,26 @@
             "id": "ffdf6126246ef1a7",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "screenshots/Pasted image 20240826133647.png"
+              }
+            }
+          },
+          {
+            "id": "89a24159a80cb879",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation)/핸들러 시뮬레이터 작동.md",
+                "file": "업무관련(SW validation)/시뮬레이터 설치.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation)/핸들러 시뮬레이터 작동.md",
+                "file": "업무관련(SW validation)/시뮬레이터 설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation)/핸들러 시뮬레이터 작동.md",
+                "file": "업무관련(SW validation)/시뮬레이터 설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation)/핸들러 시뮬레이터 작동.md"
+                "file": "업무관련(SW validation)/시뮬레이터 설치.md"
               }
             }
           }
@@ -183,12 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffdf6126246ef1a7",
+  "active": "89a24159a80cb879",
   "lastOpenFiles": [
-    "업무관련(SW validation)/Pasted image 20240826134209.png",
-    "업무관련(SW validation)/Pasted image 20240826133647.png",
-    "업무관련(SW validation)/시뮬레이터 설치.md",
+    "screenshots/Pasted image 20240826133647.png",
+    "screenshots/Pasted image 20240826134209.png",
     "업무관련(SW validation)/핸들러 시뮬레이터 작동.md",
+    "업무관련(SW validation)/시뮬레이터 설치.md",
     "screenshots/Pasted image 20240826131859.png",
     "screenshots",
     "screenshots/Pasted image 20240826132524.png",
@@ -198,7 +208,6 @@
     "screenshots/Pasted image 20240826132105.png",
     "screenshots/Pasted image 20240826132018.png",
     "screenshots/Pasted image 20240826132000.png",
-    "screenshots/Pasted image 20240826131951.png",
     "개인업무기록/퇴근일지 (업무기록).md",
     "업무관련(SW validation)/0826 내부회의.md",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
