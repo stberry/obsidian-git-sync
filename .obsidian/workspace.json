@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7ed41af561ae4058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
+                "file": "개인업무기록/퇴근일지 (업무기록).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
+                "file": "개인업무기록/퇴근일지 (업무기록).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md"
+                "file": "개인업무기록/퇴근일지 (업무기록).md"
               }
             }
           }
@@ -159,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ed41af561ae4058",
+  "active": "cd00657ae47adc89",
   "lastOpenFiles": [
+    "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
     "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
     "업무관련(SW validation)/iPIS-500 장비 Training.md",
     "업무관련(SW validation)/0826 1사업부 업무협의.md",
-    "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
     "screenshots/Pasted image 20240826141727.png",
     "업무관련(SW validation)/시뮬레이터/(설치) 비전 시뮬레이터.md",
     "업무관련(SW validation)/시뮬레이터/(설치) 핸들러 시뮬레이터.md",
