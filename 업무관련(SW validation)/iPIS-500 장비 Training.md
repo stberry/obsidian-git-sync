@@ -13,10 +13,12 @@
 
 0827 장비설명 (정리 후 confluence 페이지)
 - 오전 11시 ~, 장소 : A동 공장
-- 빈 트레이가지고 테스트 (대상 receipe : )
-- iPIS-500 GANTRY - 기존 iPIS-500 장비에 GANTRY 장비를 덧붙인 장비로 CART에 패키지 트레이를 담아 일괄검사를 지원
+- 빈 트레이가지고 테스트 (대상 receipe : KBLG_31X58.5-V10-TRAYSTITCH)
+  ![[Pasted image 20240827180443.png]]
+- iPIS-500 GANTRY - 기존 iPIS-500 장비에 GANTRY 설비를 덧붙인 장비로 CART에 패키지 트레이를 담아 일괄검사를 지원
 - SW 버전 : Handler - 3.312.00.0230DD (development debug 버전, RD - release debug), Vision - 1.312.999.0120 Release Version
-- Lot 단위로 검사 (any tray)
+- Lot 단위로 검사
+	- TRAY 개수는 상관없으나 loading elevator에는 최소 2 trays(1 tray for cover tray), empty elevator에는 최소 3 trays가 필요함(양품/불량 sort)
 - 검사 단계
 	1) interlock 확인
 	2) init handler : 모터들의 영점을 잡아주는 역할
