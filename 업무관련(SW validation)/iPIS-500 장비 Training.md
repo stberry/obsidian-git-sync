@@ -27,7 +27,10 @@
 		- [ ] all tray are loaded
 		- [ ] rejects are not sorted : sort 여부에 대한 옵션, 체크시 불량체크 하지 않음
 		- [ ] debug log : 상세 로그 기록
-	6) 
+	6) 주의사항
+		- 안전사고(도어가 오픈되어있으므로 동작중에는 항상 안전에 유의, 일시정지시 주저말고 emo로 interrupt)
+		- EMO 버튼 : 장비에 이상이 있을경우 emo를 눌러 모든 전원을 차단, 조치 후 reset 버튼을 눌러 전원 재인가
+		- 
 
 stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 김철민 선임)
 1. [x] interlock 안된상태에서 init handler 하면 경고
@@ -36,7 +39,7 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
        → 해당칸에 트레이 배치 (3개씩)
 3. [x] z1 motor 빨간불 (세팅매뉴얼?)
        → 어떻게 조치해야 하는가? 대부분의 trouble shooting은 init handler로 가능
-4. 
+4. [ ] 트레이 jam, emo 이후 복구시 잘 안될때
+       → 셋업팀 김경민 대리에 요청
 
-==**거창한거 만들생각 말고 일단 시작부터
 
