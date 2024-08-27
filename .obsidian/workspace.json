@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md"
+                "file": "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "fb65df7d544b0774",
   "lastOpenFiles": [
+    "개인업무기록/퇴근일지 (업무기록).md",
     "업무관련(SW validation)/iPIS-500 장비 Training.md",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
     "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
@@ -186,7 +187,6 @@
     "이전 연구/S-129/240430 UKCM PT11.md",
     "이전 연구/S-129/240422 메일회신.md",
     "이전 연구/S-129/240306 긴급 회의.md",
-    "이전 연구/S-129/240223 catch up meeting (UKCM PT)_Kor.md",
     "이전 연구/스마트수로과제",
     "이전 연구/VDES 2내역",
     "이전 연구/S-129",
