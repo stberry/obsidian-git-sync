@@ -28,7 +28,10 @@
 		- [ ] rejects are not sorted : sort 여부에 대한 옵션, 체크시 불량체크 하지 않음
 		- [ ] debug log : 상세 로그 기록
 
-interlock 안된상태에서 init handler 하면 경고
-첫번째 lot 실패 - Tray load (loading elevator, empty elevator)
-두번째 lot 실패 - z1 motor 빨간불
+stand alone 실험 경과 (해결된 것 체크)
+1. [x] interlock 안된상태에서 init handler 하면 경고
+       → 경고메시지 확인 후 interlock 확인
+2. [x] Tray load (loading elevator, empty elevator)
+       → 해당칸에 트레이 배치 (3개씩)
+3. z1 motor 빨간불
 
