@@ -28,10 +28,11 @@
 		- [ ] rejects are not sorted : sort 여부에 대한 옵션, 체크시 불량체크 하지 않음
 		- [ ] debug log : 상세 로그 기록
 
-stand alone 실험 경과 (해결된 것 체크)
+stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 김철민 선임)
 1. [x] interlock 안된상태에서 init handler 하면 경고
        → 경고메시지 확인 후 interlock 확인
 2. [x] Tray load (loading elevator, empty elevator)
        → 해당칸에 트레이 배치 (3개씩)
-3. z1 motor 빨간불
+3. [ ] z1 motor 빨간불 (세팅매뉴얼?)
+       → 어떻게 조치해야 하는가? 
 
