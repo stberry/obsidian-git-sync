@@ -13,7 +13,7 @@
 
 0827 장비설명 (정리 후 confluence 페이지)
 - 오전 11시 ~, 장소 : A동 공장
-- 빈 트레이가지고 테스트 (BGA-37.5 X 37.5)
+- 빈 트레이가지고 테스트 (대상 receipe : )
 - iPIS-500 GANTRY - 기존 iPIS-500 장비에 GANTRY 장비를 덧붙인 장비로 CART에 패키지 트레이를 담아 일괄검사를 지원
 - SW 버전 : Handler - 3.312.00.0230DD (development debug 버전, RD - release debug), Vision - 1.312.999.0120 Release Version
 - Lot 단위로 검사 (any tray)
@@ -24,15 +24,14 @@
 	4) 여러가지 동작 모드가 있으나 operator 권한에서는 보통 run mode를 많이 사용 (기계 제어를 위해서는 run mode가 일반적)
 	5) option parameter
 		- [ ] lot split : 이전 lot과 구분짓기 위해 사용 (거의 사용하지 않음)
-		- [ ] all tray are loaded
+		- [ ] all tray are loaded : 필수 check
 		- [ ] rejects are not sorted : sort 여부에 대한 옵션, 체크시 불량체크 하지 않음
-		- [ ] debug log : 상세 로그 기록
+		- [ ] debug log : 상세 로그 기록 (operator 모드에 없음을 확인)
 	6) 주의사항
-		- 안전사고(도어가 오픈되어있으므로 동작중에는 항상 안전에 유의, 일시정지시 주저말고 emo로 interrupt)
+		- 안전사고에 항상 유의(도어가 오픈되어있으므로 동작중에는 항상 안전에 유의, 일시정지시 주저말고 emo로 interrupt)
 		- EMO 버튼 : 장비에 이상이 있을경우 emo를 눌러 모든 전원을 차단, 조치 후 reset 버튼을 눌러 전원 재인가
-		- 
 
-stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 김철민 선임)
+stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 김민철 선임)
 1. [x] interlock 안된상태에서 init handler 하면 경고
        → 경고메시지 확인 후 interlock 확인
 2. [x] Tray load (loading elevator, empty elevator)
@@ -41,5 +40,3 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
        → 어떻게 조치해야 하는가? 대부분의 trouble shooting은 init handler로 가능
 4. [ ] 트레이 jam, emo 이후 복구시 잘 안될때
        → 셋업팀 김경민 대리에 요청
-
-
