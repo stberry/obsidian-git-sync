@@ -14,5 +14,13 @@
 - 오전 11시 ~, 장소 : A동 공장
 - 빈 트레이가지고 테스트 (BGA-37.5 X 37.5)
 - iPIS-500 GANTRY - 기존 iPIS-500 장비에 GANTRY 장비를 덧붙인 장비로 CART에 패키지 트레이를 담아 일괄검사를 지원
-- 
+- Lot 단위로 검사 (any tray)
+- 검사 단계
+	1) interlock 확인
+	2) init handler
+	3) setup : 2d top / bottom, 3d bottom enable 확인, (side, 3d top disable)
+	4) 여러가지 동작 모드가 있으나 operator 권한에서는 보통 run mode를 많이 사용 (기계 제어를 위해서는 run mode가 일반적)
+	5) option parameter
+		- [ ] lot split : 이전 lot과 구분짓기 위해 사용 (거의 사용하지 않음)
+		- [ ] 
 
