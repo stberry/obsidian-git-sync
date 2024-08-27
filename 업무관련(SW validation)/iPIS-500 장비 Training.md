@@ -22,5 +22,8 @@
 	4) 여러가지 동작 모드가 있으나 operator 권한에서는 보통 run mode를 많이 사용 (기계 제어를 위해서는 run mode가 일반적)
 	5) option parameter
 		- [ ] lot split : 이전 lot과 구분짓기 위해 사용 (거의 사용하지 않음)
-		- [ ] 
+
+interlock 안된상태에서 init handler 하면 경고
+첫번째 lot 실패 - Tray load (loading elevator, empty elevator)
+두번째 lot 실패 - z1 motor 빨간불
 
