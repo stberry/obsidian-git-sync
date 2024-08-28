@@ -51,7 +51,10 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
        → 나머지는 직접 찾아봐야 함
        → 각 vision software와 전환이 가능함 (vision-host switch 가능)
 
+<검사 결과화면 분석(vision software)>
+- (TBD)
+
 <요청사항>
 - 빈 트레이보다는 sort하는 과정까지 같이 봐야할것같음
-- 결과 화면에 good/reject 분류가 어떤식으로 일어나는지 보는게 좋아보임 (0828 요청)
+- 결과 화면에 good/reject 분류가 어떤식으로 일어나는지 보는게 좋아보임
 - 셋업팀에서 관리하므로 셋업팀에 직접요청해야 할 수 있음
