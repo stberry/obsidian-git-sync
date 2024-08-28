@@ -11,12 +11,12 @@
 - 9월 7일 이전까지는 낮에 
 - ~~뭐 물어볼때 김선임 음료라도 챙기기~~
 
-0827 장비설명 (정리 후 confluence 페이지)
+0827 장비설명 (정리 후 confluence 페이지, 시뮬레이터 설치, 실행은 confluence 매뉴얼 페이지 업데이트)
 - 오전 11시 ~, 장소 : A동 공장
 - 빈 트레이가지고 테스트 (대상 receipe : KBLG_31X58.5-V10-TRAYSTITCH)
   ![[Pasted image 20240827180443.png]]
 - iPIS-500 GANTRY - 기존 iPIS-500 장비에 GANTRY 설비를 덧붙인 장비로 CART에 패키지 트레이를 담아 일괄검사를 지원
-- 현재 GANTRY는 이슈가 있어 잘 동작하지 않으며 설비팀에 문의한 상황
+	- 현재 GANTRY는 이슈가 있어 잘 동작하지 않으며 설비팀에 문의한 상황
 - SW 버전 : Handler - 3.312.00.0230DD (development debug 버전, RD - release debug), Vision - 1.312.999.0120 Release Version
 - Lot 단위로 검사
 	- TRAY 개수는 상관없으나 loading elevator에는 최소 2 trays(1 tray for cover tray), empty elevator에는 최소 3 trays가 필요함(양품/불량 sort)
@@ -46,11 +46,15 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 5. [ ] 만약 프로그램이 죽거나 pc를 다시켜야 하는경우
        → D:\\(작업자 이니셜) 폴더에 솔루션 파일 실행 후 빌드 "D:\\DK\\iPIS500-SideVision"
        → Host PC password : 1
-7. [ ] 각 pc의 ip확인 (모든 pc는 tcp/ip로 통신하며 원격으로 제어가능)
+7. [x] 각 pc의 ip확인 (모든 pc는 tcp/ip로 통신하며 원격으로 제어가능)
        → 10.10.61.1 ? GANTRY
        → 나머지는 직접 찾아봐야 함
+       → 각 vision software와 전환이 가능함 (vision-host switch 가능)
+
+<검사 결과화면 분석(vision software)>
+- (TBD)
 
 <요청사항>
 - 빈 트레이보다는 sort하는 과정까지 같이 봐야할것같음
-- 결과 화면에 good/reject 분류가 어떤식으로 일어나는지 보는게 좋아보임 (0828 요청)
+- 결과 화면에 good/reject 분류가 어떤식으로 일어나는지 보는게 좋아보임
 - 셋업팀에서 관리하므로 셋업팀에 직접요청해야 할 수 있음
