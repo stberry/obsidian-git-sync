@@ -51,6 +51,9 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
        → 나머지는 직접 찾아봐야 함
        → 각 vision software와 전환이 가능함 (vision-host switch 가능)
 
+<전반적인 handler의 동작(motor, tray 이동, tray 위치별 검사)>
+- (TBD)
+
 <검사 결과화면 분석(vision software)>
 - (TBD)
 
