@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff86e61915e0bb7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd00657ae47adc89",
+  "active": "ff86e61915e0bb7a",
   "lastOpenFiles": [
+    "업무관련(SW validation)/iPIS-500 장비 Training.md",
+    "conflict-files-obsidian-git.md",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23.md",
     "업무관련(SW validation)/0822 셋업테스트 관련 내부 회의.md",
     "업무관련(SW validation)/0821 SW 프로세스 회의.md",
-    "업무관련(SW validation)/iPIS-500 장비 Training.md",
     "업무관련(SW validation)/시뮬레이터/(설치) 핸들러 시뮬레이터.md",
     "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
     "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
