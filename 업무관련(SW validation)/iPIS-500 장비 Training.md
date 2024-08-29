@@ -52,6 +52,8 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
        → 각 vision software와 전환이 가능함 (vision-host switch 가능)
        → KVM switch를 사용하여 pc간 전환 (tap scroll lock * 2 rapidly then insert pc number (pc #1 : host pc, #2~6 : vision pc))
 
+<개별인터퓨(C/S 양창기 과장 (will be SE팀 on 21st, Oct))>
+
 <전반적인 handler의 동작(motor, tray 이동, tray 위치별 검사)>
 - (TBD)
 
