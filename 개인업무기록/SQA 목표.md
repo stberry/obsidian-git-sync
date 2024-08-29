@@ -11,3 +11,7 @@
 - SQE : DevOps 팀이 전담, 전사적으로  DevOps 지원도구인 Jira, Conluence 그리고 개발 산출물 형상관리 도구인 Bitbucket(based on git)에 대해 인프라를 구축하고 사용자(especially, 개발자)가 잘 사용하게끔 가이드 및 지원
 - SQA : 전반적인 Software에 대한 이해 필요, 개발 라이프사이클에 대한 이해부터 요구사항 분석, 설계, 향후 UML을 이용한 설계문서 작성이나 디자인 패턴과 같은 코드 정리가 필요할 것으로 보임
 
+DevOps?
+- Development and Operation
+- 개발과 운영을 parellel and 
+
