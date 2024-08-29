@@ -128,25 +128,9 @@
                 "file": "개인업무기록/퇴근일지 (업무기록).md"
               }
             }
-          },
-          {
-            "id": "c549ffb180241fa8",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c8bec1d755387a35",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,10 +148,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "cd00657ae47adc89",
+  "active": "f533fa13815dd060",
   "lastOpenFiles": [
-    "개인업무기록/SQA 목표.md",
     "개인업무기록/퇴근일지 (업무기록).md",
+    "개인업무기록/SQA 목표.md",
     "개인업무기록/개별인터뷰 모음.md",
     "개인업무기록/장비 납품 공정.md",
     "smart-chats/UNTITLED CHAT 2024-08-29 03 23 19.md",
