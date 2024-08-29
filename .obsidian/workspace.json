@@ -141,13 +141,29 @@
                 "file": "업무관련(SW validation)/iPIS-500 장비 Training.md"
               }
             }
+          },
+          {
+            "id": "c549ffb180241fa8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8bec1d755387a35",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,11 +172,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "6bfba7f74dd4f727",
+  "active": "c8bec1d755387a35",
   "lastOpenFiles": [
+    "smart-chats/UNTITLED CHAT 2024-08-29 03 23 19.md",
+    "smart-chats",
     "업무관련(SW validation)/Untitled.md",
     "업무관련(SW validation)/iPIS-500 장비 Training.md",
     "개인업무기록/개별인터뷰 모음.md",
@@ -201,11 +221,9 @@
     "업무관련(SW validation)",
     "이전 연구",
     "이전 연구/0529 학부 캡스톤 세미나.md",
-    "이전 연구/연구실 세미나.md",
     "업무관련(SW validation)",
     "Web-site 기획",
     "이전 연구/S-129/240430 UKCM PT11 screenshot",
-    "이전 연구/스마트수로과제",
-    "이전 연구/VDES 2내역"
+    "이전 연구/스마트수로과제"
   ]
 }
