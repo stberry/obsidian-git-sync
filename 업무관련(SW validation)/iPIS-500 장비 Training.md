@@ -52,16 +52,30 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
        → 각 vision software와 전환이 가능함 (vision-host switch 가능)
        → KVM switch를 사용하여 pc간 전환 (tap scroll lock * 2 rapidly then insert pc number (pc #1 : host pc, #2~6 : vision pc))
 
-<개별인터뷰(C/S 양창기 과장 (will be SE팀 on 21st, Oct))>
-- 장비가 있고 
+<장비 operation 이전 셋업>
+- Jig를 사용하여 camera calibration
+- 주기적으로 golden guide? 를 사용하여 focus나 calibration 작업 수행 (LTSM ?)
+- site별로 요구사항에 따라 offset 값 조정
+- package 별로 job parameter를 조정함, 이때 offset이나 job 
 
 <전반적인 handler의 동작(motor, tray 이동, tray 위치별 검사)>
 - empty tray에서 tray를 한장 가져서 IFM에 위치시킴 ==(cover tray)
 - loading tray에서 검사를 위한 tray를 가져감 ==(package tray)
 - IFM에서 cover tray를 package tray에 덮고 flip후 2d bottom으로 이동
-- 2d bottom 촬영
+- 2d bottom 촬영, indexer로 이동 후 3d bottom 촬영
+- TFM으로 이동
+- loading tray에서 reject1 tray로 이동
 - 
-- 
+
+<프로그램 다운 이슈>
+- language 탭 선택시 프로그램 die
+- +ROI 선택 후 -ROI
+
+<프로그램 사용 이슈>
+- UI 적으로 모든 정보가 표시되지 않아 알아보기 힘듬 (글씨가 잘림)
+- tray 세팅할때 가이드 그림이 옆에 있는 것은 좋음
+- 이미지가 표시 안되는 것? no images
+- ~~클릭하면 뭐가 잘 안됨~~
 
 <검사 결과화면 분석(vision software)>
 - (TBD)
