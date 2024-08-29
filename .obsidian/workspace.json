@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "개인업무기록/장비 납품 공정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bfba7f74dd4f727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인업무기록/SQA 목표.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "개인업무기록/SQA 목표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "개인업무기록/SQA 목표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md"
+                "file": "개인업무기록/SQA 목표.md"
               }
             }
           }
@@ -146,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd00657ae47adc89",
+  "active": "6bfba7f74dd4f727",
   "lastOpenFiles": [
-    "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23.md",
-    "업무관련(SW validation)/iPIS-500 장비 Training.md",
+    "개인업무기록/장비 납품 공정.md",
+    "개인업무기록/SQA 목표.md",
     "개인업무기록/퇴근일지 (업무기록).md",
+    "업무관련(SW validation)/iPIS-500 장비 Training.md",
+    "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23.md",
     "conflict-files-obsidian-git.md",
     "업무관련(SW validation)/0822 셋업테스트 관련 내부 회의.md",
     "업무관련(SW validation)/0821 SW 프로세스 회의.md",
@@ -160,7 +175,6 @@
     "업무관련(SW validation)/시뮬레이터/(설치) 비전 시뮬레이터.md",
     "screenshots/Pasted image 20240827180443.png",
     "screenshots/Pasted image 20240827180443 1.png",
-    "개인업무기록/장비 납품 공정.md",
     "업무관련(SW validation)/0826 1사업부 업무협의.md",
     "screenshots/Pasted image 20240826141727.png",
     "screenshots/Pasted image 20240826135820.png",
@@ -189,7 +203,6 @@
     "이전 연구/스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
     "업무관련(SW validation)",
     "이전 연구/스마트수로과제/0509 제품사양개발 side 미팅.md",
-    "이전 연구/스마트수로과제/스마트 수로과제 국제활동 관련.md",
     "Web-site 기획",
     "이전 연구/S-129/240430 UKCM PT11 screenshot",
     "이전 연구/스마트수로과제",
