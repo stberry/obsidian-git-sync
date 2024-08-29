@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +149,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f533fa13815dd060",
+  "active": "cd00657ae47adc89",
   "lastOpenFiles": [
     "개인업무기록/퇴근일지 (업무기록).md",
     "개인업무기록/SQA 목표.md",
