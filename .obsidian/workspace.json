@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "080e69f1e023cea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd00657ae47adc89",
+  "active": "080e69f1e023cea8",
   "lastOpenFiles": [
     "개인업무기록/퇴근일지 (업무기록).md",
+    "conflict-files-obsidian-git.md",
     "개인업무기록/SQA 목표.md",
     "개인업무기록/개별인터뷰 모음.md",
     "개인업무기록/장비 납품 공정.md",
@@ -159,7 +173,6 @@
     "업무관련(SW validation)/Untitled.md",
     "smart-chats",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23.md",
-    "conflict-files-obsidian-git.md",
     "업무관련(SW validation)/0822 셋업테스트 관련 내부 회의.md",
     "업무관련(SW validation)/0821 SW 프로세스 회의.md",
     "업무관련(SW validation)/시뮬레이터/(설치) 핸들러 시뮬레이터.md",
