@@ -59,13 +59,17 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - package 별로 job parameter를 조정함, 이때 offset이나 job 
 
 <전반적인 handler의 동작(motor, tray 이동, tray 위치별 검사)>
-- empty tray에서 tray를 한장 가져서 IFM에 위치시킴 ==(cover tray)
-- loading tray에서 검사를 위한 tray를 가져감 ==(package tray)
-- IFM에서 cover tray를 package tray에 덮고 flip후 2d bottom으로 이동
-- 2d bottom 촬영, indexer로 이동 후 3d bottom 촬영 (left top -> right bottom, horizontal)
-- TFM으로 이동, cover tray를 씌워 flip 후 top 촬영을 위해 이동
-- 2d top촬영, 3d top 촬영 (right bottom to left top, horizontal)
-- 
+1. empty tray에서 tray를 한장 가져서 IFM에 위치시킴 ==(cover tray)
+2. loading tray에서 검사를 위한 tray를 가져감 ==(package tray)
+3. IFM에서 cover tray를 package tray에 덮고 flip후 2d bottom으로 이동
+4. 2d bottom 촬영, indexer로 이동 후 3d bottom 촬영 (left top -> right bottom, horizontal)
+5. TFM으로 이동, cover tray를 씌워 flip 후 top 촬영을 위해 이동
+6. 2d top촬영, 3d top 촬영 (right bottom to left top, horizontal)
+7. 첫번째 package tray는 reject 1 tray로 분류
+8. loading tray에서 두번째 package tray를 가져다 검사
+
+> [!NOTE]
+> ==(※ 반복 lot 수행하면서 발견되는 이슈사항은 모두 기록)==
 
 <프로그램 다운 이슈>
 - language 탭 선택시 프로그램 die
