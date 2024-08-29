@@ -62,25 +62,25 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - empty tray에서 tray를 한장 가져서 IFM에 위치시킴 ==(cover tray)
 - loading tray에서 검사를 위한 tray를 가져감 ==(package tray)
 - IFM에서 cover tray를 package tray에 덮고 flip후 2d bottom으로 이동
-- 2d bottom 촬영, indexer로 이동 후 3d bottom 촬영
-- TFM으로 이동
-- loading tray에서 reject1 tray로 이동
+- 2d bottom 촬영, indexer로 이동 후 3d bottom 촬영 (left top -> right bottom, horizontal)
+- TFM으로 이동, cover tray를 씌워 flip 후 top 촬영을 위해 이동
+- 2d top촬영, 3d top 촬영 (right bottom to left top, horizontal)
 - 
 
 <프로그램 다운 이슈>
 - language 탭 선택시 프로그램 die
-- +ROI 선택 후 -ROI
+- +ROI 선택 후 -ROI선택했을때 응답없음 메시지, 프로그램 die
 
 <프로그램 사용 이슈>
 - UI 적으로 모든 정보가 표시되지 않아 알아보기 힘듬 (글씨가 잘림)
 - tray 세팅할때 가이드 그림이 옆에 있는 것은 좋음
 - 이미지가 표시 안되는 것? no images
-- ~~클릭하면 뭐가 잘 안됨~~
+- ~~클릭하면 뭐가 잘 안됨~~ (관리자 모드)
 
 <검사 결과화면 분석(vision software)>
 - (TBD)
 
-<요청사항>
+<향후 요청사항>
 - 빈 트레이보다는 sort하는 과정까지 같이 봐야할것같음
 - 결과 화면에 good/reject 분류가 어떤식으로 일어나는지 보는게 좋아보임
 - 셋업팀에서 관리하므로 셋업팀에 직접요청해야 할 수 있음
