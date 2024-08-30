@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md"
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "fb65df7d544b0774",
   "lastOpenFiles": [
+    "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
     "업무관련(SW validation)/시뮬레이터/(설치) 비전 시뮬레이터.md",
     "업무관련(SW validation)/시뮬레이터/(설치) 핸들러 시뮬레이터.md",
     "개인업무기록/퇴근일지 (업무기록).md",
@@ -162,7 +163,6 @@
     "개인업무기록/장비 납품 공정.md",
     "screenshots/Pasted image 20240827180443.png",
     "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
-    "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
     "업무관련(SW validation)/시뮬레이터",
     "업무관련(SW validation)/0826 내부회의.md",
     "업무관련(SW validation)/0826 1사업부 업무협의.md",

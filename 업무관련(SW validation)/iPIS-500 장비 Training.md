@@ -73,7 +73,7 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 
 <프로그램 다운 이슈>
 - language 탭 선택시 프로그램 die
-- +ROI 선택 후 -ROI선택했을때 응답없음 메시지, 프로그램 die
+- +ROI (Region of Interest) 선택 후 -ROI선택했을때 응답없음 메시지, 프로그램 die
 - (관리자모드-Intekplus) Setup탭 -> Regulator선택, 프로그램 die
 
 <프로그램 사용 이슈>
