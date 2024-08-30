@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인업무기록/품의서 작성.md",
+                "file": "개인업무기록/퇴근일지 (업무기록).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인업무기록/품의서 작성.md",
+                "file": "개인업무기록/퇴근일지 (업무기록).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인업무기록/품의서 작성.md",
+                "file": "개인업무기록/퇴근일지 (업무기록).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인업무기록/품의서 작성.md"
+                "file": "개인업무기록/퇴근일지 (업무기록).md"
               }
             }
           }
@@ -162,11 +162,11 @@
   },
   "active": "b671470029bedb4e",
   "lastOpenFiles": [
-    "개인업무기록/퇴근일지 (업무기록).md",
+    "개인업무기록/SQA 목표.md",
     "개인업무기록/품의서 작성.md",
+    "개인업무기록/퇴근일지 (업무기록).md",
     "개인업무기록/개별인터뷰 모음.md",
     "conflict-files-obsidian-git.md",
-    "개인업무기록/SQA 목표.md",
     "개인업무기록/장비 납품 공정.md",
     "smart-chats/UNTITLED CHAT 2024-08-29 03 23 19.md",
     "smart-chats/UNTITLED CHAT 2024-08-29 03 33 23.md",
