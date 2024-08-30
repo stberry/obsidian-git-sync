@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0fe634f5a495175d",
+        "id": "938b92cc2df87b47",
         "type": "tabs",
         "children": [
           {
-            "id": "cd00657ae47adc89",
+            "id": "fb65df7d544b0774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 262.5
   },
   "right": {
     "id": "afc0cf9f35abb4cd",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md"
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,61 +138,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cd00657ae47adc89",
+  "active": "fb65df7d544b0774",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "개인업무기록/퇴근일지 (업무기록).md",
     "개인업무기록/SQA 목표.md",
-    "개인업무기록/개별인터뷰 모음.md",
-    "개인업무기록/장비 납품 공정.md",
-    "smart-chats/UNTITLED CHAT 2024-08-29 03 23 19.md",
-    "smart-chats/UNTITLED CHAT 2024-08-29 03 33 23.md",
-    "업무관련(SW validation)/iPIS-500 장비 Training.md",
-    "업무관련(SW validation)/Untitled.md",
-    "smart-chats",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23.md",
-    "업무관련(SW validation)/0822 셋업테스트 관련 내부 회의.md",
-    "업무관련(SW validation)/0821 SW 프로세스 회의.md",
-    "업무관련(SW validation)/시뮬레이터/(설치) 핸들러 시뮬레이터.md",
+    "업무관련(SW validation)/iPIS-500 장비 Training.md",
+    "개인업무기록/개별인터뷰 모음.md",
+    "smart-chats/UNTITLED CHAT 2024-08-29 03 33 23.md",
+    "smart-chats/UNTITLED CHAT 2024-08-29 03 23 19.md",
+    "smart-chats",
+    "conflict-files-obsidian-git.md",
+    "개인업무기록/장비 납품 공정.md",
+    "screenshots/Pasted image 20240827180443.png",
     "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
     "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
+    "업무관련(SW validation)/시뮬레이터/(설치) 핸들러 시뮬레이터.md",
     "업무관련(SW validation)/시뮬레이터/(설치) 비전 시뮬레이터.md",
-    "screenshots/Pasted image 20240827180443.png",
-    "screenshots/Pasted image 20240827180443 1.png",
+    "업무관련(SW validation)/시뮬레이터",
+    "업무관련(SW validation)/0826 내부회의.md",
     "업무관련(SW validation)/0826 1사업부 업무협의.md",
     "screenshots/Pasted image 20240826141727.png",
     "screenshots/Pasted image 20240826135820.png",
-    "업무관련(SW validation)/시뮬레이터",
-    "screenshots/Pasted image 20240826133647.png",
     "screenshots/Pasted image 20240826134209.png",
-    "screenshots/Pasted image 20240826131859.png",
-    "screenshots",
+    "screenshots/Pasted image 20240826133647.png",
     "screenshots/Pasted image 20240826132524.png",
     "screenshots/Pasted image 20240826132452.png",
     "screenshots/Pasted image 20240826132426.png",
-    "업무관련(SW validation)/0826 내부회의.md",
-    "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
-    "업무관련(SW validation)/0821 내부회의.md",
-    "개인업무기록/(AI 문답) TR-Test request와 Test requirement의 차이.md",
+    "screenshots/Pasted image 20240826132140.png",
+    "screenshots/Pasted image 20240826132105.png",
+    "screenshots",
     "개인업무기록/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
-    "개인업무기록/입사 준비.md",
-    "개인업무기록/JIRA issue 등록.md",
-    "개인업무기록",
-    "README.md",
-    "인텍플러스/0823 셋업.md",
-    "업무관련(SW validation)",
+    "개인업무기록/(AI 문답) TR-Test request와 Test requirement의 차이.md",
+    "이전 연구/스마트수로과제/스마트 수로과제 국제활동 관련.md",
+    "이전 연구/스마트수로과제/MASS PT6 (Feb. 27 ~ 28).md",
+    "이전 연구/스마트수로과제/0510 인수인계 (수로과제 결과물은 9월까지).md",
+    "이전 연구/스마트수로과제/0509 제품사양개발 side 미팅.md",
+    "이전 연구/VDES 2내역/VDES 2내역.md",
+    "이전 연구/S-129/S-129 FC and XSD update.md",
+    "이전 연구/VDES 2내역/2차년도 연차보고서 작업.md",
+    "이전 연구/S-129/S-100 PS간 DCEG 분석.md",
+    "이전 연구/S-129/S-100 PS validation (supported by AI, LLM).md",
+    "이전 연구/S-129/240430 UKCM PT11 screenshot",
+    "이전 연구/스마트수로과제",
+    "이전 연구/VDES 2내역",
+    "이전 연구/S-129",
     "이전 연구",
     "업무관련(SW validation)",
-    "Web-site 기획",
-    "이전 연구/S-129/240430 UKCM PT11 screenshot",
-    "이전 연구/스마트수로과제"
+    "개인업무기록"
   ]
 }
