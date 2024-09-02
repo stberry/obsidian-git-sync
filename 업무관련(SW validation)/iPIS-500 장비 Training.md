@@ -83,7 +83,7 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - 이미지가 표시 안되는 것? no images
 - ~~클릭하면 뭐가 잘 안됨~~ (관리자 모드)
 
-<검사 대상 패키지(Manual)>
+<검사 대상 패키지(based on Manual)>
 - BGA (Ball Grid Array)
 	- 패키지에 달린 Ball의 상태를 측정하는 검사
 
