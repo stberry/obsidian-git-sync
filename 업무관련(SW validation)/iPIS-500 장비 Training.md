@@ -85,7 +85,15 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 
 <검사 대상 패키지(Manual)>
 - BGA (Ball Grid Array)
-	- 패키지에 달린 Ball의 
+	- 패키지에 달린 Ball의 상태를 측정하는 검사
+	- 검사항목
+
+- 검사항목 (inspection item)
+---
+
+| 2D                                                                                                       | 3D                             |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| - Ball offset X<br>- Ball offset Y<br>- Ball Width<br>- Ball Damage<br>- Ball Missing<br>- Ball Contrast | - Ball Height<br>- Coplanarity |
 
 <검사 결과화면 분석(vision software)> **※ 초안 기입 후 정확히 파악하여 문서화**
 - (TBD)
