@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인업무기록/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
+                "file": "개인업무기록/퇴근일지 (업무기록).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인업무기록/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
+                "file": "개인업무기록/퇴근일지 (업무기록).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인업무기록/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
+                "file": "개인업무기록/퇴근일지 (업무기록).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인업무기록/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md"
+                "file": "개인업무기록/퇴근일지 (업무기록).md"
               }
             }
           }
@@ -162,12 +162,13 @@
   },
   "active": "3ebd7ae61f4d1660",
   "lastOpenFiles": [
-    "개인업무기록/(AI 문답) TR-Test request와 Test requirement의 차이.md",
-    "개인업무기록/개별인터뷰 모음.md",
-    "개인업무기록/반도체(Semi-conductor) 기초.md",
     "개인업무기록/SQA 목표.md",
     "개인업무기록/품의서 작성.md",
+    "개인업무기록/반도체(Semi-conductor) 기초.md",
+    "개인업무기록/개별인터뷰 모음.md",
     "개인업무기록/퇴근일지 (업무기록).md",
+    "개인업무기록/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
+    "개인업무기록/(AI 문답) TR-Test request와 Test requirement의 차이.md",
     "conflict-files-obsidian-git.md",
     "개인업무기록/장비 납품 공정.md",
     "smart-chats/UNTITLED CHAT 2024-08-29 03 23 19.md",
@@ -198,7 +199,6 @@
     "업무관련(SW validation)/0826 내부회의.md",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
     "업무관련(SW validation)/0821 내부회의.md",
-    "개인업무기록/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
     "개인업무기록/입사 준비.md",
     "개인업무기록/JIRA issue 등록.md",
     "개인업무기록",
