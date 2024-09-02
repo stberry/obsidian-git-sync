@@ -12,7 +12,7 @@
 	- ==CI/CD - Jira Development Management에 대한 내용==
 	- ==Static test - how to install, guide==
 		- 오늘 저녁? 업데이트? 필요하면 내용 추가
-	- 우리는 솔루션 업체가 아님, 솔루션 부서로써 끊임없이 Brain-storming하고 Company managed
+	- 우리는 솔루션 업체가 아님, 솔루션 부서로써 협업을 유도하고 팀 내부에서 끊임없이 Brain-storming, Company managed
 	- 애자일 방법론 - Kanban vs. Scrum - 우리는 Kanban으로 간다.
 	- Jira로 Kanban을 하기엔 좀 약함 - 향후 Scrum으로 전환 가능성, 물론 Kanban이 좋은 방법론이므로 굳이 전환할 필요 없음
 	- 칸반보드에 대한 workflow (예시를 개발자에게 보여주고 guide)
