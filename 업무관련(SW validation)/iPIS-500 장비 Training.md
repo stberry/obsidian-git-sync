@@ -84,7 +84,8 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - ~~클릭하면 뭐가 잘 안됨~~ (관리자 모드)
 
 <검사 대상 패키지(Manual)>
-- BGA
+- BGA (Ball Grid Array)
+	- 
 
 <검사 결과화면 분석(vision software)> **※ 초안 기입 후 정확히 파악하여 문서화**
 - (TBD)
