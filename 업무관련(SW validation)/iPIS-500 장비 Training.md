@@ -83,6 +83,9 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - 이미지가 표시 안되는 것? no images
 - ~~클릭하면 뭐가 잘 안됨~~ (관리자 모드)
 
+<검사 대상 패키지(Manual)>
+- BGA
+
 <검사 결과화면 분석(vision software)> **※ 초안 기입 후 정확히 파악하여 문서화**
 - (TBD)
 - Vision software는 2D / 3D 비전 사용전에 Jig를 이용하여 초기 값을 장비에 Teaching 한다. 향후 Site에서 사용시 패키지 스펙과 요구사항에 따라 offset값을 조정한다.
