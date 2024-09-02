@@ -89,9 +89,24 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 
 - 검사항목 (inspection item)
 
-| 2D                                                                                                       | 3D                             |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| - Ball offset X<br>- Ball offset Y<br>- Ball Width<br>- Ball Damage<br>- Ball Missing<br>- Ball Contrast | - Ball Height<br>- Coplanarity |
+| 2D                                                                                                       | 3D                             | Surface                      |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------------------- |
+| - Ball offset X<br>- Ball offset Y<br>- Ball Width<br>- Ball Damage<br>- Ball Missing<br>- Ball Contrast | - Ball Height<br>- Coplanarity | - Customized Inspection Item |
+- 2D
+	- Ball Dimention Item (Ball Width, Offset X, Y, R)
+		- align이 완료된 좌표의 Width 값과 촬영 데이터 값의 데이터를 비교
+	- Ball Grid offset
+		- Ball offset과 다르게 Ball들의 Pitch값은 Spec과 차이가 없으나 전체적인 Ball의 위치가 실장되어야 할 위치에서 벗어났는지 offset X, Y를 측정
+	- Ball  Quality (Ball Damage)
+		- Ball의 손상정도를 측정함
+		- Normal Method / Ring Thickness Method
+	- Ball Missing
+		- 현재 제공되고 있는 모델의 Ball 개수와 실제 Ball의 개수 차이를 검사함
+	- Ball Contrast
+		- 볼 전체의 Gray Value의 평균값의 차, 즉, 촬영 데이터에서 Ball의 밝기를 측정
+- 3D
+	- 
+
 
 <검사 결과화면 분석(vision software)> **※ 초안 기입 후 정확히 파악하여 문서화**
 - (TBD)
