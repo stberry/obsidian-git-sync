@@ -105,7 +105,14 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 	- Ball Contrast
 		- 볼 전체의 Gray Value의 평균값의 차, 즉, 촬영 데이터에서 Ball의 밝기를 측정
 - 3D
-	- 
+	- Ball height
+		- 바닥에서 Ball 상단까지의 수직거리
+		- 휨(Warpage)이 있을때와 없을때로 구분
+		- iPIS-500에서는 주변 바닥면과 Ball의 높이를 이용하여 정확한 Ball의 높이를 측정함
+	- Ball Coplanarity (Ball의 등평면도)
+		- 평평한 바닥면에 위치한 Ball이 같은 높이를 이루고 있는지를 측정
+	- Warpage (휨)
+		- 바닥면의 휘어짐 정도 측정
 
 
 <검사 결과화면 분석(vision software)> **※ 초안 기입 후 정확히 파악하여 문서화**
