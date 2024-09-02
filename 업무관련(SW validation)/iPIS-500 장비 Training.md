@@ -111,8 +111,10 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 		- iPIS-500에서는 주변 바닥면과 Ball의 높이를 이용하여 정확한 Ball의 높이를 측정함
 	- Ball Coplanarity (Ball의 등평면도)
 		- 평평한 바닥면에 위치한 Ball이 같은 높이를 이루고 있는지를 측정
+		- LMS Plane으로 reference plane을 구하여 global plane으로 만든 후 오차값을 이용해 Coplanarity를 계산
 	- Warpage (휨)
 		- 바닥면의 휘어짐 정도 측정
+		- LMS Plane으로 reference plane을 구하여 global plane으로 만든 후 오차값을 이용해 Warpage를 계산
 
 
 <검사 결과화면 분석(vision software)> **※ 초안 기입 후 정확히 파악하여 문서화**
