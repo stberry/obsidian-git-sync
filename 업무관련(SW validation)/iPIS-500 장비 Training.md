@@ -85,7 +85,7 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 
 <검사 대상 패키지(Manual)>
 - BGA (Ball Grid Array)
-	- 
+	- 패키지에 달린 Ball의 
 
 <검사 결과화면 분석(vision software)> **※ 초안 기입 후 정확히 파악하여 문서화**
 - (TBD)
