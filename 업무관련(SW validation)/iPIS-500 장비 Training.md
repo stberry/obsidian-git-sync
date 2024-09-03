@@ -60,11 +60,13 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 <_Handler Teaching>
 ![[Pasted image 20240903103031.png]]
 - Handler teaching : 핸들러에서 각 모터의 위치를 파악하고 각 모터의 속도, 위치에 대한 초기설정 값을 지정할 수 있다.
-- LFE : Loding Front Elevator
+- IFM (Input Flipper Module)
+- LFE (Loding Front Elevator) : 검사를 위한 package tray를 적재하고 운반
+- 
 
 <전반적인 handler의 동작(motor, tray 이동, tray 위치별 검사)>
-1. empty tray에서 tray를 한장 가져가서 IFM에 위치시킴 ==(cover tray)
-2. emplty tray에서 tray를 한장 가져가서 대기시킴 ==(for reject tray?)
+1. empty tray에서 tray를 한 장 가져가서 IFM에 위치시킴 ==(cover tray)
+2. emplty tray에서 tray를 한 장 가져가서 대기시킴 ==(for reject tray?)
 3. loading tray에서 검사를 위한 tray를 가져감 ==(package tray)
 4. IFM에서 cover tray를 package tray에 덮고 flip후 2d bottom으로 이동
 5. 2d bottom 촬영, indexer로 이동 후 3d bottom 촬영 (left top -> right bottom, horizontal)
