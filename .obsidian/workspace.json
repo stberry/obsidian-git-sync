@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "개인업무기록/퇴근일지 (업무기록).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "개인업무기록/퇴근일지 (업무기록).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md"
+                "file": "개인업무기록/퇴근일지 (업무기록).md"
               }
             }
           }
@@ -184,10 +184,11 @@
       }
     ]
   },
-  "active": "495a33b7b2fc39c3",
+  "active": "065cc061d5083b6b",
   "lastOpenFiles": [
-    "개인업무기록/퇴근일지 (업무기록).md",
     "업무관련(SW validation)/iPIS-500 장비 Training.md",
+    "screenshots/Pasted image 20240903103031.png",
+    "개인업무기록/퇴근일지 (업무기록).md",
     "개인업무기록/SQA 목표.md",
     "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
     "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
@@ -219,7 +220,6 @@
     "screenshots",
     "screenshots/Pasted image 20240826132524.png",
     "screenshots/Pasted image 20240826132452.png",
-    "screenshots/Pasted image 20240826132426.png",
     "업무관련(SW validation)/0826 내부회의.md",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
     "업무관련(SW validation)/0821 내부회의.md",
