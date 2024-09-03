@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md"
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md"
               }
             }
           }
@@ -147,10 +147,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67015eae76318bc3",
+  "floating": {
+    "id": "a6906a5bcacd47a3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7f5c454e2c1bbf32",
+        "type": "window",
+        "children": [
+          {
+            "id": "d406c44cc69b35de",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "495a33b7b2fc39c3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "495a33b7b2fc39c3",
   "lastOpenFiles": [
-    "업무관련(SW validation)/iPIS-500 장비 Training.md",
     "개인업무기록/퇴근일지 (업무기록).md",
+    "업무관련(SW validation)/iPIS-500 장비 Training.md",
     "개인업무기록/SQA 목표.md",
     "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
     "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",

@@ -55,7 +55,10 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - Jig를 사용하여 camera calibration
 - 주기적으로 golden guide? 를 사용하여 focus나 calibration 작업 수행 (LTSM ?)
 - site별로 요구사항에 따라 offset 값 조정
-- package 별로 job parameter를 조정함, 이때 offset이나 job 
+- package 별로 job parameter를 조정함, 이때 offset이나 job teaching 수행
+
+<_Job Teaching>
+- 
 
 <전반적인 handler의 동작(motor, tray 이동, tray 위치별 검사)>
 1. empty tray에서 tray를 한장 가져가서 IFM에 위치시킴 ==(cover tray)
