@@ -57,9 +57,10 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - site별로 요구사항에 따라 offset 값 조정
 - package 별로 job parameter를 조정함, 이때 offset이나 job teaching 수행
 
-<_Job Teaching>
+<_Handler Teaching>
 ![[Pasted image 20240903103031.png]]
-- hanler
+- Handler teaching : 핸들러에서 각 모터의 위치를 파악하고 각 모터의 속도, 위치에 대한 초기설정 값을 지정할 수 있다.
+- LFE : Loding Front Elevator
 
 <전반적인 handler의 동작(motor, tray 이동, tray 위치별 검사)>
 1. empty tray에서 tray를 한장 가져가서 IFM에 위치시킴 ==(cover tray)
