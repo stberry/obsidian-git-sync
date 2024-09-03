@@ -53,7 +53,7 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 
 <장비 operation 이전 셋업>
 - Jig를 사용하여 camera calibration
-- 주기적으로 golden guide? 를 사용하여 focus나 calibration 작업 수행 (LTSM ?)
+- 주기적으로 golden device 를 사용하여 focus나 calibration 작업 수행 (LTSM ?)
 - site별로 요구사항에 따라 offset 값 조정
 - package 별로 job parameter를 조정함, 이때 offset이나 job teaching 수행
 
@@ -87,7 +87,7 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - UI 적으로 모든 정보가 표시되지 않아 알아보기 힘듬 (글씨가 잘림)
   → 제어장비라 예쁘진 않더라도 기본사용성 정도는 챙겨야 하지 않을까 생각됨
 - tray 세팅할때 가이드 그림이 옆에 있는 것은 좋음
-- 이미지가 표시 안되는 것? no images
+- 이미지가 표시 안되는 것? no images (Handler teaching - Motor monitoring window)
 - ~~클릭하면 뭐가 잘 안됨~~ (관리자 모드)
 
 <검사 대상 패키지(based on Manual)>
