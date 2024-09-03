@@ -129,9 +129,9 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - Vision software는 2D / 3D 비전 사용전에 Jig를 이용하여 초기 값을 장비에 Teaching 한다. 향후 Site에서 사용시 패키지 스펙과 요구사항에 따라 offset값을 조정한다.
 - Access level - admin, Job teaching
 - 동축, 사축, vision
-- vision 검사 process
+- vision 검사 process (2D bottom → 3D bottom --(TFM)→ 2D Top → 3D Top → (optional) Side)
 - 표준화된 측량값을 일정하게 유지하기 위해 일정주기로 offset값 calibration (LTSM?)
-- 채널별 값 조정, iPIS-500의 경우 R채널 값을 설정하면 G, B채널의 값이 자동으로 계산되어 추천값을 알려줌(?)
+- Vision Tuning : 채널별 값 조정, iPIS-500의 경우 R채널 값을 설정하면 G, B채널의 값이 자동으로 계산되어 추천값을 알려줌(?)
 - 매뉴얼 보고 보완
 
 <향후 보완사항>
