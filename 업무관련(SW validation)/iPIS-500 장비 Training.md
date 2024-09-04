@@ -145,3 +145,4 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - 결과 화면에 good/reject 분류가 어떤식으로 일어나는지 보는게 중요함
 	- 총 40 unit ? Good : x개 | Reject : y개
 - 셋업팀에서 관리하므로 셋업팀에 요청해야 함 (셋업팀 김도경 대리)
+- 아진 보드?
