@@ -12,6 +12,9 @@
 
 0827 장비설명 (정리 후 confluence 페이지, 시뮬레이터 설치, 실행은 confluence 매뉴얼 페이지 업데이트)
 - 오전 11시 ~, 장소 : A동 공장
+- 장비는 검사대상과 검사방식에 따라 나뉘며 주 납품 모델은 iPIS-340, 380 쪽
+	- 240, 240TR, 340, 340FX, ........, 380, 380HX 등 다수
+	- 
 - 빈 트레이가지고 테스트 (대상 receipe : KBLG_31X58.5-V10-TRAYSTITCH)
   ![[Pasted image 20240827180443.png]]
 - iPIS-500 GANTRY - 기존 iPIS-500 장비에 GANTRY 설비를 덧붙인 장비로 CART에 패키지 트레이를 담아 일괄검사를 지원
@@ -53,19 +56,26 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 
 <장비 operation 이전 셋업>
 - Jig를 사용하여 camera calibration
-- 주기적으로 golden guide? 를 사용하여 focus나 calibration 작업 수행 (LTSM ?)
+- 주기적으로 golden device 를 사용하여 focus나 calibration 작업 수행 (LTSM ?)
 - site별로 요구사항에 따라 offset 값 조정
-- package 별로 job parameter를 조정함, 이때 offset이나 job 
+- package 별로 job parameter를 조정함, 이때 offset이나 job teaching 수행
+
+<_Handler Teaching>
+![[Pasted image 20240903103031.png]]
+- Handler teaching : 핸들러에서 각 모터의 위치를 파악하고 각 모터의 속도, 위치에 대한 초기설정 값을 지정할 수 있다.
+- IFM (Input Flipper Module)
+- LFE (Loding Front Elevator) : 검사를 위한 package tray를 적재하고 운반
+- 
 
 <전반적인 handler의 동작(motor, tray 이동, tray 위치별 검사)>
-1. empty tray에서 tray를 한장 가져가서 IFM에 위치시킴 ==(cover tray)
-2. emplty tray에서 tray를 한장 가져가서 대기시킴 ==(for reject tray?)
+1. empty tray에서 tray를 한 장 가져가서 IFM에 위치시킴 ==(cover tray)
+2. emplty tray에서 tray를 한 장 가져가서 대기시킴 ==(for reject tray?)
 3. loading tray에서 검사를 위한 tray를 가져감 ==(package tray)
 4. IFM에서 cover tray를 package tray에 덮고 flip후 2d bottom으로 이동
 5. 2d bottom 촬영, indexer로 이동 후 3d bottom 촬영 (left top -> right bottom, horizontal)
 6. TFM으로 이동, cover tray를 씌워 flip 후 top 촬영을 위해 이동
 7. 2d top촬영, 3d top 촬영 (right bottom to left top, horizontal)
-8. 첫번째 package tray는 reject 1 tray로 분류 **(추가검증 필요)
+8. 첫번째 package tray는 reject 1 tray로 분류 **(추가검증 필요, 0906~)
 9. loading tray에서 두번째 package tray를 가져다 검사
 
 > [!NOTE]
@@ -80,20 +90,59 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - UI 적으로 모든 정보가 표시되지 않아 알아보기 힘듬 (글씨가 잘림)
   → 제어장비라 예쁘진 않더라도 기본사용성 정도는 챙겨야 하지 않을까 생각됨
 - tray 세팅할때 가이드 그림이 옆에 있는 것은 좋음
-- 이미지가 표시 안되는 것? no images
+- 이미지가 표시 안되는 것? no images (Handler teaching - Motor monitoring window)
 - ~~클릭하면 뭐가 잘 안됨~~ (관리자 모드)
+
+<검사 대상 패키지(based on Manual)>
+- BGA (Ball Grid Array)
+	- 패키지에 달린 Ball의 상태를 측정하는 검사
+
+- 검사항목 (inspection item)
+
+| 2D                                                                                                                        | 3D                             | Surface                      |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------------------- |
+| - Ball offset X<br>- Ball offset Y<br>- Ball Width<br>- Ball Damage<br>- Ball Missing<br>- Ball Contrast<br>- Ball Bridge | - Ball Height<br>- Coplanarity | - Customized Inspection Item |
+- 2D
+	- Ball Dimention Item (Ball Width, Offset X, Y, R)
+		- align이 완료된 좌표의 Width 값과 촬영 데이터 값의 데이터를 비교
+	- Ball Grid offset
+		- Ball offset과 다르게 Ball들의 Pitch값은 Spec과 차이가 없으나 전체적인 Ball의 위치가 실장되어야 할 위치에서 벗어났는지 offset X, Y를 측정
+	- Ball  Quality (Ball Damage)
+		- Ball의 손상정도를 측정함
+		- Normal Method / Ring Thickness Method
+	- Ball Missing
+		- 현재 제공되고 있는 모델의 Ball 개수와 실제 Ball의 개수 차이를 검사함
+	- Ball Contrast
+		- 볼 전체의 Gray Value의 평균값의 차, 즉, 촬영 데이터에서 Ball의 밝기를 측정
+	- Ball Bridge
+		- Ball 주변에 이물질이 생겨 Ball과 Ball사이가 다리처럼 이어지는 형태를 검사
+- 3D
+	- Ball height
+		- 바닥에서 Ball 상단까지의 수직거리
+		- 휨(Warpage)이 있을때와 없을때로 구분
+		- iPIS-500에서는 주변 바닥면과 Ball의 높이를 이용하여 정확한 Ball의 높이를 측정함
+	- Ball Coplanarity (Ball의 등평면도)
+		- 평평한 바닥면에 위치한 Ball이 같은 높이를 이루고 있는지를 측정
+		- LMS Plane으로 reference plane을 구하여 global plane으로 만든 후 오차값을 이용해 Coplanarity를 계산
+	- Warpage (휨)
+		- 바닥면의 휘어짐 정도 측정
+		- LMS Plane으로 reference plane을 구하여 global plane으로 만든 후 오차값을 이용해 Warpage를 계산
+
 
 <검사 결과화면 분석(vision software)> **※ 초안 기입 후 정확히 파악하여 문서화**
 - (TBD)
 - Vision software는 2D / 3D 비전 사용전에 Jig를 이용하여 초기 값을 장비에 Teaching 한다. 향후 Site에서 사용시 패키지 스펙과 요구사항에 따라 offset값을 조정한다.
 - Access level - admin, Job teaching
 - 동축, 사축, vision
-- vision 검사 process
+- vision 검사 process (2D bottom → 3D bottom --(TFM)→ 2D Top → 3D Top → (optional) Side)
 - 표준화된 측량값을 일정하게 유지하기 위해 일정주기로 offset값 calibration (LTSM?)
-- 채널별 값 조정, iPIS-500의 경우 R채널 값을 설정하면 G, B채널의 값이 자동으로 계산되어 추천값을 알려줌(?)
+- Vision Tuning : 채널별 값 조정, iPIS-500의 경우 R채널 값을 설정하면 G, B채널의 값이 자동으로 계산되어 추천값을 알려줌(?)
 - 매뉴얼 보고 보완
 
 <향후 보완사항>
-- 빈 트레이보다는 sort하는 과정까지 같이 보면서, sorter가 어떻게 동작하는지 파악이 필요함    
+- 빈 트레이보다는 sort하는 과정까지 같이 보면서, sorter가 어떻게 동작하는지 파악이 필요함
+	- 더미패키지 대여 완료, (SKXXCC56.5X72, PICKER 2개(42X42), 패키지 10tray, 빈트레이 6tray)
 - 결과 화면에 good/reject 분류가 어떤식으로 일어나는지 보는게 중요함
-- 셋업팀에서 관리하므로 셋업팀에 요청해야 함
+	- 총 40 unit ? Good : x개 | Reject : y개
+- 셋업팀에서 관리하므로 셋업팀에 요청해야 함 (셋업팀 김도경 대리)
+- 아진 보드?
