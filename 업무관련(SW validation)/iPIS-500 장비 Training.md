@@ -96,9 +96,9 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 
 - 검사항목 (inspection item)
 
-| 2D                                                                                                       | 3D                             | Surface                      |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------------------- |
-| - Ball offset X<br>- Ball offset Y<br>- Ball Width<br>- Ball Damage<br>- Ball Missing<br>- Ball Contrast | - Ball Height<br>- Coplanarity | - Customized Inspection Item |
+| 2D                                                                                                                        | 3D                             | Surface                      |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------------------- |
+| - Ball offset X<br>- Ball offset Y<br>- Ball Width<br>- Ball Damage<br>- Ball Missing<br>- Ball Contrast<br>- Ball Bridge | - Ball Height<br>- Coplanarity | - Customized Inspection Item |
 - 2D
 	- Ball Dimention Item (Ball Width, Offset X, Y, R)
 		- align이 완료된 좌표의 Width 값과 촬영 데이터 값의 데이터를 비교
@@ -111,6 +111,8 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 		- 현재 제공되고 있는 모델의 Ball 개수와 실제 Ball의 개수 차이를 검사함
 	- Ball Contrast
 		- 볼 전체의 Gray Value의 평균값의 차, 즉, 촬영 데이터에서 Ball의 밝기를 측정
+	- Ball Bridge
+		- Ball 주변에 이물질이 생겨 Ball과 Ball사이가 다리처럼 이어지는 형태를 검사
 - 3D
 	- Ball height
 		- 바닥에서 Ball 상단까지의 수직거리
