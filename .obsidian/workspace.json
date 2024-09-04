@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md",
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인업무기록/퇴근일지 (업무기록).md"
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "67015eae76318bc3",
   "lastOpenFiles": [
-    "개인업무기록/품의서 작성.md",
-    "업무관련(SW validation)/iPIS-500 장비 Training.md",
     "개인업무기록/퇴근일지 (업무기록).md",
+    "업무관련(SW validation)/iPIS-500 장비 Training.md",
+    "개인업무기록/품의서 작성.md",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23.md",
     "업무관련(SW validation)/0902 내부미팅 (Monday's breifing).md",
     "업무관련(SW validation)/0826 내부회의.md",
