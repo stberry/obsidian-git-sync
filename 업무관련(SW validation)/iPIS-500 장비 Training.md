@@ -75,7 +75,7 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 5. 2d bottom 촬영, 3d bottom 촬영 (left top -> right bottom, horizontal)
 6. TFM으로 이동, cover tray를 씌워 flip 후 top 촬영을 위해 이동
 7. 2d top촬영, 3d top 촬영 (right bottom to left top, horizontal)
-8. reject tray, buffer tray, good tray를 분류, reject에는 불량만, good에는 양품만 모으는 작업, 그 사이에 buffer를 사용하여 임시로 저장
+8. reject tray, buffer tray, good tray를 분류, reject에는 불량만, good에는 양품만 모으는 작업, 그 사이에 buffer를 사용하여 임시로 저장, reject에 불량이 꽉 차면 배출, good에 양품이 꽉차면 배출, 두 칸 모두 아직 배출 이전이라면 새로운 burffer 추가
 9. 
 10. loading tray에서 두번째 package tray를 가져다 검사
 
