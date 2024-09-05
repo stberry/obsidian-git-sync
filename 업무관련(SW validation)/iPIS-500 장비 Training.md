@@ -92,6 +92,7 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - tray 세팅할때 가이드 그림이 옆에 있는 것은 좋음
 - 이미지가 표시 안되는 것? no images (Handler teaching - Motor monitoring window)
 - ~~클릭하면 뭐가 잘 안됨~~ (관리자 모드)
+- Job open이후 Job을 바꾸려고 했을때 에러코드 발생
 
 <검사 대상 패키지(based on Manual)>
 - BGA (Ball Grid Array)
