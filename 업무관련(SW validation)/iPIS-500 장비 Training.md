@@ -67,8 +67,8 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - LFE (Loding Front Elevator) : 검사를 위한 package tray를 적재하고 운반
 - 
 
-<전반적인 handler의 동작(motor, tray 이동, tray 위치별 검사)>
-1. Empty Tray Input: 초기 empty tray에서 tray를 한 장 가져가서 IFM에 위치시킴 ==(cover tray)
+<_Inspection flow>
+1. Empty Tray Input: 초기 empty tray에서 tray를 한 장 가져가서 IFM의 top에 위치시킴 ==(cover tray 역할)
 2. emplty tray에서 tray를 한 장 가져가서 대기시킴 ==(for reject tray?)
 3. loading tray에서 검사를 위한 tray를 가져감 ==(package tray)
 4. IFM에서 cover tray를 package tray에 덮고 flip후 2d bottom으로 이동
