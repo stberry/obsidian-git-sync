@@ -75,8 +75,9 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 5. 2d bottom 촬영, 3d bottom 촬영 (left top -> right bottom, horizontal)
 6. TFM으로 이동, cover tray를 씌워 flip 후 top 촬영을 위해 이동
 7. 2d top촬영, 3d top 촬영 (right bottom to left top, horizontal)
-8. 첫번째 package tray는 reject 1 tray로 분류 **(추가검증 필요, 0906~)
-9. loading tray에서 두번째 package tray를 가져다 검사
+8. reject tray, buffer tray, good tray를 분류, reject에는 불량만, good에는 양품만 모으는 작업, 그 사이에 buffer를 사용하여 임시로 저장
+9. 
+10. loading tray에서 두번째 package tray를 가져다 검사
 
 > [!NOTE]
 > ==(※ 반복 lot 수행하면서 발견되는 이슈사항은 모두 기록)==
