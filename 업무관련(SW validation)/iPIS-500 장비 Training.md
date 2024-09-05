@@ -72,7 +72,7 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 2. TFM(Tray Flipper Module): emplty tray에서 tray를 한 장 가져가서 대기시킴 (empty rail -> loader rail)
 3. loading tray에서 검사를 위한 tray를 가져감 ==(package tray)
 4. IFM에서 cover tray를 package tray에 덮고 flip후 2d bottom으로 이동
-5. 2d bottom 촬영, indexer로 이동 후 3d bottom 촬영 (left top -> right bottom, horizontal)
+5. 2d bottom 촬영, 3d bottom 촬영 (left top -> right bottom, horizontal)
 6. TFM으로 이동, cover tray를 씌워 flip 후 top 촬영을 위해 이동
 7. 2d top촬영, 3d top 촬영 (right bottom to left top, horizontal)
 8. 첫번째 package tray는 reject 1 tray로 분류 **(추가검증 필요, 0906~)
