@@ -78,7 +78,8 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 7. TFM으로 이동, cover tray를 씌워 flip 후 top 촬영을 위해 이동
 8. 2d top촬영, 3d top 촬영 (right bottom to left top, horizontal)
 9. (optional) Side inspection: Side camera 촬영 (상하2면 촬영 후 rotate하여 좌우2면 촬영)
-10. **Sorting:** reject tray, buffer tray, good tray를 분류, reject에는 불량만, good에는 양품만 모으는 작업, 그 사이에 buffer를 사용하여 임시로 저장, Tray에 reject or good이 꽉차면 배출, 두 칸 모두 아직 배출 이전이라면 새로운 burffer 추가 ==(※여기서 sorter 중 hold 발생, 이유 파악)==
+10. **Sorting:** reject tray, buffer tray, good tray를 분류, reject에는 불량만, good에는 양품만 모으는 작업, 그 사이에 buffer를 사용하여 임시로 저장
+11. **Tray unloading:** Tray에 reject or good이 꽉차면 배출, 두 칸 모두 아직 배출 이전이라면 새로운 burffer 추가 ==(※여기서 sorter 중 hold 발생, 이유 파악)==
 
 > [!NOTE]
 > ==(※ 반복 lot 수행하면서 발견되는 이슈사항은 모두 기록)==
