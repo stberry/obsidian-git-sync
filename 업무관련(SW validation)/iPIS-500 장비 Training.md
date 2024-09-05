@@ -69,7 +69,7 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 
 <_Inspection flow>
 1. Empty Tray Input: 초기 empty tray에서 tray를 한 장 가져가서 IFM의 top에 위치시킴 ==(cover tray 역할)
-2. emplty tray에서 tray를 한 장 가져가서 대기시킴 ==(for reject tray?)
+2. TFM(Tray Flipper Module): emplty tray에서 tray를 한 장 가져가서 대기시킴 (empty rail -> loader rail)
 3. loading tray에서 검사를 위한 tray를 가져감 ==(package tray)
 4. IFM에서 cover tray를 package tray에 덮고 flip후 2d bottom으로 이동
 5. 2d bottom 촬영, indexer로 이동 후 3d bottom 촬영 (left top -> right bottom, horizontal)
