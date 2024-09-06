@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "업무관련(SW validation)/iPIS-500 장비training/iPIS-500 장비 Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "업무관련(SW validation)/iPIS-500 장비training/iPIS-500 장비 Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "file": "업무관련(SW validation)/iPIS-500 장비training/iPIS-500 장비 Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md"
+                "file": "업무관련(SW validation)/iPIS-500 장비training/iPIS-500 장비 Training.md"
               }
             }
           }
@@ -149,51 +149,51 @@
   },
   "active": "370a48134c826b3b",
   "lastOpenFiles": [
+    "업무관련(SW validation)/minutes/0821 내부회의.md",
+    "업무관련(SW validation)/iPIS-380hx 장비training",
+    "업무관련(SW validation)/Untitled.md",
+    "업무관련(SW validation)/minutes",
+    "업무관련(SW validation)/iPIS-500 장비training/iPIS-500 장비 Training.md",
+    "업무관련(SW validation)/iPIS-500 장비training",
     "screenshots/Pasted image 20240906143533.png.~tmp",
     "screenshots/Pasted image 20240906143533.png",
     "screenshots/Pasted image 20240906143353.png.~tmp",
     "screenshots/Pasted image 20240906143353.png",
     "screenshots/Pasted image 20240827180443.png",
-    "업무관련(SW validation)/iPIS-500 장비 Training.md",
     "screenshots/Pasted image 20240827180443.png.~tmp",
     "screenshots/Pasted image 20240903103031.png",
-    "개인업무기록/퇴근일지 (업무기록).md",
-    "업무관련(SW validation)/0902 내부미팅 (Monday's breifing).md",
-    "업무관련(SW validation)/0905 형상관리 업무협의.md",
-    "개인업무기록/품의서 작성.md",
-    "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23.md",
-    "업무관련(SW validation)/0826 내부회의.md",
-    "개인업무기록/SQA 목표 - TMMI (Level 2, potentially Leve; ).md",
-    "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
-    "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
-    "개인업무기록/반도체(Semi-conductor) 기초.md",
-    "개인업무기록/개별인터뷰 모음.md",
-    "개인업무기록/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
-    "개인업무기록/(AI 문답) TR-Test request와 Test requirement의 차이.md",
+    "업무관련 개인폴더/퇴근일지 (업무기록).md",
+    "업무관련(SW validation)/minutes/0902 내부미팅 (Monday's breifing).md",
+    "업무관련(SW validation)/minutes/0905 형상관리 업무협의.md",
+    "업무관련 개인폴더/품의서 작성.md",
+    "업무관련(SW validation)/iPIS-380hx 장비training/셋업테스트(iPIS-380hx 장비) - 08.23.md",
+    "업무관련(SW validation)/minutes/0826 내부회의.md",
+    "업무관련 개인폴더/SQA 목표 - TMMI (Level 2, potentially Leve; ).md",
+    "업무관련(SW validation)/시뮬레이터training/비전 시뮬레이터 동작.md",
+    "업무관련(SW validation)/시뮬레이터training/핸들러 시뮬레이터 작동.md",
+    "업무관련 개인폴더/반도체(Semi-conductor) 기초.md",
+    "업무관련 개인폴더/개별인터뷰 모음.md",
+    "업무관련 개인폴더/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
+    "업무관련 개인폴더/(AI 문답) TR-Test request와 Test requirement의 차이.md",
     "conflict-files-obsidian-git.md",
     "개인업무기록/장비 납품 공정.md",
     "smart-chats/UNTITLED CHAT 2024-08-29 03 23 19.md",
     "smart-chats/UNTITLED CHAT 2024-08-29 03 33 23.md",
     "smart-chats",
-    "업무관련(SW validation)/0822 셋업테스트 관련 내부 회의.md",
-    "업무관련(SW validation)/0821 SW 프로세스 회의.md",
-    "업무관련(SW validation)/시뮬레이터/(설치) 핸들러 시뮬레이터.md",
-    "업무관련(SW validation)/시뮬레이터/(설치) 비전 시뮬레이터.md",
+    "업무관련(SW validation)/minutes/0822 셋업테스트 관련 내부 회의.md",
+    "업무관련(SW validation)/minutes/0821 SW 프로세스 회의.md",
+    "업무관련(SW validation)/시뮬레이터training/(설치) 핸들러 시뮬레이터.md",
+    "업무관련(SW validation)/시뮬레이터training/(설치) 비전 시뮬레이터.md",
     "screenshots/Pasted image 20240827180443 1.png",
-    "업무관련(SW validation)/0826 1사업부 업무협의.md",
+    "업무관련(SW validation)/minutes/0826 1사업부 업무협의.md",
     "screenshots/Pasted image 20240826141727.png",
     "screenshots/Pasted image 20240826135820.png",
-    "업무관련(SW validation)/시뮬레이터",
+    "업무관련(SW validation)/시뮬레이터training",
     "screenshots/Pasted image 20240826133647.png",
     "screenshots/Pasted image 20240826134209.png",
     "screenshots/Pasted image 20240826131859.png",
     "screenshots",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
-    "업무관련(SW validation)/0821 내부회의.md",
-    "개인업무기록",
-    "업무관련(SW validation)",
-    "이전 연구",
-    "업무관련(SW validation)",
-    "Web-site 기획"
+    "업무관련 개인폴더"
   ]
 }
