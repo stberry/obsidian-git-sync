@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0c06af6cae6bbd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "업무관련(SW validation)/iPIS-500 장비 Training.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67015eae76318bc3",
+  "active": "e0c06af6cae6bbd7",
   "lastOpenFiles": [
-    "개인업무기록/퇴근일지 (업무기록).md",
+    "screenshots/Pasted image 20240903103031.png",
     "업무관련(SW validation)/iPIS-500 장비 Training.md",
+    "개인업무기록/퇴근일지 (업무기록).md",
     "업무관련(SW validation)/0902 내부미팅 (Monday's breifing).md",
     "업무관련(SW validation)/0905 형상관리 업무협의.md",
     "개인업무기록/품의서 작성.md",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23.md",
     "업무관련(SW validation)/0826 내부회의.md",
     "개인업무기록/SQA 목표 - TMMI (Level 2, potentially Leve; ).md",
-    "screenshots/Pasted image 20240903103031.png",
     "업무관련(SW validation)/시뮬레이터/비전 시뮬레이터 동작.md",
     "업무관련(SW validation)/시뮬레이터/핸들러 시뮬레이터 작동.md",
     "개인업무기록/반도체(Semi-conductor) 기초.md",
@@ -187,7 +200,6 @@
     "screenshots/Pasted image 20240826132452.png",
     "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
     "업무관련(SW validation)/0821 내부회의.md",
-    "개인업무기록/입사 준비.md",
     "개인업무기록",
     "업무관련(SW validation)",
     "이전 연구",
