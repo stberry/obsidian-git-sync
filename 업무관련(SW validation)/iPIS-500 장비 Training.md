@@ -95,7 +95,29 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - tray 세팅할때 가이드 그림이 옆에 있는 것은 좋음
 - 이미지가 표시 안되는 것? no images (Handler teaching - Motor monitoring window)
 - ~~클릭하면 뭐가 잘 안됨~~ (관리자 모드)
+- Vision camera 촬영이 안됨 ==(무슨 옵션인가?)
 - Job open이후 Job을 바꾸려고 했을때 에러코드 발생
+	- SKXXCC_56.5X76_FOR_SIDEVISION : 정상동작 중 Sorting에서 holding (2lots)
+	- SKXXCC_56.5X76_FOR_RUNTEST : 정상동작은 하나 Sorting이 되지 않는것 같음 (1lot, 몇 번 더 해봐야 함)
+- Vision parameter size is invalid 오류 ==(어떤문제인지 자세히 파악 필요 (Job configuration))
+	- SKXXCC_56.5X76
+	- SKXXCC_56.5X76_5UP_V10
+	- SKXXCC_56.5X76_5UP_V10_140
+- 실험이 필요한 Job
+	- SKXXCC_56.5X76_TEST
+	- SKXXCC_56.5X76_TEST_OK
+	- SKXXCC_56.5X76_TEST2
+	- SKXXCC_56.5X76_TrayStitching
+- 실험에 사용한 Job들은 비교분석 진행 (각 Job을 구성하는 parameter가 어떻게 다른지 비교, excel에 정리)
+	- SKXXCC_56.5X76_FOR_SIDEVISION
+	- SKXXCC_56.5X76_FOR_RUNTEST
+	- SKXXCC_56.5X76
+	- SKXXCC_56.5X76_5UP_V10
+	- SKXXCC_56.5X76_5UP_V10_140
+	- SKXXCC_56.5X76_TEST
+	- SKXXCC_56.5X76_TEST_OK
+	- SKXXCC_56.5X76_TEST2
+	- SKXXCC_56.5X76_TrayStitching
 
 <검사 대상 패키지(based on Manual)>
 - BGA (Ball Grid Array)
