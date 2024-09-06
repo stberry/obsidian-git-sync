@@ -56,7 +56,7 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 
 <장비 operation 이전 셋업>
 - Jig를 사용하여 camera calibration
-- 주기적으로 golden device 를 사용하여 focus나 calibration 작업 수행 (LTSM ?)
+- 주기적으로 golden device 를 사용하여 vision camera focus나 calibration 작업 수행 (LTSM ?)
 - site별로 요구사항에 따라 offset 값 조정
 - package 별로 job parameter를 조정함, 이때 offset이나 job teaching 수행
 
