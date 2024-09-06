@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비training/iPIS-500 장비 Training.md",
+                "file": "업무관련(SW validation)/minutes/0906 주간보고.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비training/iPIS-500 장비 Training.md",
+                "file": "업무관련(SW validation)/minutes/0906 주간보고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비training/iPIS-500 장비 Training.md",
+                "file": "업무관련(SW validation)/minutes/0906 주간보고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation)/iPIS-500 장비training/iPIS-500 장비 Training.md"
+                "file": "업무관련(SW validation)/minutes/0906 주간보고.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "370a48134c826b3b",
   "lastOpenFiles": [
+    "업무관련(SW validation)/iPIS-500 장비training/iPIS-500 장비 Training.md",
+    "업무관련(SW validation)/minutes/0906 주간보고.md",
     "업무관련(SW validation)/minutes/0821 내부회의.md",
     "업무관련(SW validation)/iPIS-380hx 장비training",
     "업무관련(SW validation)/Untitled.md",
     "업무관련(SW validation)/minutes",
-    "업무관련(SW validation)/iPIS-500 장비training/iPIS-500 장비 Training.md",
     "업무관련(SW validation)/iPIS-500 장비training",
     "screenshots/Pasted image 20240906143533.png.~tmp",
     "screenshots/Pasted image 20240906143533.png",
@@ -193,7 +194,6 @@
     "screenshots/Pasted image 20240826134209.png",
     "screenshots/Pasted image 20240826131859.png",
     "screenshots",
-    "업무관련(SW validation)/셋업테스트(iPIS-380hx 장비) - 08.23 시작.md",
     "업무관련 개인폴더"
   ]
 }
