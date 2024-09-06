@@ -16,7 +16,38 @@
 	- 240, 240TR, 340, 340FX, ........, 380, 380HX 등 다수
 	- 
 - 빈 트레이가지고 테스트 (대상 receipe : KBLG_31X58.5-V10-TRAYSTITCH)
-  ![[Pasted image 20240827180443.png]]
+	![[Pasted image 20240827180443.png\|400]]
+
+- 더미패키지 (SKXXCC56.5X72, PICKER 2개(42X42), 패키지 10tray, 빈트레이 6tray)
+	![[Pasted image 20240906143353.png\|400]]
+	
+	![[Pasted image 20240906143533.png\|400]]
+
+- 패키지 대여 완료, lot 반복 수행중
+	- 정상 동작 Job configuration
+		- SKXXCC_56.5X76_FOR_SIDEVISION : 정상동작 중 Sorting에서 holding (2lots)
+		- SKXXCC_56.5X76_FOR_RUNTEST : 정상동작은 하나 Sorting이 되지 않는것 같음 (1lot, 몇 번 더 해봐야 함)
+	- Vision parameter size is invalid 오류 ==(어떤문제인지 자세히 파악 필요 (Job configuration))==
+		- SKXXCC_56.5X76            
+        - SKXXCC_56.5X76_5UP_V10            
+        - SKXXCC_56.5X76_5UP_V10_140
+	- 실험이 필요한 Job
+        - SKXXCC_56.5X76_TEST            
+        - SKXXCC_56.5X76_TEST_OK            
+        - SKXXCC_56.5X76_TEST2            
+        - SKXXCC_56.5X76_TrayStitching            
+    - 실험에 사용한 Job들은 비교분석 진행 (각 Job을 구성하는 parameter가 어떻게 다른지 비교, excel에 정리)        
+        - SKXXCC_56.5X76_FOR_SIDEVISION            
+        - SKXXCC_56.5X76_FOR_RUNTEST            
+        - SKXXCC_56.5X76            
+        - SKXXCC_56.5X76_5UP_V10            
+        - SKXXCC_56.5X76_5UP_V10_140            
+        - SKXXCC_56.5X76_TEST            
+        - SKXXCC_56.5X76_TEST_OK            
+        - SKXXCC_56.5X76_TEST2            
+        - SKXXCC_56.5X76_TrayStitching
+	- Job(receipe) configuration 분석 중, 적정레시피를 찾는 과정
+
 - iPIS-500 GANTRY - 기존 iPIS-500 장비에 GANTRY 설비를 덧붙인 장비로 CART에 패키지 트레이를 담아 일괄검사를 지원
 	- 현재 GANTRY는 이슈가 있어 잘 동작하지 않으며 설비팀에 문의한 상황
 - SW 버전 : Handler - 3.312.00.0230DD (development debug 버전, RD - release debug), Vision - 1.312.999.0120 Release Version
