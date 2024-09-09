@@ -200,7 +200,7 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 	- Ball offset은 X방향-Ball Offset X, Y방향-Ball Offset Y, 대각선방향의 R Offset이  있다.
 - 3D
 	- Land 3D inspection은 Ball과 마찬가지로 Object를 이용하여 기준평면을 추출한 후 검사가 진행된다.
-- 
+	- 
 
 
 <검사 결과화면 분석(vision software)> **※ 초안 기입 후 정확히 파악하여 문서화**
