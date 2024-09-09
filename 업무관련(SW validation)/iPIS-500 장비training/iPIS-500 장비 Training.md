@@ -195,9 +195,11 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 | 2D                                   | 3D                                                                                  | Surface                      |
 | ------------------------------------ | ----------------------------------------------------------------------------------- | ---------------------------- |
 | - Land Width<br>- Length<br>- Offset | - Land Height<br>- Coplanarity<br>- Warpage<br>- Unit Coplanarity<br>- Unit Warpage | - Customized Inspection Item |
-- Land 패키지 검사는 Ball 패키지 검사와 마찬가지로 Align이 완료된 좌표 및 Width/Length의 값과 Spec상의 Data를 비교하여 검사가 이루어진다.
-- Ball offset은 X방향-Ball Offset X, Y방향-Ball Offset Y, 대각선방향의 R Offset이  있다.
-- Land 3D inspection은 Ball과 마찬가지로 Object를 이용하여 기준평면을 추출한 후 검사가 진행된다.
+- 2D
+	- Land 패키지 검사는 Ball 패키지 검사와 마찬가지로 Align이 완료된 좌표 및 Width/Length의 값과 Spec상의 Data를 비교하여 검사가 이루어진다.
+	- Ball offset은 X방향-Ball Offset X, Y방향-Ball Offset Y, 대각선방향의 R Offset이  있다.
+- 3D
+	- Land 3D inspection은 Ball과 마찬가지로 Object를 이용하여 기준평면을 추출한 후 검사가 진행된다.
 - 
 
 
