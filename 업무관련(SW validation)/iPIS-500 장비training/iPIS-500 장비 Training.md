@@ -188,7 +188,14 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 		- LMS Plane으로 reference plane을 구하여 global plane으로 만든 후 오차값을 이용해 Warpage를 계산
 
 - Land
-	- land grid array, 패키지에 달린 
+	- land grid array, 패키지에 달린 ball land에 대한 검사
+
+- 검사 항목(inspection item)
+
+|     |     |
+| --- | --- |
+|     |     |
+
 
 
 <검사 결과화면 분석(vision software)> **※ 초안 기입 후 정확히 파악하여 문서화**
