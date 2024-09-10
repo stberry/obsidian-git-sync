@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-10.md",
+                "file": "2024-09-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-10.md",
+                "file": "2024-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-10.md",
+                "file": "2024-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-10.md"
+                "file": "2024-09-11.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "370a48134c826b3b",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/0821~0909 퇴근일지 (업무기록).md",
     "업무관련 개인폴더/업무기록/2024-09-10.md",
+    "2024-09-11.md",
+    "업무관련 개인폴더/업무기록/0821~0909 퇴근일지 (업무기록).md",
     "업무관련 개인폴더/Untitled.canvas",
     "Untitled.md",
     "업무관련 개인폴더/업무기록",
@@ -187,7 +188,6 @@
     "smart-chats",
     "업무관련(SW validation)/minutes/0822 셋업테스트 관련 내부 회의.md",
     "업무관련(SW validation)/minutes/0821 SW 프로세스 회의.md",
-    "업무관련(SW validation)/시뮬레이터training/(설치) 핸들러 시뮬레이터.md",
     "screenshots/Pasted image 20240827180443 1.png",
     "screenshots/Pasted image 20240826141727.png",
     "screenshots/Pasted image 20240826135820.png",
