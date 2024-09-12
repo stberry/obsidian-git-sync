@@ -23,7 +23,7 @@
 	
 	![[Pasted image 20240906143533.png\|400]]
 
-- - iPIS-500 GANTRY - 기존 iPIS-500 장비에 GANTRY 설비를 덧붙인 장비로 CART에 패키지 트레이를 담아 일괄검사를 지원
+- iPIS-500 GANTRY : 기존 iPIS-500 장비에 GANTRY 설비를 덧붙인 장비로 CART에 패키지 트레이를 담아 일괄검사를 지원
 	- 현재 GANTRY는 이슈가 있어 잘 동작하지 않으며 설비팀에 문의한 상황
 - SW 버전 : Handler - 3.312.00.0230DD (development debug 버전, RD - release debug), Vision - 1.312.999.0120 Release Version
 - Lot 단위로 검사
@@ -83,19 +83,22 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 <_Handler Teaching>
 ![[Pasted image 20240903103031.png]]
 - Handler teaching : 핸들러에서 각 모터의 위치를 파악하고 각 모터의 속도, 위치에 대한 초기설정 값을 지정할 수 있다.
-- IFM (Input Flipper Module)
+- IFM (Input Flipper Module) : 맨 처음 bottom 검사를 하기 전 검사 대상 tray를 뒤집는 역할, 장치 하부에 위치
+- TFM (Tray Flipper Module, or tray TransFer Module) : 트레이를 커버트레이로 씌워 뒤집으면서 다음 검사위치로 이동 (Good or Reject 1, 2)
 - LFE (Loading tray Front Elevator) : 검사를 위한 package tray를 적재하고 운반
 - LRE (Loading tray Rear Elevator) : tray 운반을 위해 뒤쪽에 설치된 elevator
 - EFE (Empty tray Front Elevator) : flipping module에 들어가는 cover tray와 good/buffer/reject를 분류하는데 사용되는 empty tray를 적재하고 운반
 - ERE (Empty tray Rear Elevator) : tray 운반을 위해 뒤쪽에 설치된 elevator
 - Indexer 각 elevator로 tray를 운반하는 역할
-- Vision 1~4 : bottom2d, bottom3d, top2d, top3d 비전모듈, 2d는 카메라, 3d는 카메라와 슬립빔(?) 장착
-- GFE (Good tray Front Elevator)
-- GRE (Good tray Rear Elevator)
-- R1FE
-- R1RE
-- R2FE
-- R2RE
+- Vision 1~6 : bottom2d, bottom3d, top2d, top3d, Side1, Side2 비전모듈, 2d는 카메라, 3d는 카메라와 슬립빔(?) 장착, Side vision은 2면 검사 후 회전하여 2면 검사, Side 비전은 옵션임
+- GFE (Good tray Front Elevator) : 양품 분류후 Good Tray 배출 (4개가 꽉 차거나 패키지가 다 떨어지면 자동 배출)
+- GRE (Good tray Rear Elevator) : 분류를 위해 Tray를 이동시킴
+- R1FE (Reject 1 tray Front Elevator) : 양품/불량품 분류를 위해 buffer역할을 하는 트레이를 배출
+- R1RE (Reject 1 tray Rear Elevator) : 분류를 위해 Tray를 이동시킴
+- R2FE (Reject 2 tray Front Elevator) : 불량품 분류 후 Reject Tray 배출 (4개가 꽉 차거나 패키지가 다 떨어지면 자동 배출)
+- R2RE (Reject 2 tray Rear Elevator) : 분류를 위해 Tray를 이동시킴
+- Sorter : Picker를 이용해 패키지를 집어서 Good / Reject로 분류함
+- ~~NGRV (?)
 
 
 
