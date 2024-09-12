@@ -23,33 +23,7 @@
 	
 	![[Pasted image 20240906143533.png\|400]]
 
-- 패키지 대여 완료, lot 반복 수행중
-	- 정상 동작 Job configuration
-		- SKXXCC_56.5X76_FOR_SIDEVISION : 정상동작 중 Sorting에서 holding (2lots)
-		- SKXXCC_56.5X76_FOR_RUNTEST : 정상동작은 하나 Sorting이 되지 않는것 같음 (1lot, 몇 번 더 해봐야 함)
-		- ==**SKXXCC_56.5X76_FOR_RUNTEST_2DTEST : 정상작동 중 sorting시 picker이슈, package picking을 하지 못함, pick and drop z offset 값 조정 후 정상 작동 (문제없이 cycle 종료)**==
-	- Vision parameter size is invalid 오류 ==(어떤문제인지 자세히 파악 필요 (Job configuration))==
-		- SKXXCC_56.5X76
-        - SKXXCC_56.5X76_5UP_V10
-        - SKXXCC_56.5X76_5UP_V10_140
-	- 실험이 필요한 Job
-        - SKXXCC_56.5X76_TEST
-        - SKXXCC_56.5X76_TEST_OK
-        - SKXXCC_56.5X76_TEST2
-        - SKXXCC_56.5X76_TrayStitching
-    - 실험에 사용한 Job들은 비교분석 진행 (각 Job을 구성하는 parameter가 어떻게 다른지 비교, excel에 정리)        
-        - SKXXCC_56.5X76_FOR_SIDEVISION
-        - SKXXCC_56.5X76_FOR_RUNTEST
-        - SKXXCC_56.5X76
-        - SKXXCC_56.5X76_5UP_V10
-        - SKXXCC_56.5X76_5UP_V10_140
-        - SKXXCC_56.5X76_TEST
-        - SKXXCC_56.5X76_TEST_OK
-        - SKXXCC_56.5X76_TEST2
-        - SKXXCC_56.5X76_TrayStitching
-	- Job(receipe) configuration 분석 중, 적정레시피를 찾는 과정
-
-- iPIS-500 GANTRY - 기존 iPIS-500 장비에 GANTRY 설비를 덧붙인 장비로 CART에 패키지 트레이를 담아 일괄검사를 지원
+- - iPIS-500 GANTRY - 기존 iPIS-500 장비에 GANTRY 설비를 덧붙인 장비로 CART에 패키지 트레이를 담아 일괄검사를 지원
 	- 현재 GANTRY는 이슈가 있어 잘 동작하지 않으며 설비팀에 문의한 상황
 - SW 버전 : Handler - 3.312.00.0230DD (development debug 버전, RD - release debug), Vision - 1.312.999.0120 Release Version
 - Lot 단위로 검사
@@ -126,7 +100,8 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 
 
 > [!NOTE]
-> ==(※ 반복 lot 수행하면서 발견되는 이슈사항은 모두 기록)==
+> ==**(※ 반복 lot 수행하면서 발견되는 이슈사항은 모두 기록)**==
+>- ==**job을 짤 수 있어야 함**==
 > 
 >- 정상 동작 Job configuration
 >	- SKXXCC_56.5X76_FOR_SIDEVISION : 정상동작 중 Sorting에서 holding (2lots)
@@ -152,12 +127,13 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 >	- SKXXCC_56.5X76_TEST2
 >	- SKXXCC_56.5X76_TrayStitching
 
-<프로그램 다운 이슈>
+<_Issues in operation_>
+1. 프로그램 다운 이슈
 - language 탭 선택시 프로그램 die
 - +ROI (Region of Interest) 선택 후 -ROI선택했을때 응답없음 메시지, 프로그램 die
 - (관리자모드-Intekplus) Setup탭 -> Regulator선택, 프로그램 die
 
-<프로그램 사용 이슈>
+2. 프로그램 사용 이슈
 - UI 적으로 모든 정보가 표시되지 않아 알아보기 힘듬 (글씨가 잘림)
   → 제어장비라 예쁘진 않더라도 기본사용성 정도는 챙겨야 하지 않을까 생각됨
 - tray 세팅할때 가이드 그림이 옆에 있는 것은 좋음
