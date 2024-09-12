@@ -115,7 +115,13 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 - EFE (Empty tray Front Elevator) : flipping module에 들어가는 cover tray와 good/buffer/reject를 분류하는데 사용되는 empty tray를 적재하고 운반
 - ERE (Empty tray Rear Elevator) : tray 운반을 위해 뒤쪽에 설치된 elevator
 - Indexer 각 elevator로 tray를 운반하는 역할
-- Vision 1~4 : bottom2d, bottom3d, top2d, top3d, 
+- Vision 1~4 : bottom2d, bottom3d, top2d, top3d 비전모듈, 2d는 카메라, 3d는 카메라와 슬립빔(?) 장착
+- GFE (Good tray Front Elevator)
+- GRE (Good tray Rear Elevator)
+- R1FE
+- R1RE
+- R2FE
+- R2RE
 
 
 
@@ -124,7 +130,8 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 > 
 >- 정상 동작 Job configuration
 >	- SKXXCC_56.5X76_FOR_SIDEVISION : 정상동작 중 Sorting에서 holding (2lots)
->	- SKXXCC_56.5X76_FOR_RUNTEST : 정상동작은 하나 Sorting이 되지 않는것 같음 (1lot, 몇 번 더 해봐야 함)
+>	- SKXXCC_56.5X76_FOR_RUNTEST : 정상동작
+>	- ==**SKXXCC_56.5X76_FOR_RUNTEST_2DTEST : 정상작동 중 sorting시 picker이슈, package picking을 하지 못함, pick and drop z offset 값 조정 후 정상 작동 (문제없이 cycle 종료)은 하나 Sorting이 되지 않는것 같음 (1lot, 몇 번 더 해봐야 함)
 >- Vision parameter size is invalid 오류 ==(어떤문제인지 자세히 파악 필요 (Job configuration))==
 >	- SKXXCC_56.5X76
 >	- SKXXCC_56.5X76_5UP_V10
