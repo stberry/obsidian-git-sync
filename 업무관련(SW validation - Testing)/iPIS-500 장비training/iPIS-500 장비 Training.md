@@ -68,6 +68,20 @@
 		- 안전사고에 항상 유의(도어가 오픈되어있으므로 동작중에는 항상 안전에 유의, 일시정지시 주저말고 emo로 interrupt)
 		- EMO 버튼 : 장비에 이상이 있을경우 emo를 눌러 모든 전원을 차단, 조치 후 reset 버튼을 눌러 전원 재인가
 
+<_Inspection flow>
+1. **Empty Tray Input:** 초기 empty tray에서 tray를 한 장 가져가서 IFM의 top에 위치시킴 ==(cover tray 역할)
+2. **TFM(Tray Flipper Module):** emplty tray에서 tray를 한 장 가져가서 대기시킴 (empty rail -> loader rail)
+3. loading tray에서 검사를 위한 tray를 IFM bottom에 위치시킴 ==(package tray)
+	1) loading tray에서 package tray를 계속 보충하며 검사 진행
+4. IFM에서 cover tray를 package tray에 덮고 flip후 2d bottom으로 이동
+5. **Bottom 2D inspection:** 2d bottom 촬영 (left top -> right bottom, horizontal)
+6. **Bottem 3D inspection:** 3d bottom 촬영 (left top -> right bottom, horizontal)
+7. TFM으로 이동, cover tray를 씌워 flip 후 top 촬영을 위해 이동
+8. 2d top촬영, 3d top 촬영 (right bottom to left top, horizontal)
+9. (optional) Side inspection: Side camera 촬영 (상하2면 촬영 후 rotate하여 좌우2면 촬영)
+10. **Sorting:** reject tray, buffer tray, good tray를 분류, reject에는 불량만, good에는 양품만 모으는 작업, 그 사이에 buffer를 사용하여 임시로 저장
+11. **Tray unloading:** Tray에 reject or good이 꽉차면 배출, 두 칸 모두 아직 배출 이전이라면 새로운 burffer 추가 ==(※여기서 sorter 중 hold 발생, 이유 파악, savelog-log 분석)==
+
 stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 김민철 선임)
 1. [x] interlock 안된상태에서 init handler 하면 경고
        → 경고메시지 확인 후 interlock 확인
@@ -96,22 +110,14 @@ stand alone 실험 경과 (해결된 것 체크, supported by 김동규 선임, 
 ![[Pasted image 20240903103031.png]]
 - Handler teaching : 핸들러에서 각 모터의 위치를 파악하고 각 모터의 속도, 위치에 대한 초기설정 값을 지정할 수 있다.
 - IFM (Input Flipper Module)
-- LFE (Loding Front Elevator) : 검사를 위한 package tray를 적재하고 운반
-- 
+- LFE (Loading tray Front Elevator) : 검사를 위한 package tray를 적재하고 운반
+- LRE (Loading tray Rear Elevator) : tray 운반을 위해 뒤쪽에 설치된 elevator
+- EFE (Empty tray Front Elevator) : flipping module에 들어가는 cover tray와 good/buffer/reject를 분류하는데 사용되는 empty tray를 적재하고 운반
+- ERE (Empty tray Rear Elevator) : tray 운반을 위해 뒤쪽에 설치된 elevator
+- Indexer 각 elevator로 tray를 운반하는 역할
+- Vision 1~4 : bottom2d, bottom3d, top2d, top3d, 
 
-<_Inspection flow>
-1. **Empty Tray Input:** 초기 empty tray에서 tray를 한 장 가져가서 IFM의 top에 위치시킴 ==(cover tray 역할)
-2. **TFM(Tray Flipper Module):** emplty tray에서 tray를 한 장 가져가서 대기시킴 (empty rail -> loader rail)
-3. loading tray에서 검사를 위한 tray를 IFM bottom에 위치시킴 ==(package tray)
-	1) loading tray에서 package tray를 계속 보충하며 검사 진행
-4. IFM에서 cover tray를 package tray에 덮고 flip후 2d bottom으로 이동
-5. **Bottom 2D inspection:** 2d bottom 촬영 (left top -> right bottom, horizontal)
-6. **Bottem 3D inspection:** 3d bottom 촬영 (left top -> right bottom, horizontal)
-7. TFM으로 이동, cover tray를 씌워 flip 후 top 촬영을 위해 이동
-8. 2d top촬영, 3d top 촬영 (right bottom to left top, horizontal)
-9. (optional) Side inspection: Side camera 촬영 (상하2면 촬영 후 rotate하여 좌우2면 촬영)
-10. **Sorting:** reject tray, buffer tray, good tray를 분류, reject에는 불량만, good에는 양품만 모으는 작업, 그 사이에 buffer를 사용하여 임시로 저장
-11. **Tray unloading:** Tray에 reject or good이 꽉차면 배출, 두 칸 모두 아직 배출 이전이라면 새로운 burffer 추가 ==(※여기서 sorter 중 hold 발생, 이유 파악, savelog-log 분석)==
+
 
 > [!NOTE]
 > ==(※ 반복 lot 수행하면서 발견되는 이슈사항은 모두 기록)==
