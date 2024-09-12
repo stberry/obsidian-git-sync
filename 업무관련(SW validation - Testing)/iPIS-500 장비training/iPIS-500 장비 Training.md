@@ -10,6 +10,7 @@
 - 9월 7일 ~ 9월 28일 (김동규 선임 출장)
 - ~~뭐 물어볼때 김선임 음료라도 챙기기~~
 
+==**※ move to confluence page and it will be updated conti in confluence**==
 0827 장비설명 (정리 후 confluence 페이지, 시뮬레이터 설치, 실행은 confluence 매뉴얼 페이지 업데이트)
 - 오전 11시 ~, 장소 : A동 공장
 - 장비는 검사대상과 검사방식에 따라 나뉘며 주 납품 모델은 iPIS-340, 380 쪽
