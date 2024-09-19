@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "938b92cc2df87b47",
+        "id": "cd2ace48544c889d",
         "type": "tabs",
         "children": [
           {
-            "id": "fb65df7d544b0774",
+            "id": "577a6bf65ece6518",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "업무관련 개인폴더/업무기록/2024-09-19.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "업무관련 개인폴더/업무기록/2024-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "업무관련 개인폴더/업무기록/2024-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "업무관련 개인폴더/업무기록/2024-09-19.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fb65df7d544b0774",
+  "active": "577a6bf65ece6518",
   "lastOpenFiles": [
+    "업무관련 개인폴더/업무기록/2024-09-19.md",
     "업무관련(SW validation - Testing)/시뮬레이터training/비전 시뮬레이터 동작.md",
     "업무관련(SW validation - Testing)/시뮬레이터training/핸들러 시뮬레이터 작동.md",
     "업무관련(SW validation - Testing)/시뮬레이터training/(설치) 핸들러 시뮬레이터.md",
@@ -171,7 +180,6 @@
     "업무관련 개인폴더/반도체(Semi-conductor) 기초.md",
     "업무관련 개인폴더/SQA 목표 - TMMI (Level 2, potentially Level).md",
     "업무관련 개인폴더/개별인터뷰 모음.md",
-    "업무관련 개인폴더/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
     "업무관련 개인폴더",
     "screenshots/Pasted image 20240906143533.png",
     "screenshots/Pasted image 20240906143353.png",
