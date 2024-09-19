@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-19.md",
+                "file": "업무관련 개인폴더/업무기록/2024-09-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-19.md",
+                "file": "업무관련 개인폴더/업무기록/2024-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-19.md",
+                "file": "업무관련 개인폴더/업무기록/2024-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-19.md"
+                "file": "업무관련 개인폴더/업무기록/2024-09-20.md"
               }
             }
           }
@@ -139,18 +139,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "370a48134c826b3b",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/daily note template.md",
     "업무관련 개인폴더/업무기록/2024-09-19.md",
+    "업무관련 개인폴더/업무기록/2024-09-20.md",
+    "업무관련 개인폴더/업무기록/daily note template.md",
     "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2024-09-13.md",
     "업무관련(SW validation - Testing)/minutes/0912 내부회의 (SQA 파트).md",
@@ -186,7 +187,6 @@
     "업무관련 개인폴더/반도체(Semi-conductor) 기초.md",
     "업무관련 개인폴더/개별인터뷰 모음.md",
     "업무관련 개인폴더/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
-    "업무관련 개인폴더/(AI 문답) TR-Test request와 Test requirement의 차이.md",
     "smart-chats",
     "screenshots/Pasted image 20240827180443 1.png",
     "screenshots/Pasted image 20240826141727.png",
