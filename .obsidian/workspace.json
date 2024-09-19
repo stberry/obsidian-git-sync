@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d575c1f9d719b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-19.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-19.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-19.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "370a48134c826b3b",
+  "active": "0d575c1f9d719b61",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/2024-09-13.md",
     "업무관련 개인폴더/업무기록/2024-09-19.md",
+    "conflict-files-obsidian-git.md",
+    "업무관련 개인폴더/업무기록/2024-09-13.md",
     "업무관련(SW validation - Testing)/minutes/0912 내부회의 (SQA 파트).md",
     "업무관련 개인폴더/업무기록/0821~0909 퇴근일지 (업무기록).md",
     "업무관련 개인폴더/업무기록/2024-09-10.md",
@@ -186,7 +200,6 @@
     "업무관련 개인폴더/개별인터뷰 모음.md",
     "업무관련 개인폴더/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
     "업무관련 개인폴더/(AI 문답) TR-Test request와 Test requirement의 차이.md",
-    "conflict-files-obsidian-git.md",
     "smart-chats",
     "screenshots/Pasted image 20240827180443 1.png",
     "screenshots/Pasted image 20240826141727.png",
