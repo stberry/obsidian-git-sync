@@ -19,3 +19,4 @@
 		- picker offset 값은 -30으로 설정 (부족한 경우 package에 picker가 닿지 않음)
 	5) 매뉴얼 병행분석
 	6) Job 항목 분석, Job configuration 진행
+4. iPIS-380 장비 
