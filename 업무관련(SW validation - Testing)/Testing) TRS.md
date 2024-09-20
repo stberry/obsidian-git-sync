@@ -11,6 +11,11 @@
 3. iPIS-500 equipment training
 	1) 장비 동작 시퀀스 수행
 	2) 전반적인 장비 동작 메커니즘에 대한 설명
-	3) empty package로 반복 lot 수행
+	3) empty tray로 반복 lot 수행
+		- empty tray의 이동 메커니즘 파악
 		- 중간중간 emo 이슈 (강제 interrupt)
-	4) 
+	4) package/picker 대여 -> sorter 작업 수행
+		- picker는 1, 6번에 장착
+		- picker offset 값은 -30으로 설정 (부족한 경우 package에 picker가 닿지 않음)
+	5) 매뉴얼 병행분석
+	6) Job 항목 분석, Job configuration 진행
