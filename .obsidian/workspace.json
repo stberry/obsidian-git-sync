@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-20.md",
+                "file": "업무관련(SW validation - Testing)/minutes/0920 SQA 내부회의.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-20.md",
+                "file": "업무관련(SW validation - Testing)/minutes/0920 SQA 내부회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-20.md",
+                "file": "업무관련(SW validation - Testing)/minutes/0920 SQA 내부회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-20.md"
+                "file": "업무관련(SW validation - Testing)/minutes/0920 SQA 내부회의.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "370a48134c826b3b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2024-09-20.md",
+    "업무관련(SW validation - Testing)/minutes/0920 SQA 내부회의.md",
+    "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2024-09-19.md",
     "업무관련 개인폴더/업무기록/daily note template.md",
     "업무관련 개인폴더/업무기록/2024-09-13.md",
@@ -186,7 +187,6 @@
     "업무관련(SW validation - Testing)/시뮬레이터training/핸들러 시뮬레이터 작동.md",
     "업무관련 개인폴더/반도체(Semi-conductor) 기초.md",
     "업무관련 개인폴더/개별인터뷰 모음.md",
-    "업무관련 개인폴더/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
     "smart-chats",
     "screenshots/Pasted image 20240827180443 1.png",
     "screenshots/Pasted image 20240826141727.png",
