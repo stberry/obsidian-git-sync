@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/품의서 작성.md",
+                "file": "업무관련 개인폴더/업무기록/2024-09-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/품의서 작성.md",
+                "file": "업무관련 개인폴더/업무기록/2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/품의서 작성.md",
+                "file": "업무관련 개인폴더/업무기록/2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/품의서 작성.md"
+                "file": "업무관련 개인폴더/업무기록/2024-09-23.md"
               }
             }
           }
@@ -186,8 +186,9 @@
   },
   "active": "c2a616abe59c5c43",
   "lastOpenFiles": [
-    "업무관련(SW validation - Testing)/Testing) TRS.md",
     "업무관련 개인폴더/품의서 작성.md",
+    "업무관련 개인폴더/업무기록/2024-09-23.md",
+    "업무관련(SW validation - Testing)/Testing) TRS.md",
     "업무관련 개인폴더/업무기록/0821~0909 퇴근일지 (업무기록).md",
     "업무관련 개인폴더/업무기록/2024-09-20.md",
     "업무관련 개인폴더/업무기록/2024-09-19.md",
@@ -211,7 +212,6 @@
     "업무관련(SW validation - Testing)/minutes/0826 1사업부 업무협의.md",
     "업무관련 개인폴더/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
     "업무관련 개인폴더/(AI 문답) TR-Test request와 Test requirement의 차이.md",
-    "업무관련 개인폴더/업무기록/daily note template.md",
     "업무관련 개인폴더/Untitled.canvas",
     "업무관련 개인폴더/업무기록",
     "업무관련(SW validation - Testing)/iPIS-380hx 장비training",
