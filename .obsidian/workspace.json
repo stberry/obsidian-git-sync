@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-24.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-24.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-24.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -170,8 +170,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "812b422824de5df0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "conflict-files-obsidian-git.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -184,10 +197,12 @@
       }
     ]
   },
-  "active": "a7478506cce093bb",
+  "active": "812b422824de5df0",
   "lastOpenFiles": [
-    "업무관련(SW validation - Testing)/Testing) TRS.md",
     "업무관련 개인폴더/업무기록/2024-09-24.md",
+    "conflict-files-obsidian-git.md",
+    "업무관련 개인폴더/업무기록/2024-09-23.md",
+    "업무관련(SW validation - Testing)/Testing) TRS.md",
     "업무관련 개인폴더/업무기록/0821~0909 퇴근일지 (업무기록).md",
     "업무관련 개인폴더/업무기록/2024-09-20.md",
     "업무관련 개인폴더/업무기록/2024-09-19.md",
@@ -210,8 +225,6 @@
     "업무관련(SW validation - Testing)/minutes/0822 셋업테스트 관련 내부 회의.md",
     "업무관련(SW validation - Testing)/minutes/0826 1사업부 업무협의.md",
     "업무관련 개인폴더/품의서 작성.md",
-    "업무관련 개인폴더/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
-    "업무관련 개인폴더/(AI 문답) TR-Test request와 Test requirement의 차이.md",
     "업무관련 개인폴더/Untitled.canvas",
     "업무관련 개인폴더/업무기록",
     "업무관련(SW validation - Testing)/iPIS-380hx 장비training",
