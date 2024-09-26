@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd07656ecac085d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "업무관련 개인폴더/업무기록/2024-09-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a19035585f7b35f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-26.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-26.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-26.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -160,12 +184,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5b38dba449a9f211",
+  "active": "3a19035585f7b35f",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/2024-09-25.md",
-    "업무관련 개인폴더/업무기록/2024-09-26.md",
     "업무관련 개인폴더/업무기록/2024-09-24.md",
     "conflict-files-obsidian-git.md",
+    "업무관련 개인폴더/업무기록/2024-09-25.md",
+    "업무관련 개인폴더/업무기록/2024-09-26.md",
     "업무관련 개인폴더/품의서 작성.md",
     "업무관련 개인폴더/업무기록/0821~0909 퇴근일지 (업무기록).md",
     "업무관련 개인폴더/업무기록/2024-09-12.md",
