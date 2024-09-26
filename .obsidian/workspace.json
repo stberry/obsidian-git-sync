@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36b02330640ea5ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-27.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-27.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-27.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,15 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2a616abe59c5c43",
+  "active": "36b02330640ea5ca",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/2024-09-26.md",
     "업무관련 개인폴더/업무기록/2024-09-27.md",
+    "conflict-files-obsidian-git.md",
+    "업무관련 개인폴더/업무기록/2024-09-26.md",
     "업무관련 개인폴더/업무기록/2024-09-25.md",
     "업무관련(SW validation - Testing)/Testing) TRS.md",
     "업무관련(SW validation - Testing)/minutes/0920 SQA 내부회의.md",
     "업무관련 개인폴더/업무기록/2024-09-24.md",
-    "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2024-09-23.md",
     "업무관련 개인폴더/업무기록/2024-09-20.md",
     "screenshots/Pasted image 20240924170338.png",
