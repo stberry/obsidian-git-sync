@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-25.md",
+                "file": "업무관련 개인폴더/업무기록/2024-09-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "945a111e3bfc3f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-25.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-25.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-25.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2a616abe59c5c43",
+  "active": "945a111e3bfc3f04",
   "lastOpenFiles": [
     "업무관련 개인폴더/업무기록/2024-09-26.md",
+    "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2024-09-25.md",
     "업무관련 개인폴더/업무기록/2024-09-24.md",
     "업무관련 개인폴더/업무기록/2024-09-23.md",
@@ -175,7 +189,6 @@
     "업무관련(SW validation - Testing)/iPIS-380hx 장비training/셋업테스트(iPIS-380hx 장비) - 08.23.md",
     "업무관련(SW validation - Testing)/iPIS-500 장비training/iPIS-500 장비 Training (move to confluence page).md",
     "업무관련(SW validation - Testing)/minutes/0821 SW 프로세스 회의.md",
-    "업무관련(SW validation - Testing)/minutes/0822 셋업테스트 관련 내부 회의.md",
     "업무관련 개인폴더/Untitled.canvas",
     "업무관련 개인폴더/업무기록",
     "업무관련(SW validation - Testing)/iPIS-380hx 장비training",
