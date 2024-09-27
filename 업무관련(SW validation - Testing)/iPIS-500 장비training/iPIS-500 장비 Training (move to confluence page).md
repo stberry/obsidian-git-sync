@@ -8,6 +8,5 @@
   → ~~iPIS-380HX와 크게 다르지 않을것으로 예상됨~~
   → iPIS-500은 기존장비와 크게 다름 ==(중요)
 - 9월 7일 ~ 9월 28일 (김동규 선임 출장)
-- ~~뭐 물어볼때 김선임 음료라도 챙기기~~
 
 ==**※ move to confluence page and it will be updated conti in confluence**==
