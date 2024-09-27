@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a8a0fa9b71048db8",
+        "id": "ebbf0ca334730943",
         "type": "tabs",
         "children": [
           {
-            "id": "f64d13f90b1ed0f0",
+            "id": "85ba2a217f9e490f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ee4db5bcdf3973c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-27.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-09-27.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,10 +139,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0ee4db5bcdf3973c",
+  "active": "85ba2a217f9e490f",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/2024-09-26.md",
     "업무관련 개인폴더/업무기록/2024-09-27.md",
+    "업무관련 개인폴더/업무기록/2024-09-26.md",
     "conflict-files-obsidian-git.md",
     "업무관련(SW validation - Testing)/SQA 목표 - TMMI (Level 2, potentially Level).md",
     "업무관련 개인폴더/업무기록/2024-09-25.md",
