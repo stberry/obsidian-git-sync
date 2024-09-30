@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/0926 주간보고.md",
+                "file": "업무관련 개인폴더/업무기록/2024-10-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/0926 주간보고.md",
+                "file": "업무관련 개인폴더/업무기록/2024-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/0926 주간보고.md",
+                "file": "업무관련 개인폴더/업무기록/2024-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/0926 주간보고.md"
+                "file": "업무관련 개인폴더/업무기록/2024-10-01.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "c2a616abe59c5c43",
   "lastOpenFiles": [
-    "업무관련(SW validation - Testing)/minutes/0925 SQA 회의.md",
     "업무관련(SW validation - Testing)/minutes/0926 주간보고.md",
+    "업무관련 개인폴더/업무기록/2024-10-01.md",
+    "업무관련(SW validation - Testing)/minutes/0925 SQA 회의.md",
     "conflict-files-obsidian-git.md",
     "업무관련(SW validation - Testing)/minutes/0925 SQA 팀 회의.md",
     "업무관련 개인폴더/업무기록/2024-09-27.md",
@@ -175,7 +176,6 @@
     "업무관련(SW validation - Testing)/minutes/0912 내부회의 (SQA 파트).md",
     "업무관련(SW validation - Testing)/minutes/0906 주간보고.md",
     "업무관련 개인폴더/업무기록/2024-09-10.md",
-    "업무관련 개인폴더/업무기록/2024-09-11.md",
     "업무관련 개인폴더/Untitled.canvas",
     "업무관련 개인폴더/업무기록",
     "업무관련(SW validation - Testing)/iPIS-380hx 장비training",
