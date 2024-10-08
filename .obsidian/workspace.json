@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2a616abe59c5c43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6e1e241e26af5ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "380b101191a24bd8",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
