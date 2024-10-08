@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd4fa86dfb8a0e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-08.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-08.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-08.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -148,12 +161,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "85ba2a217f9e490f",
+  "active": "fd4fa86dfb8a0e6b",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/2024-10-02.md",
     "업무관련 개인폴더/업무기록/2024-10-08.md",
-    "업무관련 개인폴더/업무기록/2024-10-01.md",
     "conflict-files-obsidian-git.md",
+    "업무관련(SW validation - Testing)/minutes/1007 SQA회의.md",
+    "업무관련 개인폴더/업무기록/2024-10-07.md",
+    "업무관련 개인폴더/업무기록/2024-10-02.md",
+    "업무관련 개인폴더/업무기록/2024-10-01.md",
     "업무관련(SW validation - Testing)/minutes/0926 주간보고.md",
     "업무관련(SW validation - Testing)/minutes/0925 SQA 회의.md",
     "업무관련 개인폴더/업무기록/2024-09-27.md",
@@ -174,8 +189,6 @@
     "업무관련(SW validation - Testing)/시뮬레이터training/(설치) 핸들러 시뮬레이터.md",
     "업무관련(SW validation - Testing)/시뮬레이터training/(설치) 비전 시뮬레이터.md",
     "README.md",
-    "smart-chats/UNTITLED CHAT 2024-08-29 03 33 23.md",
-    "smart-chats/UNTITLED CHAT 2024-08-29 03 23 19.md",
     "screenshots/Pasted image 20240924170338.png",
     "screenshots/Pasted image 20240826131859.png",
     "업무관련 개인폴더/Untitled.canvas",
