@@ -19,5 +19,8 @@
 - KANBAN - 설정완료, board flow?
 	- task별 flow를 설정하는데 KANBAN 보드에서도 개별설정이 가능한가?
 	- flow에서의 상태가 KANBAN 보드에 하나씩 매칭되어 나타날텐데 여러 flow가 존재한다면 어떻게 표시가 되는가?
+	- Working item / Documentation / Task test / Task bug
+	- 보드를 별도로 사용하는 방법이 가장 쉬움
+	- 
 
 ---
