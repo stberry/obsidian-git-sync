@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md",
+                "file": "업무관련 개인폴더/업무기록/10월/2024-10-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md",
+                "file": "업무관련 개인폴더/업무기록/10월/2024-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md",
+                "file": "업무관련 개인폴더/업무기록/10월/2024-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md"
+                "file": "업무관련 개인폴더/업무기록/10월/2024-10-10.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "380b101191a24bd8",
   "lastOpenFiles": [
+    "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md",
     "업무관련(SW validation - Testing)/minutes/Pasted image 20241010120322.png",
     "업무관련(SW validation - Testing)/minutes/Pasted image 20241010120304.png",
     "업무관련(SW validation - Testing)/minutes/Pasted image 20241010120254.png",
     "업무관련(SW validation - Testing)/minutes/Pasted image 20241010120236.png",
     "업무관련(SW validation - Testing)/Testing) TRS.md",
-    "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md",
     "업무관련 개인폴더/업무기록/10월/2024-10-10.md",
     "업무관련 개인폴더/업무기록/10월/2024-10-01.md",
     "업무관련 개인폴더/업무기록/9월/2024-09-10.md",
@@ -194,7 +194,6 @@
     "screenshots/Pasted image 20240827180443.png",
     "screenshots/Pasted image 20240827180443.png.~tmp",
     "screenshots/Pasted image 20240903103031.png",
-    "screenshots/Pasted image 20240827180443 1.png",
-    "screenshots/Pasted image 20240826141727.png"
+    "screenshots/Pasted image 20240827180443 1.png"
   ]
 }
