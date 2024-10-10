@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-10.md",
+                "file": "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-10.md",
+                "file": "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-10.md",
+                "file": "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-10.md"
+                "file": "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md"
               }
             }
           }
@@ -147,24 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "065cc061d5083b6b",
+  "active": "380b101191a24bd8",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/Untitled",
+    "업무관련 개인폴더/업무기록/10월/2024-10-10.md",
+    "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md",
+    "업무관련 개인폴더/업무기록/10월/2024-10-01.md",
+    "업무관련 개인폴더/업무기록/9월/2024-09-10.md",
+    "업무관련 개인폴더/업무기록/10월",
     "업무관련 개인폴더/업무기록/9월",
     "업무관련 개인폴더/업무기록/9월 이전",
-    "업무관련 개인폴더/업무기록/2024-10-08.md",
-    "업무관련 개인폴더/업무기록/2024-10-10.md",
+    "업무관련 개인폴더/업무기록/10월/2024-10-08.md",
     "conflict-files-obsidian-git.md",
     "업무관련(SW validation - Testing)/minutes/1007 SQA회의.md",
     "업무관련(SW validation - Testing)/iPIS-500 장비training/iPIS-500 장비 Training (move to confluence page).md",
-    "업무관련 개인폴더/업무기록/2024-10-07.md",
-    "업무관련 개인폴더/업무기록/2024-10-02.md",
-    "업무관련 개인폴더/업무기록/2024-10-01.md",
+    "업무관련 개인폴더/업무기록/10월/2024-10-07.md",
+    "업무관련 개인폴더/업무기록/10월/2024-10-02.md",
     "업무관련(SW validation - Testing)/minutes/0926 주간보고.md",
     "업무관련(SW validation - Testing)/minutes/0925 SQA 회의.md",
     "업무관련(SW validation - Testing)/minutes/0925 SQA 팀 회의.md",
-    "업무관련 개인폴더/업무기록/2024-09-27.md",
-    "업무관련 개인폴더/업무기록/2024-09-26.md",
+    "업무관련 개인폴더/업무기록/9월/2024-09-27.md",
+    "업무관련 개인폴더/업무기록/9월/2024-09-26.md",
     "업무관련 개인폴더/업무기록/daily note template.md",
     "업무관련 개인폴더/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
     "업무관련 개인폴더/(AI 문답) TR-Test request와 Test requirement의 차이.md",
@@ -173,10 +175,9 @@
     "업무관련 개인폴더/품의서 작성.md",
     "업무관련(SW validation - Testing)/Testing) TRS.md",
     "업무관련(SW validation - Testing)/SQA 목표 - TMMI (Level 2, potentially Level).md",
-    "업무관련 개인폴더/업무기록/2024-09-25.md",
+    "업무관련 개인폴더/업무기록/9월/2024-09-25.md",
     "업무관련(SW validation - Testing)/minutes/0920 SQA 내부회의.md",
-    "업무관련 개인폴더/업무기록/2024-09-24.md",
-    "업무관련 개인폴더/업무기록/2024-09-23.md",
+    "업무관련 개인폴더/업무기록/9월/2024-09-24.md",
     "screenshots/Pasted image 20240924170338.png",
     "업무관련 개인폴더/Untitled.canvas",
     "업무관련 개인폴더/업무기록",
@@ -190,7 +191,6 @@
     "screenshots/Pasted image 20240827180443.png",
     "screenshots/Pasted image 20240827180443.png.~tmp",
     "screenshots/Pasted image 20240903103031.png",
-    "smart-chats",
     "screenshots/Pasted image 20240827180443 1.png",
     "screenshots/Pasted image 20240826141727.png",
     "screenshots/Pasted image 20240826135820.png",
