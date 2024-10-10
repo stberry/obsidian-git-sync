@@ -29,8 +29,8 @@
 	- Bug template
 	- TR workflow
 	- TR template
-	- 버전관리? 
-	- Jira-release
+	- 버전관리? - 데모
+	- Jira-release - 데모
 - User story : MED, PRD 목차 confluence와 링크하여 추적성 체크
 	- 구성: 개발자, 가이드, 에픽구조 결정: 팀장님
 	- 에픽-매뉴얼의 목차, PRD의 목차와 epic으로 연결될 수 있는가
