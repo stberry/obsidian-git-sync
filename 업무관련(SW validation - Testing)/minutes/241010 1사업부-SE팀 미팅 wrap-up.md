@@ -33,6 +33,8 @@
 	- Jira-release
 - User story : MED, PRD 목차 confluence와 링크하여 추적성 체크
 	- 구성: 개발자, 가이드, 에픽구조 결정: 팀장님
+	- 에픽-매뉴얼의 목차, PRD의 목차와 epic으로 연결될 수 있는가 고민
+	- user story 밑에 task 생성
 
 ---
 김효승 책임
