@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bcdbf3f5804d5cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-10.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-10.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-10.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,15 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "380b101191a24bd8",
+  "active": "bcdbf3f5804d5cbb",
   "lastOpenFiles": [
-    "업무관련(SW validation - Testing)/minutes/1007 SQA회의.md",
     "업무관련 개인폴더/업무기록/2024-10-10.md",
+    "conflict-files-obsidian-git.md",
+    "업무관련(SW validation - Testing)/minutes/1007 SQA회의.md",
     "업무관련(SW validation - Testing)/iPIS-500 장비training/iPIS-500 장비 Training (move to confluence page).md",
     "업무관련 개인폴더/업무기록/2024-10-08.md",
     "업무관련 개인폴더/업무기록/2024-10-07.md",
     "업무관련 개인폴더/업무기록/2024-10-02.md",
-    "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2024-10-01.md",
     "업무관련(SW validation - Testing)/minutes/0926 주간보고.md",
     "업무관련(SW validation - Testing)/minutes/0925 SQA 회의.md",
