@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/0926 주간보고.md",
+                "file": "업무관련(SW validation - Testing)/minutes/0925 SQA 회의.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/0926 주간보고.md",
+                "file": "업무관련(SW validation - Testing)/minutes/0925 SQA 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/0926 주간보고.md",
+                "file": "업무관련(SW validation - Testing)/minutes/0925 SQA 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/0926 주간보고.md"
+                "file": "업무관련(SW validation - Testing)/minutes/0925 SQA 회의.md"
               }
             }
           }
@@ -174,8 +174,8 @@
   },
   "active": "4318203b8310e7fd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "업무관련(SW validation - Testing)/minutes/0926 주간보고.md",
+    "conflict-files-obsidian-git.md",
     "업무관련(SW validation - Testing)/minutes/1007 SQA회의.md",
     "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md",
     "업무관련(SW validation - Testing)/minutes/241010 1사업부-SE팀 미팅.md",
