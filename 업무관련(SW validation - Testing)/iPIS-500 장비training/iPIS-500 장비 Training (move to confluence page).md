@@ -9,4 +9,4 @@
   → iPIS-500은 기존장비와 크게 다름 ==(중요)
 - 9월 7일 ~ 9월 28일 (김동규 선임 출장)
 
-==**※ move to confluence page and it will be updated conti in confluence**==
+==**※ move to confluence page and it will be updated continously in confluence**==

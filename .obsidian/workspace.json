@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa98d50d8a1f0b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-15.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,14 +160,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "85ba2a217f9e490f",
+  "active": "aa98d50d8a1f0b94",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/10월/2024-10-11.md",
     "업무관련 개인폴더/업무기록/2024-10-15.md",
+    "conflict-files-obsidian-git.md",
+    "업무관련(SW validation - Testing)/minutes/1014 SE팀 미팅.md",
+    "업무관련 개인폴더/업무기록/2024-10-14.md",
+    "업무관련 개인폴더/업무기록/10월/2024-10-11.md",
     "업무관련 개인폴더/업무기록/10월/2024-10-10.md",
     "업무관련 개인폴더/업무기록/10월/2024-10-08.md",
     "업무관련(SW validation - Testing)/minutes/241010 1사업부-SE팀 미팅.md",
-    "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2024-10-11.md",
     "업무관련 개인폴더/업무기록/2024-10-10.md",
     "screenshots/Pasted image 20241011094637.png",
@@ -180,9 +195,7 @@
     "업무관련 개인폴더/업무기록/9월 이전",
     "업무관련 개인폴더/업무기록/10월/2024-10-07.md",
     "업무관련 개인폴더/업무기록/10월/2024-10-02.md",
-    "업무관련 개인폴더/업무기록/10월/2024-10-01.md",
     "업무관련 개인폴더/업무기록/10월",
-    "업무관련 개인폴더/업무기록/2024-10-08.md",
     "screenshots/Pasted image 20240924170338.png",
     "screenshots/Pasted image 20240826131859.png",
     "업무관련 개인폴더/Untitled.canvas",
