@@ -5,4 +5,6 @@
 2. TR 관리 (테스팅 팀)
 	- Submit->Open(Review) : accept/reject 결정, reject시 반려이유 작성
 	- Testing : 버그 등록 후 TR과 Task에 연결
-1. 
+		- Task -> Bug : Task를 추적하기 위함
+		- TR -> Bug : 최종 종료 단계 이전에 Bug 해결 상황을 한눈에 확인할 수 있음
+3. 
