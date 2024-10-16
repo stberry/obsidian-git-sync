@@ -1,20 +1,13 @@
 
-
-
-
-
-
-
-
-
-
 - 차수 진행은 Main test - Confirmation test - Regression test로 진행
 	- 기대 결과
 		- Main test - Bug submit
 		- Confirmation test - Bug 상태 변경 : reolved -> reopen or close
 		- Regression test : Confirmation test 진행 후 수정된 버전에 대한 테스트?  close Bug에 대한 테스트?
 - TR은 차수검증(차수테스트)시 매 차수마다 작성
-
+	- 각 차수별 완료된 작업의 Test 수행
+	- 1차 테스트 : MED/PRD 기반 TC + 전체 TC
+	- 2차 테스트 : 1차 테스트 시 통과되지 못한 Bug, 새로운 Bug
 
 1. TR 요청시 (개발자)
 	- TR 이슈를 생성하고 테스트가 필요한 개발 Task를 연결
