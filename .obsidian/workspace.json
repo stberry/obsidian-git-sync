@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f7248f90f305920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-16.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-16.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-10-16.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,17 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4318203b8310e7fd",
+  "active": "6f7248f90f305920",
   "lastOpenFiles": [
+    "업무관련 개인폴더/업무기록/2024-10-16.md",
+    "conflict-files-obsidian-git.md",
+    "업무관련 개인폴더/(Jira) Testing project management rule.md",
     "업무관련 개인폴더/Testing rule (temp).md",
     "업무관련 개인폴더/업무기록/10월/2024-10-15.md",
-    "업무관련 개인폴더/업무기록/2024-10-16.md",
     "업무관련 개인폴더/업무기록/10월/2024-10-14.md",
     "업무관련(SW validation - Testing)/minutes/0926 주간보고.md",
     "업무관련 개인폴더/업무기록/9월 이전/0821~0909 퇴근일지 (업무기록).md",
     "업무관련 개인폴더/업무기록/10월/2024-10-01.md",
     "업무관련 개인폴더/업무기록/10월/2024-10-11.md",
-    "conflict-files-obsidian-git.md",
     "업무관련(SW validation - Testing)/minutes/1014 SE팀 미팅.md",
     "업무관련(SW validation - Testing)/minutes/1010 SE팀 내부회의.md",
     "업무관련(SW validation - Testing)/Testing) TRS.md",
@@ -177,7 +191,6 @@
     "업무관련(SW validation - Testing)/minutes/Pasted image 20241011094118.png",
     "업무관련(SW validation - Testing)/minutes/Pasted image 20241011094005.png",
     "업무관련 개인폴더/업무기록/10월/2024-10-10.md",
-    "업무관련 개인폴더/업무기록/10월/2024-10-08.md",
     "screenshots/Pasted image 20241010120322.png",
     "screenshots/Pasted image 20241010120304.png",
     "screenshots/Pasted image 20241010120254.png",
