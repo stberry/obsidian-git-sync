@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "514b8555ad4a07c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/Testing rule (temp).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/Testing rule (temp).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/Testing rule (temp).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,14 +160,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "85ba2a217f9e490f",
+  "active": "514b8555ad4a07c0",
   "lastOpenFiles": [
-    "업무관련(SW validation - Testing)/minutes/1007 SQA회의.md",
     "업무관련 개인폴더/Testing rule (temp).md",
+    "conflict-files-obsidian-git.md",
+    "업무관련 개인폴더/업무기록/2024-10-16.md",
+    "업무관련(SW validation - Testing)/minutes/1007 SQA회의.md",
     "업무관련 개인폴더/업무기록/10월/2024-10-15.md",
     "업무관련 개인폴더/업무기록/10월/2024-10-14.md",
     "업무관련 개인폴더/업무기록/2024-10-15.md",
-    "conflict-files-obsidian-git.md",
     "업무관련(SW validation - Testing)/minutes/1014 SE팀 미팅.md",
     "업무관련 개인폴더/업무기록/2024-10-14.md",
     "업무관련 개인폴더/업무기록/10월/2024-10-11.md",
@@ -179,7 +193,6 @@
     "업무관련 개인폴더/업무기록/9월/2024-09-23.md",
     "업무관련 개인폴더/업무기록/9월/2024-09-13.md",
     "업무관련 개인폴더/업무기록/9월/2024-09-19.md",
-    "업무관련 개인폴더/업무기록/9월/2024-09-11.md",
     "업무관련 개인폴더/업무기록/9월",
     "업무관련 개인폴더/업무기록/9월 이전",
     "업무관련 개인폴더/업무기록/10월",
