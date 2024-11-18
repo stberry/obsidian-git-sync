@@ -1,0 +1,18 @@
+매뉴얼 분석 목차
+- [ ] 매뉴얼 업데이트에 대한 이슈사항은 Jira 어느곳에 등록하는지? SQA 버그페이지에 등록하는가?
+- Handler
+	- [x] Software
+	- [ ] ~~Handler Teaching~~
+		- Installation & Setup 단계의 Calibration과 초기 설정은 전문 엔지니어가 수행하는 하드웨어 영역의 작업이므로, SW 기능과 성능을 검증하는 System Operation Test와는 별도로 진행됩니다. (offset 범위 밖이므로 제외)
+	- [ ] Error & Alarm list and recovery
+		- [ ] 알람 메시지 TC traceability 분석
+	- [ ] 기타 Software 동작관련 (ex. EMO)
+	- [ ] appendix - Barcode system for picker mount
+- Vision
+	- [ ] Vision S/W
+	- [ ] Job Setup
+	- [ ] Preprocessing Inspection setup
+	- ~~(레시피 insp item setup 파악해서 목차 정리)~~
+		- 크게 다른점 없음, C/S 시나리오 작성시 항목이 정해질 듯 싶음
+		- 레시피에 따라 달라질 예정
+		- [ ] 모두 사용함을 전제로 분석
