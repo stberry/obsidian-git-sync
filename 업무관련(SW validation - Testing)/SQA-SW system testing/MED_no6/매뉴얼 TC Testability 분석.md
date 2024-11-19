@@ -1,7 +1,8 @@
 매뉴얼 분석 목차
-- [ ] 매뉴얼 업데이트에 대한 이슈사항은 Jira 어느곳에 등록하는지? SQA 버그페이지에 등록하는가?
+- [ ] ~~매뉴얼 업데이트에 대한 이슈사항은 Jira 어느곳에 등록하는지? SQA 버그페이지에 등록하는가?
 	- Traceability는 Confluence page(diff check)에 등록할 것
-	- [ ] 11.18일 마무리
+	- [ ] ~~11.18 마무리
+	- [ ] 11.19 마무리
 - Handler
 	- [x] Software
 	- [x] ~~Handler Teaching~~ 
@@ -9,15 +10,19 @@
 			- Installation & Setup 단계의 Calibration과 초기 설정은 전문 엔지니어가 수행하는 하드웨어 영역의 작업이므로, SW 기능과 성능을 검증하는 System Operation Test와는 별도로 진행됩니다. (offset 범위 밖이므로 제외)
 	- [x] Error & Alarm list and recovery
 		- [x] 알람 메시지 TC Testability 분석
-			- 알람메시지는 모두 TC화 할 것
-	- [ ] 기타 Software 동작관련 (ex. EMO) - Error & Alarm에 TC 생성
-	- [ ] appendix - Barcode system for picker mount
+			- 알람메시지는 모두 TC화 할 것?
+			- 알람메시지를 재현할 수 없음, 장비손상우려, 레시피를 조정해서 시뮬레이션 테스트?
+			- 
+	- [ ] ==기타 Software 동작관련 (ex. EMO) - Error & Alarm에 TC 생성
+		- 2. Safety - 2.4.1 EMO, 2.4.2 Light curtain
+	- [ ] ==appendix - Barcode system for picker mount
 		- Common Install 시트에 바코드 시스템 설치 TC 추가?
 - Vision
-	- [ ] Vision S/W
-	- [ ] Job Setup
-	- [ ] Preprocessing Inspection setup
+	- [x] Vision S/W
+	- [x] Job Setup
+	- [x] Preprocessing Inspection setup
 	- ~~(레시피 insp item setup 파악해서 목차 정리)~~
 		- 크게 다른점 없음, C/S 시나리오 작성시 항목이 정해질 듯 싶음
 		- 레시피에 따라 달라질 예정
-		- [ ] 모두 사용함을 전제로 분석
+		- ==**Surface 항목 추가 예정**
+		- [ ] ~~모두 사용함을 전제로 분석~~
