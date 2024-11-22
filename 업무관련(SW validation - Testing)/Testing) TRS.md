@@ -12,7 +12,7 @@
 	1) 장비 동작 시퀀스 수행
 	2) 전반적인 장비 동작 메커니즘에 대한 설명
 	3) empty tray로 반복 lot 수행
-		- empty tray의 이동 메커니즘 파악
+		- empty tray의 이동 메커니즘 파악 (Handler 동작 메커니즘)
 		- 중간중간 emo 이슈 (강제 interrupt)
 	4) package/picker 대여 -> sorter 작업 수행
 		- picker는 1, 6번에 장착

@@ -1,8 +1,8 @@
 매뉴얼 분석 목차
-- [ ] ~~매뉴얼 업데이트에 대한 이슈사항은 Jira 어느곳에 등록하는지? SQA 버그페이지에 등록하는가?
+- [x] ~~매뉴얼 업데이트에 대한 이슈사항은 Jira 어느곳에 등록하는지? SQA 버그페이지에 등록하는가?
 	- Traceability는 Confluence page(diff check)에 등록할 것
 	- [ ] ~~11.18 마무리
-	- [ ] 11.19 마무리
+	- [x] 11.19 마무리
 - Handler
 	- [x] Software
 	- [x] ~~Handler Teaching~~ 
@@ -13,9 +13,9 @@
 			- 알람메시지는 모두 TC화 할 것?
 			- 알람메시지를 재현할 수 없음, 장비손상우려, 레시피를 조정해서 시뮬레이션 테스트?
 			- 
-	- [ ] ==기타 Software 동작관련 (ex. EMO) - Error & Alarm에 TC 생성
+	- [ ] ~~==기타 Software 동작관련 (ex. EMO) - Error & Alarm에 TC 생성~~ Handler_Main TC에 추가
 		- 2. Safety - 2.4.1 EMO, 2.4.2 Light curtain
-	- [ ] ==appendix - Barcode system for picker mount
+	- [x] ==appendix - Barcode system for picker mount
 		- Common Install 시트에 바코드 시스템 설치 TC 추가?
 - Vision
 	- [x] Vision S/W
