@@ -1,3 +1,3 @@
-- [ ] 개발자 email 분석
+- [x] 개발자 email 분석
 - [ ] FARM 작성
 - [ ] FARM 기반 TC
