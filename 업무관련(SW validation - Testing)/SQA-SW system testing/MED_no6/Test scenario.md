@@ -18,7 +18,8 @@
 	17. Sorting sequence
 		1. 정상적으로 Sorting 하는 경우?
 		2. Good tray가 모두 찰때까지?
-		3. 
+		3. Reject buffer에 남은 패키지가 양품보다 적을때?
+		4. 
 2. Package test (target board)
 	1. SKXXCC
 	2. SPR
