@@ -16,6 +16,9 @@
 	15. NGRV sequence
 	16. Pick and place sequence
 	17. Sorting sequence
+		1. 정상적으로 Sorting 하는 경우?
+		2. Good tray가 모두 찰때까지?
+		3. 
 2. Package test (target board)
 	1. SKXXCC
 	2. SPR
