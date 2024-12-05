@@ -190,8 +190,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "508637139e618058",
+  "active": "065cc061d5083b6b",
   "lastOpenFiles": [
+    "screenshots/TFT thin trays.jpg",
+    "screenshots/~CP trays.tmp",
+    "screenshots/LCP trays.jpg",
     "screenshots/Pasted image 20241204164106.png",
     "screenshots/Pasted image 20241202111453.png",
     "screenshots/Pasted image 20241204164212.png",
@@ -201,8 +204,6 @@
     "screenshots/Pasted image 20241010120254.png",
     "screenshots/Pasted image 20241010120322.png",
     "screenshots/Pasted image 20240924170338.png",
-    "screenshots/Pasted image 20240906143533.png",
-    "screenshots/Pasted image 20240906143353.png",
     "업무관련 개인폴더/업무기록/12월/2024-12-03.md",
     "업무관련 개인폴더/업무기록/12월/2024-12-02.md",
     "업무관련 개인폴더/업무기록/2024-12-04.md",
@@ -236,7 +237,6 @@
     "업무관련 개인폴더/업무기록/11월",
     "업무관련 개인폴더/기타",
     "업무관련 개인폴더/AI 문답",
-    "업무관련(SW validation - Testing)/시뮬레이터training",
-    "업무관련(SW validation - Testing)/minutes"
+    "업무관련(SW validation - Testing)/시뮬레이터training"
   ]
 }
