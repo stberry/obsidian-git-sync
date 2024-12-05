@@ -1,10 +1,11 @@
 - 오전
-	- asdf
+	- SQA Daily meeting
 - 오후
-	- adsf
+	- ...
 
->[!수행경과]
->- 오전
->	- asdf
->- 오후
->	- asdf
+<수행 경과>
+- [ ] Daily meeting minutes upload (confluence)
+- [ ] Work progress check (Jira)
+	- [ ] SET
+	- [ ] ALM
+

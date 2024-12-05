@@ -13,13 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "자재파악현황 2024-12-04"
+            }
+          },
+          {
+            "id": "59ecd15d3983f659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "업무관련 개인폴더/업무기록/2024-12-06.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-06"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "2024-12-06의 백링크"
             }
           },
           {
@@ -105,7 +130,9 @@
                 "file": "업무관련 개인폴더/업무기록/2024-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "2024-12-06의 나가는 링크"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +155,9 @@
               "type": "outline",
               "state": {
                 "file": "업무관련 개인폴더/업무기록/2024-12-06.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "2024-12-06 개요"
             }
           }
         ]
@@ -147,17 +178,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "065cc061d5083b6b",
+  "active": "59ecd15d3983f659",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/daily note template.md",
     "업무관련 개인폴더/업무기록/2024-12-06.md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
+    "업무관련 개인폴더/업무기록/daily note template.md",
     "업무관련 개인폴더/업무기록/8월 (0820~0909)/0821~0909 퇴근일지 (업무기록).md",
     "업무관련 개인폴더/업무기록/8월 (0820~0909)",
     "업무관련 개인폴더/업무기록/12월/2024-12-03.md",
     "업무관련 개인폴더/업무기록/12월/2024-12-02.md",
     "업무관련 개인폴더/업무기록/12월",
     "업무관련(SW validation - Testing)/minutes/241121 전사 SW 회의 회의록.md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/매뉴얼 TC Testability 분석.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Test scenario.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Fault analysis (1year history).md",
