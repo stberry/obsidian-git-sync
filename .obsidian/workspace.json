@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "자재파악현황 2024-12-04"
             }
+          },
+          {
+            "id": "508637139e618058",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "screenshots/Image.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Image"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
+                "file": "screenshots/Image.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "자재파악현황 2024-12-04의 백링크"
+              "title": "Image의 백링크"
             }
           },
           {
@@ -127,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
+                "file": "screenshots/Image.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "자재파악현황 2024-12-04의 나가는 링크"
+              "title": "Image의 나가는 링크"
             }
           },
           {
@@ -154,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md"
+                "file": "screenshots/Image.jpg"
               },
               "icon": "lucide-list",
-              "title": "자재파악현황 2024-12-04 개요"
+              "title": "Image 개요"
             }
           }
         ]
@@ -178,23 +190,36 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "59ecd15d3983f659",
+  "active": "508637139e618058",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/2024-12-04.md",
-    "업무관련 개인폴더/업무기록/2024-12-05.md",
-    "업무관련 개인폴더/업무기록/2024-12-06.md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
-    "업무관련 개인폴더/업무기록/daily note template.md",
-    "업무관련 개인폴더/업무기록/8월 (0820~0909)/0821~0909 퇴근일지 (업무기록).md",
-    "업무관련 개인폴더/업무기록/8월 (0820~0909)",
+    "screenshots/Pasted image 20241204164106.png",
+    "screenshots/Pasted image 20241202111453.png",
+    "screenshots/Pasted image 20241204164212.png",
+    "screenshots/Pasted image 20241011094637.png",
+    "screenshots/Pasted image 20241010120304.png",
+    "screenshots/Pasted image 20241010120236.png",
+    "screenshots/Pasted image 20241010120254.png",
+    "screenshots/Pasted image 20241010120322.png",
+    "screenshots/Pasted image 20240924170338.png",
+    "screenshots/Pasted image 20240906143533.png",
+    "screenshots/Pasted image 20240906143353.png",
     "업무관련 개인폴더/업무기록/12월/2024-12-03.md",
     "업무관련 개인폴더/업무기록/12월/2024-12-02.md",
+    "업무관련 개인폴더/업무기록/2024-12-04.md",
+    "업무관련 개인폴더/업무기록/2024-12-05.md",
+    "업무관련 개인폴더/업무기록/daily note template.md",
+    "업무관련 개인폴더/업무기록/2024-12-06.md",
+    "업무관련(SW validation - Testing)/Testing) TRS.md",
+    "업무관련(SW validation - Testing)/SQA 목표 - TMMI (Level 2, potentially Level).md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/매뉴얼 TC Testability 분석.md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Fault analysis (1year history).md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Test scenario.md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/Testing project management rule.md",
+    "업무관련 개인폴더/업무기록/8월 (0820~0909)/0821~0909 퇴근일지 (업무기록).md",
+    "업무관련 개인폴더/업무기록/8월 (0820~0909)",
     "업무관련 개인폴더/업무기록/12월",
     "업무관련(SW validation - Testing)/minutes/241121 전사 SW 회의 회의록.md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/매뉴얼 TC Testability 분석.md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Test scenario.md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Fault analysis (1year history).md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/Testing project management rule.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6",
     "업무관련(SW validation - Testing)/SQA-SW system testing",
     "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-27.md",
@@ -207,24 +232,11 @@
     "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-13.md",
     "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-12.md",
     "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-11.md",
-    "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-10.md",
     "업무관련 개인폴더/업무기록/9월 (0910~)",
-    "업무관련 개인폴더/업무기록/11월/2024-11-29.md",
-    "업무관련 개인폴더/업무기록/11월/2024-11-28.md",
     "업무관련 개인폴더/업무기록/11월",
     "업무관련 개인폴더/기타",
     "업무관련 개인폴더/AI 문답",
-    "screenshots/Pasted image 20241204164245.png",
-    "screenshots/Pasted image 20241204164226.png",
-    "screenshots/Pasted image 20241204164212.png",
-    "screenshots/Pasted image 20241204164106.png",
-    "screenshots/Pasted image 20241202111453.png",
-    "screenshots/Image.jpg",
     "업무관련(SW validation - Testing)/시뮬레이터training",
-    "업무관련(SW validation - Testing)/minutes",
-    "screenshots/Pasted image 20241011094637.png",
-    "screenshots/Pasted image 20241010120322.png",
-    "screenshots/Pasted image 20241010120304.png",
-    "screenshots/Pasted image 20241010120254.png"
+    "업무관련(SW validation - Testing)/minutes"
   ]
 }
