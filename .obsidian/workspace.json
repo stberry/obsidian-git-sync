@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-12-06.md",
+                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-06"
+              "title": "자재파악현황 2024-12-04"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-12-06.md",
+                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024-12-06의 백링크"
+              "title": "자재파악현황 2024-12-04의 백링크"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-12-06.md",
+                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2024-12-06의 나가는 링크"
+              "title": "자재파악현황 2024-12-04의 나가는 링크"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-12-06.md"
+                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-06 개요"
+              "title": "자재파악현황 2024-12-04 개요"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "59ecd15d3983f659",
   "lastOpenFiles": [
+    "업무관련 개인폴더/업무기록/2024-12-04.md",
+    "업무관련 개인폴더/업무기록/2024-12-05.md",
     "업무관련 개인폴더/업무기록/2024-12-06.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
     "업무관련 개인폴더/업무기록/daily note template.md",
@@ -209,8 +211,6 @@
     "업무관련 개인폴더/업무기록/9월 (0910~)",
     "업무관련 개인폴더/업무기록/11월/2024-11-29.md",
     "업무관련 개인폴더/업무기록/11월/2024-11-28.md",
-    "업무관련 개인폴더/업무기록/11월/2024-11-26.md",
-    "업무관련 개인폴더/업무기록/11월/2024-11-27.md",
     "업무관련 개인폴더/업무기록/11월",
     "업무관련 개인폴더/기타",
     "업무관련 개인폴더/AI 문답",
