@@ -1,68 +1,41 @@
 {
   "main": {
-    "id": "45eceb19c561532d",
+    "id": "017f11169e549edd",
     "type": "split",
     "children": [
       {
-        "id": "30f388739d08badf",
+        "id": "b762d5d623c3a382",
         "type": "tabs",
         "children": [
           {
-            "id": "9d3af89d4fc52f62",
+            "id": "a9852ef3d218c84d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
+                "file": "업무관련 개인폴더/업무기록/2024-12-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자재파악현황 2024-12-04"
-            }
-          },
-          {
-            "id": "59ecd15d3983f659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "자재파악현황 2024-12-04"
-            }
-          },
-          {
-            "id": "508637139e618058",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "screenshots/Image.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Image"
+              "title": "2024-12-09"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "77464dfdea050380",
+    "id": "e3318e5e86a3f400",
     "type": "split",
     "children": [
       {
-        "id": "9212f7f77b42a9c5",
+        "id": "707314b002f82fc5",
         "type": "tabs",
         "children": [
           {
-            "id": "065cc061d5083b6b",
+            "id": "874b3e3ff432be4c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,11 +43,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
-            "id": "38ef3493c144e3c4",
+            "id": "f70d7bda72ffe59b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,11 +60,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
-            "id": "a5c224902375404c",
+            "id": "e26678eae986b83c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "afc0cf9f35abb4cd",
+    "id": "85c48cd9f009cd74",
     "type": "split",
     "children": [
       {
-        "id": "90599863570c8190",
+        "id": "c3f66251c909f271",
         "type": "tabs",
         "children": [
           {
-            "id": "15e760e8310a0a0c",
+            "id": "0fd2b3cbc3e0c538",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "screenshots/Image.jpg",
+                "file": "업무관련 개인폴더/업무기록/10월/2024-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Image의 백링크"
+              "title": "Backlinks for 2024-10-17"
             }
           },
           {
-            "id": "09bc543e2b73925d",
+            "id": "1970d113357b2780",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "screenshots/Image.jpg",
+                "file": "업무관련 개인폴더/업무기록/10월/2024-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Image의 나가는 링크"
+              "title": "Outgoing links from 2024-10-17"
             }
           },
           {
-            "id": "20285feca3d65928",
+            "id": "6a7f133ba7341365",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,15 +134,15 @@
             }
           },
           {
-            "id": "f533fa13815dd060",
+            "id": "54b132e3ed682c10",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "screenshots/Image.jpg"
+                "file": "업무관련 개인폴더/업무기록/10월/2024-10-17.md"
               },
               "icon": "lucide-list",
-              "title": "Image 개요"
+              "title": "Outline of 2024-10-17"
             }
           }
         ]
@@ -182,61 +155,55 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "065cc061d5083b6b",
+  "active": "a9852ef3d218c84d",
   "lastOpenFiles": [
-    "screenshots/TFT thin trays.jpg",
-    "screenshots/~CP trays.tmp",
-    "screenshots/LCP trays.jpg",
-    "screenshots/Pasted image 20241204164106.png",
-    "screenshots/Pasted image 20241202111453.png",
-    "screenshots/Pasted image 20241204164212.png",
-    "screenshots/Pasted image 20241011094637.png",
-    "screenshots/Pasted image 20241010120304.png",
-    "screenshots/Pasted image 20241010120236.png",
-    "screenshots/Pasted image 20241010120254.png",
-    "screenshots/Pasted image 20241010120322.png",
-    "screenshots/Pasted image 20240924170338.png",
-    "업무관련 개인폴더/업무기록/12월/2024-12-03.md",
-    "업무관련 개인폴더/업무기록/12월/2024-12-02.md",
-    "업무관련 개인폴더/업무기록/2024-12-04.md",
-    "업무관련 개인폴더/업무기록/2024-12-05.md",
-    "업무관련 개인폴더/업무기록/daily note template.md",
     "업무관련 개인폴더/업무기록/2024-12-06.md",
-    "업무관련(SW validation - Testing)/Testing) TRS.md",
-    "업무관련(SW validation - Testing)/SQA 목표 - TMMI (Level 2, potentially Level).md",
+    "screenshots/TFT thin trays.jpg",
+    "screenshots/LCP trays.jpg",
+    "업무관련 개인폴더/업무기록/2024-12-05.md",
+    "업무관련 개인폴더/업무기록/2024-12-09.md",
+    "업무관련 개인폴더/업무기록/2024-12-04.md",
+    "업무관련 개인폴더/반도체(Semi-conductor) 기초.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/매뉴얼 TC Testability 분석.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Fault analysis (1year history).md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Test scenario.md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/Testing project management rule.md",
-    "업무관련 개인폴더/업무기록/8월 (0820~0909)/0821~0909 퇴근일지 (업무기록).md",
-    "업무관련 개인폴더/업무기록/8월 (0820~0909)",
+    "screenshots/Pasted image 20241204164245.png",
+    "screenshots/Pasted image 20241204164226.png",
+    "screenshots/Pasted image 20241204164212.png",
+    "screenshots/Pasted image 20241204164106.png",
+    "screenshots/Image.jpg",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Pasted image 20241204164245.png",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Pasted image 20241204164226.png",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Pasted image 20241204164212.png",
+    "업무관련 개인폴더/업무기록/12월/2024-12-03.md",
+    "업무관련 개인폴더/업무기록/11월/2024-11-28.md",
+    "업무관련 개인폴더/업무기록/11월/2024-11-29.md",
+    "업무관련 개인폴더/업무기록/12월/2024-12-02.md",
     "업무관련 개인폴더/업무기록/12월",
-    "업무관련(SW validation - Testing)/minutes/241121 전사 SW 회의 회의록.md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6",
-    "업무관련(SW validation - Testing)/SQA-SW system testing",
-    "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-27.md",
-    "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-26.md",
-    "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-25.md",
-    "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-24.md",
-    "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-23.md",
-    "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-20.md",
-    "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-19.md",
-    "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-13.md",
-    "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-12.md",
-    "업무관련 개인폴더/업무기록/9월 (0910~)/2024-09-11.md",
-    "업무관련 개인폴더/업무기록/9월 (0910~)",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Test scenario.md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/매뉴얼 TC Testability 분석.md",
+    "업무관련 개인폴더/업무기록/11월/2024-11-27.md",
+    "업무관련 개인폴더/업무기록/11월/2024-11-26.md",
+    "업무관련 개인폴더/업무기록/11월/2024-11-25.md",
+    "업무관련 개인폴더/업무기록/11월/2024-11-22.md",
+    "업무관련 개인폴더/AI 문답/(AI 문답) 테스트케이스 작성 과정 (Claude Q&A).md",
+    "업무관련 개인폴더/AI 문답/(AI 문답) TR-Test request와 Test requirement의 차이.md",
+    "업무관련(SW validation - Testing)/SQA 목표 - TMMI (Level 2, potentially Level).md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/Testing project management rule.md",
+    "업무관련(SW validation - Testing)/iPIS-500 장비training/iPIS-500 장비 Training (move to confluence page).md",
+    "업무관련(SW validation - Testing)/시뮬레이터training/(설치) 비전 시뮬레이터.md",
+    "업무관련(SW validation - Testing)/시뮬레이터training/(설치) 핸들러 시뮬레이터.md",
+    "업무관련(SW validation - Testing)/시뮬레이터training/비전 시뮬레이터 동작.md",
+    "업무관련(SW validation - Testing)/시뮬레이터training/핸들러 시뮬레이터 작동.md",
     "업무관련 개인폴더/업무기록/11월",
     "업무관련 개인폴더/기타",
-    "업무관련 개인폴더/AI 문답",
-    "업무관련(SW validation - Testing)/시뮬레이터training"
+    "업무관련 개인폴더/AI 문답"
   ]
 }
