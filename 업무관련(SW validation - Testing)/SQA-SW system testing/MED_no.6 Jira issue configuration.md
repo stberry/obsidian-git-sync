@@ -1,0 +1,10 @@
+- iPIS-500I MED#6 - Jira issue configuration
+    - Story : MED Level-2 (=PRD Level-1)
+        - Sub-working item : Development requirement analysis
+        - Sub-Task : Actual development
+    - Bug : 테스팅 팀에서 등록
+        - pre-test(alpha test)
+        - bigbang test(beta test)
+    - Defect : 개발중에 발생한 버그를 모아 등록
+        - sub-defect : Detailed bug information
+    - Test request : 개발팀에서 테스트를 위해 요청할때 사용
