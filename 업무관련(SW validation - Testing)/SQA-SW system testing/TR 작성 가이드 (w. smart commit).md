@@ -15,6 +15,6 @@
 ---
 
 4. Smart 커밋( https://do-intekplus.atlassian.net/wiki/x/BoA0I ) 을 사용하여 빌드를 진행합니다. 이때 TR 이슈키를 삽입하여 빌드 후 버전이 TR 이슈에 댓글로 자동 삽입됩니다.
-- S3 링크 예시 ( https://intekplus-ipis-500i.s3.ap-northeast-2.amazonaws.com/staging/vision/iPIS-500I-Vision-20241213_151203.zip )
+- S3 링크 예시 ( https://intekplus-ipis-500i.s3.ap-northeast-2.amazonaws.com/staging/vision/iPIS-500I-Vision-20241216_182558.zip )
 ![[Pasted image 20241216182152.png]]
 ![[Pasted image 20241216182212.png]]
