@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/TR 작성 가이드.md",
+                "file": "업무관련 개인폴더/업무기록/2024-12-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TR 작성 가이드"
+              "title": "2024-12-13"
             }
           }
         ],
@@ -72,7 +72,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -183,24 +183,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a629b4740c34625",
+  "active": "48d0a6d0766093d0",
   "lastOpenFiles": [
-    "업무관련(SW validation - Testing)/SQA-SW system testing/Jira issue list (filter).png",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/iPIS-500 Test history (MED_no.6).md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/TR 작성 가이드.md",
-    "업무관련 개인폴더/업무기록/2024-12-16.md",
-    "업무관련 개인폴더/업무기록/2024-12-13.md",
-    "conflict-files-obsidian-git.md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/Jira issue list (filter).png",
     "screenshots/Pasted image 20241212181713.png",
+    "업무관련 개인폴더/업무기록/2024-12-16.md",
+    "conflict-files-obsidian-git.md",
+    "업무관련 개인폴더/업무기록/2024-12-13.md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/iPIS-500 Test history (MED_no.6).md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Pasted image 20241212181713.png",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no.6 Jira issue configuration.md",
     "업무관련 개인폴더/업무기록/2024-12-12.md",
     "업무관련 개인폴더/업무기록/2024-12-11.md",
@@ -228,8 +229,8 @@
     "업무관련 개인폴더/업무기록/11월/2024-11-28.md",
     "업무관련 개인폴더/업무기록/2024-12-03.md",
     "업무관련 개인폴더/업무기록/2024-11-29.md",
-    "screenshots/Pasted image 20241202111453.png",
     "업무관련 개인폴더/업무기록/2024-11-28.md",
+    "업무관련 개인폴더/업무기록/2024-11-25.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6",
     "업무관련 개인폴더/업무기록/11월",
     "업무관련 개인폴더/업무기록/9월 (0910~)",
