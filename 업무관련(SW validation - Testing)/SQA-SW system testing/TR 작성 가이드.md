@@ -7,8 +7,9 @@
 		- Model : 모델명 (ex. iPIS-500I)
 		- 수정버전 : 버전 입력
 		- Due Date : 테스트종료일
-		- Description(설명) : Jira issue 키 목록, 키 목록은 이슈를 만드신 후 매크로를 이용하여 삽입
-
+		- Description(설명) : 개발 완료된 아이템 목록 (3에서 설명)
+3. 해당 TR 차수에 변경된 항목을 등록합니다. 매크로-Jira 이슈 기능을 이용하여 이슈 목록을 필터링하여 삽입합니다.
+![[Jira issue list (filter).png]]
 
 Handler - 3.312.00.0210
 
