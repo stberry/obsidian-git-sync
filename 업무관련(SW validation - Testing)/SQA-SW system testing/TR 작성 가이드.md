@@ -11,4 +11,4 @@
 		- Description(설명) : 개발 완료된 아이템 목록 (3에서 설명)
 3. 해당 TR 차수에 변경된 항목을 등록합니다. 매크로-Jira 이슈 기능을 이용하여 이슈 목록을 필터링하여 삽입합니다.
 ![[Jira issue list (filter).png]]
-4. Smart 커밋을 사용하여 빌드를 진행합니다. 이때 TR 이슈키를 삽입하여 빌드 후 버전이 TR 이슈에 댓글로 자동 삽입됩니다.
+4. Smart 커밋( https://do-intekplus.atlassian.net/wiki/x/BoA0I ) 을 사용하여 빌드를 진행합니다. 이때 TR 이슈키를 삽입하여 빌드 후 버전이 TR 이슈에 댓글로 자동 삽입됩니다.
