@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/TR 작성 가이드 (w. smart commit).md",
+                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/TR 작성 가이드 (Jira issue).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TR 작성 가이드 (w. smart commit)"
+              "title": "TR 작성 가이드 (Jira issue)"
             }
           }
         ],
@@ -194,13 +194,13 @@
   },
   "active": "48d0a6d0766093d0",
   "lastOpenFiles": [
-    "업무관련(SW validation - Testing)/SQA-SW system testing/Pasted image 20241217085932.png",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/Pasted image 20241216182227.png",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/Pasted image 20241216182212.png",
+    "screenshots/Pasted image 20241216182212.png",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/TR 작성 가이드 (Jira issue).md",
+    "screenshots/Pasted image 20241217085932.png",
+    "screenshots/Pasted image 20241216182227.png",
     "screenshots/Pasted image 20241216182152.png",
     "screenshots/Jira issue list (filter).png",
     "업무관련(SW validation - Testing)/SQA-SW system testing/iPIS-500 Test history (MED_no.6).md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/TR 작성 가이드 (w. smart commit).md",
     "업무관련 개인폴더/업무기록/2024-12-16.md",
     "업무관련 개인폴더/업무기록/2024-12-13.md",
     "conflict-files-obsidian-git.md",
@@ -220,7 +220,6 @@
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/매뉴얼 TC Testability 분석.md",
     "screenshots/Image.jpg",
     "screenshots/Pasted image 20241204164245.png",
-    "screenshots/Pasted image 20241204164226.png",
     "업무관련 개인폴더/업무기록/2024-12-04.md",
     "업무관련 개인폴더/업무기록/2024-12-02.md",
     "업무관련 개인폴더/업무기록/12월/2024-12-03.md",
