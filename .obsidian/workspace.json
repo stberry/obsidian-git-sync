@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9fe9f67a5780166e",
+        "id": "18ee5e0f26bc6a01",
         "type": "tabs",
         "children": [
           {
-            "id": "b03aa68e5972bd45",
+            "id": "8c26a2a6aa524d44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-12-13.md",
+                "file": "업무관련 개인폴더/업무기록/2024-12-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-13"
-            }
-          },
-          {
-            "id": "2bde2aa506e8eabd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련 개인폴더/업무기록/2024-12-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-13"
-            }
-          },
-          {
-            "id": "48d0a6d0766093d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/TR 작성 가이드 (Jira issue).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TR 작성 가이드 (Jira issue)"
-            }
-          },
-          {
-            "id": "6dc98f2d21a6b372",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/TR 작성 가이드 (Jira issue).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TR 작성 가이드 (Jira issue)"
+              "title": "2024-12-17"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +163,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dc98f2d21a6b372",
+  "active": "8c26a2a6aa524d44",
   "lastOpenFiles": [
+    "업무관련 개인폴더/업무기록/2024-12-16.md",
+    "업무관련 개인폴더/업무기록/2024-12-17.md",
+    "업무관련 개인폴더/업무기록/2024-12-13.md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/(move to confluence) TR 작성 가이드 (Jira issue).md",
     "업무관련(SW validation - Testing)/SQA 목표 - TMMI (Level 2, potentially Level).md",
     "screenshots/Pasted image 20241010120254.png",
     "screenshots/Pasted image 20241010120236.png",
@@ -220,10 +181,7 @@
     "screenshots/Pasted image 20240826134209.png",
     "screenshots/Pasted image 20240826133647.png",
     "업무관련(SW validation - Testing)/SQA-SW system testing/Testing project management rule.md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/TR 작성 가이드 (Jira issue).md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/iPIS-500 Test history (MED_no.6).md",
-    "업무관련 개인폴더/업무기록/2024-12-16.md",
-    "업무관련 개인폴더/업무기록/2024-12-13.md",
     "conflict-files-obsidian-git.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no.6 Jira issue configuration.md",
     "업무관련 개인폴더/업무기록/2024-12-12.md",
@@ -244,7 +202,6 @@
     "업무관련 개인폴더/업무기록/11월/2024-11-29.md",
     "업무관련 개인폴더/업무기록/11월/2024-11-28.md",
     "업무관련 개인폴더/업무기록/2024-12-03.md",
-    "업무관련 개인폴더/업무기록/2024-11-29.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6",
     "업무관련 개인폴더/업무기록/11월",
     "업무관련 개인폴더/업무기록/9월 (0910~)",
