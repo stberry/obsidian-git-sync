@@ -31,7 +31,7 @@
 5. Other CRs
 	5.1 Refactoring : 소스코드에서 리팩토링된 부분이 있다면 숫자로 기입합니다.
 	5.2 Static Test : Static Test 결과 중 수정된 부분이 있다면 해결된 이슈 목록을 추가합니다.
-	
+	- ![[Pasted image 20241217093127.png]]
 
 
 
