@@ -22,11 +22,11 @@
 
 4. Change Request List : Change Requests, CR은 테스트 요청시 변경된 사항을 말합니다.
 	4.1 해당 테스트 차수에 검증이 필요한 항목을 해결된 스토리(Resolved) 기준으로 등록합니다. 
-- Story Workflow
+- Jira - Story Workflow
   ![[Pasted image 20241217085932.png]]
 
 	4.2 매크로-Jira 이슈 기능을 이용하여 이슈 목록을 필터링하여 삽입합니다.
-- Jira Issue List![[Jira issue list (filter).png]]
+- Jira Issue List : filter->MED#6프로젝트 / 스토리 / 완료![[Jira issue list (filter).png]]
 
 5. Other CRs
 	5.1 Refactoring : 소스코드에서 리팩토링된 부분이 있다면 숫자로 기입합니다.
