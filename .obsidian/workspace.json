@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "TR 작성 가이드 (Jira issue)"
             }
+          },
+          {
+            "id": "6dc98f2d21a6b372",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "screenshots/Pasted image 20241217085932.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241217085932"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,16 +204,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48d0a6d0766093d0",
+  "active": "6dc98f2d21a6b372",
   "lastOpenFiles": [
-    "업무관련(SW validation - Testing)/SQA-SW system testing/Pasted image 20241217093936.png",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/Pasted image 20241217093535.png",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/Pasted image 20241217093127.png",
-    "screenshots/Pasted image 20241216182212.png",
+    "screenshots/Pasted image 20241217093127.png",
+    "screenshots/Pasted image 20241217093535.png",
+    "screenshots/Pasted image 20241217093936.png",
+    "screenshots/Pasted image 20240826131951.png",
+    "screenshots/Pasted image 20240826131859.png",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/Testing project management rule.md",
+    "screenshots/Pasted image 20241216182152.png",
     "업무관련(SW validation - Testing)/SQA-SW system testing/TR 작성 가이드 (Jira issue).md",
+    "screenshots/Pasted image 20241216182212.png",
     "screenshots/Pasted image 20241217085932.png",
     "screenshots/Pasted image 20241216182227.png",
-    "screenshots/Pasted image 20241216182152.png",
     "screenshots/Jira issue list (filter).png",
     "업무관련(SW validation - Testing)/SQA-SW system testing/iPIS-500 Test history (MED_no.6).md",
     "업무관련 개인폴더/업무기록/2024-12-16.md",
@@ -216,8 +231,6 @@
     "업무관련 개인폴더/업무기록/12월/2024-12-06.md",
     "업무관련 개인폴더/업무기록/12월/2024-12-05.md",
     "업무관련 개인폴더/업무기록/12월/2024-12-04.md",
-    "screenshots/TFT thin trays.jpg",
-    "screenshots/LCP trays.jpg",
     "업무관련 개인폴더/업무기록/2024-12-05.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/매뉴얼 TC Testability 분석.md",
@@ -230,7 +243,6 @@
     "업무관련 개인폴더/업무기록/11월/2024-11-28.md",
     "업무관련 개인폴더/업무기록/2024-12-03.md",
     "업무관련 개인폴더/업무기록/2024-11-29.md",
-    "업무관련 개인폴더/업무기록/2024-11-28.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6",
     "업무관련 개인폴더/업무기록/11월",
     "업무관련 개인폴더/업무기록/9월 (0910~)",
