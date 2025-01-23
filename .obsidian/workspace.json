@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-01-23"
             }
+          },
+          {
+            "id": "71ffcc5d35233aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,10 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b68c6db36ad95c0",
+  "active": "71ffcc5d35233aa5",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/2025-01-17.md",
     "업무관련 개인폴더/업무기록/2025-01-23.md",
+    "conflict-files-obsidian-git.md",
+    "업무관련(SW validation - Testing)/minutes/250123 전사 SW 프로세스 설명 회의.md",
+    "업무관련 개인폴더/업무기록/2025-01-21.md",
+    "업무관련 개인폴더/업무기록/2025-01-20.md",
+    "screenshots/2025-01-20.png",
+    "업무관련 개인폴더/업무기록/2025-01-17.md",
     "업무관련 개인폴더/업무기록/2025-01-16.md",
     "업무관련 개인폴더/업무기록/2025-01-15.md",
     "업무관련 개인폴더/업무기록/2025-01-14.md",
@@ -177,7 +197,6 @@
     "screenshots/250110 VTI 회의(제안사항).png",
     "업무관련 개인폴더/업무기록/2025-01-09.md",
     "screenshots/Viettel SW Online meeting.png",
-    "conflict-files-obsidian-git.md",
     "screenshots/iPIS 장비 동작구조.png",
     "업무관련 개인폴더/업무기록/2025-01-08.md",
     "업무관련 개인폴더/업무기록/2025-01-07.md",
@@ -196,11 +215,7 @@
     "업무관련 개인폴더/업무기록/Pasted image 20241219144054.png",
     "업무관련 개인폴더/업무기록/12월/2024-12-10.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Test scenario.md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/매뉴얼 TC Testability 분석.md",
-    "업무관련 개인폴더/업무기록/12월/2024-12-18.md",
-    "업무관련 개인폴더/업무기록/12월/2024-12-17.md",
     "screenshots/품의서 샘플.png",
-    "screenshots/보유자재 Recipe list (DVI005).png",
     "업무관련 개인폴더/업무기록/12월",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6",
     "업무관련 개인폴더/업무기록/11월",
