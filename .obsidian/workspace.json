@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e26eaee80e6f6fe2",
+            "id": "1b68c6db36ad95c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2025-02-03.md",
+                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/자재파악현황 2024-12-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-03"
+              "title": "자재파악현황 2024-12-04"
             }
           },
           {
-            "id": "d459702edac979fa",
+            "id": "f4e8cf53983f5cd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2025-02-05.md",
+                "file": "업무관련 개인폴더/업무기록/2025-02-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-05"
+              "title": "2025-02-04"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -170,55 +170,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d459702edac979fa",
+  "active": "f4e8cf53983f5cd1",
   "lastOpenFiles": [
     "업무관련 개인폴더/업무기록/2025-02-05.md",
+    "업무관련 개인폴더/업무기록/2025-02-03.md",
     "업무관련 개인폴더/업무기록/2025-02-04.md",
-    "업무관련 개인폴더/업무기록/2024/9월 (0910~)/2024-09-27.md",
-    "업무관련 개인폴더/업무기록/2024/9월 (0910~)/2024-09-26.md",
-    "업무관련 개인폴더/업무기록/2024/9월 (0910~)/2024-09-25.md",
-    "업무관련 개인폴더/업무기록/2024/9월 (0910~)/2024-09-24.md",
-    "업무관련 개인폴더/업무기록/2024/9월 (0910~)/2024-09-23.md",
-    "업무관련 개인폴더/업무기록/2024/9월 (0910~)/2024-09-20.md",
-    "업무관련 개인폴더/업무기록/2024/9월 (0910~)/2024-09-19.md",
-    "업무관련 개인폴더/업무기록/2024/9월 (0910~)/2024-09-13.md",
-    "업무관련 개인폴더/업무기록/2024/9월 (0910~)/2024-09-12.md",
-    "업무관련 개인폴더/업무기록/2024/9월 (0910~)/2024-09-11.md",
-    "업무관련 개인폴더/업무기록/2024/9월 (0910~)/2024-09-10.md",
-    "업무관련 개인폴더/업무기록/2024/10월/2024-10-10.md",
-    "업무관련 개인폴더/업무기록/2024/8월 (0820~0909)/0821~0909 퇴근일지 (업무기록).md",
-    "업무관련 개인폴더/업무기록/2024/12월/2024-12-24.md",
-    "업무관련 개인폴더/업무기록/2024/12월/2024-12-23.md",
-    "업무관련 개인폴더/업무기록/2024/12월/2024-12-20.md",
-    "업무관련 개인폴더/업무기록/2024/12월/2024-12-19.md",
-    "업무관련 개인폴더/업무기록/2024/12월/2024-12-18.md",
-    "업무관련 개인폴더/업무기록/2024/12월/2024-12-17.md",
-    "업무관련 개인폴더/업무기록/2024/12월/2024-12-16.md",
-    "업무관련 개인폴더/업무기록/2024/12월/2024-12-13.md",
-    "업무관련 개인폴더/업무기록/2024/12월/2024-12-12.md",
-    "업무관련 개인폴더/업무기록/2024/12월/2024-12-11.md",
-    "업무관련 개인폴더/업무기록/2024/12월/2024-12-10.md",
-    "업무관련 개인폴더/업무기록/2024/9월 (0910~)",
-    "업무관련 개인폴더/업무기록/2024/8월 (0820~0909)",
-    "업무관련 개인폴더/업무기록/2024/12월",
-    "업무관련 개인폴더/업무기록/2024/11월",
-    "업무관련 개인폴더/업무기록/2024/10월",
+    "업무관련(SW validation - Testing)/SQA 목표 - TMMI (Level 2, potentially Level).md",
+    "업무관련(SW validation - Testing)/Testing) TRS.md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Test scenario.md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Test Request 세미나.md",
+    "업무관련(SW validation - Testing)/iPIS-500 장비training/iPIS-500 장비 Training (move to confluence page).md",
+    "업무관련 개인폴더/반도체(Semi-conductor) 기초.md",
+    "업무관련 개인폴더/기타/품의서 작성.md",
+    "업무관련 개인폴더/기타/개별인터뷰 모음.md",
     "업무관련 개인폴더/업무기록/2024",
+    "업무관련 개인폴더/업무기록/2월",
+    "conflict-files-obsidian-git.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-23.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-31.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-21.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-20.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-17.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-16.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-15.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-14.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-08.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-13.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-10.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-09.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-07.md",
+    "업무관련 개인폴더/업무기록/1월/2025-01-06.md",
     "업무관련 개인폴더/업무기록/1월",
-    "업무관련 개인폴더/업무기록/25.1월",
-    "업무관련 개인폴더/업무기록/25.2월",
     "screenshots/2025-01-20.png",
     "screenshots/250110 VTI 회의(제안사항).png",
-    "업무관련(SW validation - Testing)/minutes/250110 VTI 회의(제안사항).png",
     "screenshots/Viettel SW Online meeting.png",
     "screenshots/iPIS 장비 동작구조.png",
     "업무관련(SW validation - Testing)/minutes/iPIS 장비 동작구조.png",
@@ -226,6 +219,13 @@
     "screenshots/Jira Macro - Jira issue.png",
     "screenshots/Jira issue type iPIS-500I MED_6.png",
     "업무관련 개인폴더/업무기록/Pasted image 20241219144054.png",
-    "업무관련 개인폴더/업무기록/12월"
+    "screenshots/품의서 샘플.png",
+    "업무관련 개인폴더/업무기록/2024/12월",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6",
+    "업무관련 개인폴더/업무기록/2024/11월",
+    "업무관련 개인폴더/업무기록/2024/9월 (0910~)",
+    "업무관련 개인폴더/업무기록/2024/8월 (0820~0909)",
+    "업무관련 개인폴더/기타",
+    "업무관련 개인폴더/AI 문답"
   ]
 }
