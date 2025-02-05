@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2025-02-04.md",
+                "file": "업무관련(SW validation - Testing)/SQA-SW system testing/Amazon S3 management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-04"
+              "title": "Amazon S3 management"
             }
           }
         ],
@@ -181,9 +181,10 @@
   },
   "active": "f4e8cf53983f5cd1",
   "lastOpenFiles": [
+    "업무관련 개인폴더/업무기록/2025-02-04.md",
+    "업무관련(SW validation - Testing)/SQA-SW system testing/Amazon S3 management.md",
     "업무관련 개인폴더/업무기록/2025-02-05.md",
     "업무관련 개인폴더/업무기록/2025-02-03.md",
-    "업무관련 개인폴더/업무기록/2025-02-04.md",
     "업무관련(SW validation - Testing)/SQA 목표 - TMMI (Level 2, potentially Level).md",
     "업무관련(SW validation - Testing)/Testing) TRS.md",
     "업무관련(SW validation - Testing)/SQA-SW system testing/MED_no6/Test scenario.md",
@@ -208,7 +209,6 @@
     "업무관련 개인폴더/업무기록/1월/2025-01-10.md",
     "업무관련 개인폴더/업무기록/1월/2025-01-09.md",
     "업무관련 개인폴더/업무기록/1월/2025-01-07.md",
-    "업무관련 개인폴더/업무기록/1월/2025-01-06.md",
     "업무관련 개인폴더/업무기록/1월",
     "screenshots/2025-01-20.png",
     "screenshots/250110 VTI 회의(제안사항).png",
