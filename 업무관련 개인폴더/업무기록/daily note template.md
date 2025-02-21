@@ -1,10 +1,9 @@
 - 오전
-	- SQA Daily meeting
+	- ...
 - 오후
 	- ...
 
 <수행 경과>
-- [ ] Daily meeting minutes upload (confluence)
 - [ ] Work progress check (Jira)
 	- [ ] SET
 	- [ ] ALM
