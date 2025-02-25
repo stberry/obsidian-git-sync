@@ -111,3 +111,4 @@
 	7. [ ] 프로젝트별 SECURITY 페이지 생성
 	8. [ ] 정형화된 대시보드를 만들어 제공, 리치필터 가이드 제공
 	9. [ ] ACTUAL START / ACTUAL END 기입
+	10. [ ] MILESTONE 가이드 공유
