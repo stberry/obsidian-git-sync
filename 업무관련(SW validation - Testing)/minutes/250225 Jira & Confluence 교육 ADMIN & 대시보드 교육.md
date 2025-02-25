@@ -47,8 +47,9 @@
 	- CRM / PMS / ==AAR
 	- AAR을 작성하기 위해서는 MILESTONE TRACKER가 필요하다.
 	- AAR : 프로젝트 결산회의, 결산보고서
-	- 현재 JIRA PROJECT에 EPIC으로 되어있는 것 = OPR TIMELINE의 MILESTONE : 같은 역할을 한다.
-	- 이것을 자동으로 관리하겠다.
+	- 현재 JIRA PROJECT에 EPIC으로 되어있는 것 = OPR TIMELINE의 MILESTONE : 같은 역할을 한다. 이것을 자동으로 관리하겠다.
+	- EPIC 이면 MILESTONE이다. (BS는 예외)
+	- 
 
 3. QnA
 	- PMO라는 단어의 의미
