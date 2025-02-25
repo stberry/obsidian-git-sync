@@ -44,7 +44,9 @@
 	- 매크로 - 변경이력
 
 - 마일스톤 관리
-	- 
+	- CRM / PMS / ==AAR
+	- AAR을 작성하기 위해서는 MILESTONE TRACKER가 필요하다.
+	- AAR : 프로젝트 결산회의, 결산보고서
 
 3. QnA
 	- PMO라는 단어의 의미
