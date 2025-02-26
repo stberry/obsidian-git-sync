@@ -13,4 +13,5 @@ PI부문은 대표이사(이상윤) 소속이나 PMS의 운영주체는 사장�
 	1. [ ] PMS 코칭 - Jira 알림 (Jira automation)
 	2. [ ] PMS를 기반으로 하는 Jira & Confluence 교육 일정 수립 (Basic)
 	3. [ ] PM과 PL(기능조직) 간에 업무 프로세스 수립 - VoC 작성
-	4. [ ] 
+	4. [ ] OPR 신호등 상태 : 등록예정->OPR 등록예정, "Jira 미등록" 상태 추가
+	5. [ ] 
