@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "50174abe19ee1184",
+        "id": "269bd6397480d505",
         "type": "tabs",
         "children": [
           {
-            "id": "7bdca77bfc369ee0",
+            "id": "ee0fe4cf351908c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/2025/250226 PMO 회의 Jira & Confluence 교육 ADMIN & 대시보드 교육.md",
+                "file": "업무관련 개인폴더/업무기록/2025-02-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250226 PMO 회의 Jira & Confluence 교육 ADMIN & 대시보드 교육"
+              "title": "2025-02-24"
+            }
+          },
+          {
+            "id": "967d5a489f12f191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "업무관련 개인폴더/업무기록/2025-02-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-25"
+            }
+          },
+          {
+            "id": "2d14b7fb12a57b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "업무관련 개인폴더/업무기록/2025-02-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-27"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -78,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "810433d84ceead18",
@@ -156,53 +184,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bdca77bfc369ee0",
+  "active": "2d14b7fb12a57b44",
   "lastOpenFiles": [
-    "업무관련(SW validation - Testing)/minutes/2025/250225 PMO회의 Jira & Confluence 교육 ADMIN & 대시보드 교육 (1).md",
     "업무관련(SW validation - Testing)/minutes/2025/250226 PMO 회의 Jira & Confluence 교육 ADMIN & 대시보드 교육.md",
-    "업무관련(SW validation - Testing)/minutes/2025/250106 FPT 시뮬레이터 회의.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-26.md",
-    "업무관련(SW validation - Testing)/minutes/2025",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-03.md",
-    "업무관련(SW validation - Testing)/minutes/2024/0821 내부회의.md",
-    "업무관련(SW validation - Testing)/minutes/2024",
-    "업무관련(SW validation - Testing)/minutes/2025/250224 TS3그룹 TR 작성 세미나.md",
-    "업무관련(SW validation - Testing)/minutes/2025/250123 전사 SW 프로세스 설명 회의.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-25.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-21.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-24.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-20.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-12.md",
-    "conflict-files-obsidian-git.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-19.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-18.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-17.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-14.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-13.md",
+    "업무관련 개인폴더/업무기록/2025-02-27.md",
+    "업무관련(SW validation - Testing)/minutes/2025/250225 PMO회의 Jira & Confluence 교육 ADMIN & 대시보드 교육 (1).md",
     "업무관련(SW validation - Testing)/minutes/2025/250212 PMS 세미나.md",
+    "업무관련(SW validation - Testing)/minutes/2025/250224 TS3그룹 TR 작성 세미나.md",
     "업무관련(SW validation - Testing)/minutes/2025/250211 PMS 세미나.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-11.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-05.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-06.md",
-    "업무관련(SW validation - Testing)/SQA-SW system testing/(AWS) Amazon S3 management.md",
-    "업무관련 개인폴더/업무기록/25.2월/2025-02-04.md",
+    "업무관련(SW validation - Testing)/minutes/2025/250123 전사 SW 프로세스 설명 회의.md",
+    "업무관련(SW validation - Testing)/minutes/2025/250110 VTI 회의.md",
+    "업무관련(SW validation - Testing)/minutes/2025/250109 비엣텔-에보텍 회의.md",
+    "업무관련(SW validation - Testing)/minutes/2025/250107 NTQ 시뮬레이터 회의.md",
+    "업무관련(SW validation - Testing)/minutes/2025/250106 FPT 시뮬레이터 회의.md",
+    "업무관련(SW validation - Testing)/minutes/2025",
+    "업무관련(SW validation - Testing)/minutes/250224 TS3그룹 TR 작성 세미나.md",
+    "업무관련(SW validation - Testing)/minutes/2024/241121 전사 SW 회의 회의록.md",
+    "업무관련(SW validation - Testing)/minutes/2024/241010 1사업부-SE팀 미팅.md",
+    "업무관련(SW validation - Testing)/minutes/2024/241010 1사업부-SE팀 미팅 wrap-up.md",
+    "업무관련(SW validation - Testing)/minutes/2024/1014 SE팀 미팅.md",
+    "업무관련(SW validation - Testing)/minutes/2024/1010 SE팀 내부회의.md",
+    "업무관련(SW validation - Testing)/minutes/2024/1007 SQA회의.md",
+    "업무관련(SW validation - Testing)/minutes/2024/0926 주간보고.md",
+    "업무관련(SW validation - Testing)/minutes/2024/0925 SQA 회의.md",
+    "업무관련(SW validation - Testing)/minutes/2024/0920 SQA 내부회의.md",
+    "업무관련(SW validation - Testing)/minutes/2024/0912 내부회의 (SQA 파트).md",
+    "업무관련(SW validation - Testing)/minutes/2024/0906 주간보고.md",
+    "업무관련(SW validation - Testing)/minutes/2024/0905 형상관리 업무협의.md",
+    "업무관련(SW validation - Testing)/minutes/2024/0902 내부미팅 (Monday's breifing).md",
+    "업무관련(SW validation - Testing)/minutes/2024/0826 내부회의.md",
+    "업무관련(SW validation - Testing)/minutes/2024",
+    "업무관련 개인폴더/업무기록/25.2월",
+    "업무관련 개인폴더/업무기록/25.1월",
     "업무관련 개인폴더/업무기록/2024/9월 (0910~)",
     "업무관련 개인폴더/업무기록/2024/8월 (0820~0909)",
     "업무관련 개인폴더/업무기록/2024/12월",
     "업무관련 개인폴더/업무기록/2024/11월",
     "업무관련 개인폴더/업무기록/2024/10월",
     "업무관련 개인폴더/업무기록/2024",
-    "업무관련 개인폴더/업무기록/25.1월",
-    "업무관련 개인폴더/업무기록/25.1월",
     "screenshots/2025-01-20.png",
     "screenshots/250110 VTI 회의(제안사항).png",
     "업무관련(SW validation - Testing)/minutes/250110 VTI 회의(제안사항).png",
