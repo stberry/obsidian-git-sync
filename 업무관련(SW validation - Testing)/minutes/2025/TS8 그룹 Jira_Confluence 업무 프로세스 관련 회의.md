@@ -7,11 +7,12 @@
 2. 현재 진행상황 파악/점검
 	1. Jira
 		- 계층도 설명 (Epic 계층도 : theme - epic - story)
-		- 이슈타입 설정
+		- 이슈타입 설명
 	2. Confluence
 	3. CI/CD
 	4. Static Test
 3. VoC 수집
+
 
 - SQA testing : Task, Sub-task, Bug
 - Working item : Debuging, Document, Static, Refactoring 구분
