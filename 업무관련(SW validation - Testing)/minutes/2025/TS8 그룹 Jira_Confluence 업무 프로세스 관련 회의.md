@@ -6,6 +6,7 @@
 1. AI 코딩툴 관련 협의체 선정, 
 2. 현재 진행상황 파악/점검
 	1. Jira
+		- 계층도 설명 (Epic 계층도 : theme - epic - story)
 	2. Confluence
 	3. CI/CD
 	4. Static Test
