@@ -7,6 +7,7 @@
 2. 현재 진행상황 파악/점검
 	1. Jira
 		- 계층도 설명 (Epic 계층도 : theme - epic - story)
+		- 이슈타입 설정
 	2. Confluence
 	3. CI/CD
 	4. Static Test
