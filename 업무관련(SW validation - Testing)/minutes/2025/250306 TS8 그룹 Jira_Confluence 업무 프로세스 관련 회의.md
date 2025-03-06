@@ -35,4 +35,4 @@
 - [ ] CI/CD를 위한 프로젝트 통합 완료일정 확인 후 SE그룹에 전달
 
 - SE
-- [ ] 
+- [ ] Working item - Debuging, Document, Static, Refactoring 구분
