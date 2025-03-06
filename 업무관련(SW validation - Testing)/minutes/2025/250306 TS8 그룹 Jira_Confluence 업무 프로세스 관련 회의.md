@@ -14,8 +14,19 @@
 	2. Confluence
 		- Jira 이슈와 링크하여 관련 기술문서 작성 (technical writing)
 	3. CI/CD
+		- 4개로 분리된 프로젝트를 하나로 합치는 과정 진행중 (완료일정)
+		- git 설명
 	4. Static Test
+		- 통합전 1개 프로젝트를 대상으로 Static Test 수행
+		- 
 2. VoC 수집
 
 - SQA testing : Task, Sub-task, Bug
 - Working item : Debuging, Document, Static, Refactoring 구분
+
+<*Action item*>
+- TS8
+- [ ] CI/CD를 위한 프로젝트 통합 완료일정 확인 후 SE그룹에 전달
+
+- SE
+- [ ] 
