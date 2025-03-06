@@ -3,16 +3,17 @@
 - PI-SE그룹 : 한창진 상무, 김민욱 책임, 김효승 책임, 
 
 <회의내용>
-1. AI 코딩툴 관련 협의체 선정, 
-2. 현재 진행상황 파악/점검
+- AI 코딩툴 관련 협의체 선정, 참여 독려
+
+1. 현재 진행상황 파악/점검
 	1. Jira
 		- 계층도 설명 (Epic 계층도 : theme - epic - story)
 		- 이슈타입 설명
 	2. Confluence
+		- Jira 이슈와 링크하여 관련 기술문서 작성 (technical writing)
 	3. CI/CD
 	4. Static Test
-3. VoC 수집
-
+2. VoC 수집
 
 - SQA testing : Task, Sub-task, Bug
 - Working item : Debuging, Document, Static, Refactoring 구분
