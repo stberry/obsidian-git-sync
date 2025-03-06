@@ -24,6 +24,7 @@
 			3. 결과 HTML
 			4. Jira 자동등록 및 결함관리
 		- 어떠한 결함을 검출? 주요 10개 결함
+		- Static test masking and close process
 2. VoC 수집
 
 - SQA testing : Task, Sub-task, Bug
