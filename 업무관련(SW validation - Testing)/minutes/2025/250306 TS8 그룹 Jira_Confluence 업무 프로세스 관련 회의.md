@@ -18,7 +18,11 @@
 		- git 설명
 	4. Static Test
 		- 통합전 1개 프로젝트를 대상으로 Static Test 수행
-		- 
+		- Static Test process (CodeSonar)
+			1. 빌드환경 조사 및 빌드
+			2. 빌드 표준화 (Build properties)
+			3. 결과 HTML
+			4. Jira 자동등록 및 결함관리
 2. VoC 수집
 
 - SQA testing : Task, Sub-task, Bug
