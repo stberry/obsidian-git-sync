@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련(SW validation - Testing)/minutes/2025/250314 SE그룹 회의.md",
+                "file": "업무관련 개인폴더/업무기록/2025-03-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250314 SE그룹 회의"
+              "title": "2025-03-17"
             }
           },
           {
@@ -73,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -184,20 +184,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "f85686e63e0b21c2",
   "lastOpenFiles": [
+    "업무관련(SW validation - Testing)/minutes/2025/250314 SE그룹 회의.md",
+    "업무관련 개인폴더/업무기록/2025-03-17.md",
     "업무관련 개인폴더/업무기록/2025-03-14.md",
     "업무관련(SW validation - Testing)/minutes/2025/250313 프로세스 적용부서 사용여부 모니터링 아이디어 회의.md",
-    "업무관련(SW validation - Testing)/minutes/2025/250314 SE그룹 회의.md",
     "업무관련 개인폴더/업무기록/2025-03-12.md",
     "업무관련(SW validation - Testing)/minutes/2025/250312 PMS 회의.md",
     "업무관련 개인폴더/업무기록/2025-03-13.md",
@@ -223,7 +224,6 @@
     "업무관련(SW validation - Testing)/minutes/2024/0821 내부회의.md",
     "업무관련(SW validation - Testing)/minutes/2024",
     "업무관련(SW validation - Testing)/minutes/2025/250224 TS3그룹 TR 작성 세미나.md",
-    "업무관련(SW validation - Testing)/minutes/2025/250123 전사 SW 프로세스 설명 회의.md",
     "업무관련 개인폴더/업무기록/2024/9월 (0910~)",
     "업무관련 개인폴더/업무기록/2024/8월 (0820~0909)",
     "업무관련 개인폴더/업무기록/2024/12월",
