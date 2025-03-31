@@ -4,7 +4,4 @@
 	- ...
 
 <수행 경과>
-- [ ] Work progress check (Jira)
-	- [ ] SET
-	- [ ] ALM
-
+- [ ] Work progress check (Jira) - SQA
