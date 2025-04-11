@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-04-11"
             }
+          },
+          {
+            "id": "27fbbc3bebabae90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,16 +179,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9044837a22369ae3",
+  "active": "27fbbc3bebabae90",
   "lastOpenFiles": [
-    "업무관련(SW validation - Testing)/엔드 투 엔드 테스트 시나리오 (Machine vision).md",
     "업무관련 개인폴더/업무기록/2025-04-11.md",
+    "conflict-files-obsidian-git.md",
+    "업무관련 개인폴더/업무기록/25.4월/2025-04-11.md",
+    "업무관련 개인폴더/업무기록/25.4월/2025-04-03.md",
+    "업무관련 개인폴더/업무기록/25.4월/2025-04-01.md",
+    "업무관련 개인폴더/업무기록/25.4월",
+    "업무관련(SW validation - Testing)/엔드 투 엔드 테스트 시나리오 (Machine vision).md",
     "업무관련(SW validation - Testing)/iPIS-500I 시나리오 TC.md",
     "업무관련 개인폴더/업무기록/2025-04-03.md",
     "업무관련 개인폴더/업무기록/2025-04-01.md",
     "업무관련 개인폴더/업무기록/25.3월/2025-03-31.md",
     "업무관련 개인폴더/업무기록/25.3월/2025-03-05.md",
-    "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/25.3월/2025-03-28.md",
     "업무관련(SW validation - Testing)/minutes/2025/250327 PMS 사용교육.md",
     "업무관련 개인폴더/업무기록/25.3월/2025-03-27.md",
@@ -189,9 +208,6 @@
     "업무관련(SW validation - Testing)/minutes/2025/250306 TS8 그룹 Jira_Confluence 업무 프로세스 관련 회의.md",
     "업무관련 개인폴더/업무기록/25.3월/2025-03-14.md",
     "업무관련(SW validation - Testing)/minutes/2025/250313 프로세스 적용부서 사용여부 모니터링 아이디어 회의.md",
-    "업무관련 개인폴더/업무기록/25.3월/2025-03-12.md",
-    "업무관련 개인폴더/업무기록/25.3월/2025-03-13.md",
-    "업무관련 개인폴더/업무기록/25.3월/2025-03-11.md",
     "업무관련(SW validation - Testing)/JIRA-CONFLUENCE ADMIN TRAINING",
     "업무관련(SW validation - Testing)/minutes/2025",
     "업무관련(SW validation - Testing)/minutes/2024",
@@ -201,7 +217,6 @@
     "업무관련 개인폴더/업무기록/2024/11월",
     "업무관련 개인폴더/업무기록/2024/10월",
     "업무관련 개인폴더/업무기록/2024",
-    "업무관련 개인폴더/업무기록/25.1월",
     "screenshots/2025-01-20.png",
     "screenshots/250110 VTI 회의(제안사항).png",
     "업무관련(SW validation - Testing)/minutes/250110 VTI 회의(제안사항).png",
