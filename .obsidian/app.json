@@ -2,7 +2,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "readableLineLength": true,
   "pdfExportSettings": {
     "includeName": true,
