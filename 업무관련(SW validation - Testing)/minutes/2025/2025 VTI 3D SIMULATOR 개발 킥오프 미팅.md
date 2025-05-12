@@ -68,3 +68,5 @@ QnA
 - BrSE의 역할은? 
 	- Bridge Software Engineer로 IT지식을 기반으로 하여 offshore 개발자와 고객사를 이어주는 역할이다.
 - 기술통역이라고 생각하면 된다.
+- BA의 역할은?
+	- 고객 요구사항을 분석하여 비스니스 요구사항으로 
