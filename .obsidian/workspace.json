@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c31326ecc8d1290",
+        "id": "50174abe19ee1184",
         "type": "tabs",
         "children": [
           {
-            "id": "19344d8fb1c9f24f",
+            "id": "589d88147d9b4510",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2025-05-22"
             }
-          },
-          {
-            "id": "39b66509d6d35e59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련 개인폴더/업무기록/2025-05-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-26"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,48 +164,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39b66509d6d35e59",
+  "active": "589d88147d9b4510",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2025-05-26.md",
     "업무관련 개인폴더/업무기록/2025-05-23.md",
+    "업무관련 개인폴더/업무기록/2025-05-15.md",
     "업무관련 개인폴더/업무기록/2025-05-22.md",
-    "README.md",
+    "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2025-05-21.md",
     "업무관련 개인폴더/업무기록/2025-05-20.md",
     "업무관련 개인폴더/업무기록/2025-05-19.md",
     "업무관련 개인폴더/업무기록/2025-05-16.md",
-    "업무관련(SW validation - Testing)/minutes (회의록)/2025/250512 VTI 3D SIMULATOR 개발 킥오프 미팅.md",
-    "업무관련(SW validation - Testing)/minutes (회의록)/2025/250123 전사 SW 프로세스 설명 회의.md",
-    "업무관련(SW validation - Testing)/minutes (회의록)/2025/250110 VTI 회의.md",
+    "업무관련 개인폴더/업무기록/2025-05-12.md",
     "업무관련 개인폴더/업무기록/2025-05-14.md",
-    "업무관련 개인폴더/업무기록/2025-05-15.md",
     "업무관련(SW validation - Testing)/minutes (회의록)/2025/무제.md",
-    "무제.canvas",
     "업무관련 개인폴더/업무기록/2025-05-13.md",
     "document template/minute template.md",
+    "document template/daily note template.md",
     "document template",
-    "업무관련(SW validation - Testing)/minutes (회의록)/무제",
-    "업무관련 개인폴더/업무기록/2025-05-12.md",
-    "업무관련 개인폴더/업무기록/2025-05-08.md",
-    "업무관련 개인폴더/업무기록/25.4월/2025-04-30.md",
-    "업무관련 개인폴더/업무기록/25.4월/2025-04-29.md",
-    "업무관련 개인폴더/업무기록/25.4월/2025-04-25.md",
-    "업무관련 개인폴더/업무기록/2025-05-09.md",
-    "업무관련 개인폴더/업무기록/25.4월/2025-04-24.md",
-    "업무관련 개인폴더/업무기록/25.4월/2025-04-23.md",
-    "업무관련 개인폴더/업무기록/25.4월/2025-04-21.md",
+    "업무관련(SW validation - Testing)/minutes (회의록)/minute template.md",
+    "업무관련(SW validation - Testing)/minutes/2025/2025 VTI 3D SIMULATOR 개발 킥오프 미팅.md",
+    "업무관련(SW validation - Testing)/minutes (회의록)/2025/250225 PMO회의 Jira & Confluence 교육 ADMIN & 대시보드 교육 (1).md",
+    "업무관련(SW validation - Testing)/minutes (회의록)/2025/250512 VTI 3D SIMULATOR 개발 킥오프 미팅.md",
+    "업무관련(SW validation - Testing)/minutes (회의록)/2025/250314 SE그룹 회의.md",
+    "업무관련(SW validation - Testing)/minutes (회의록)/2025/250327 PMS 사용교육.md",
+    "업무관련(SW validation - Testing)/minutes (회의록)/2025/250313 프로세스 적용부서 사용여부 모니터링 아이디어 회의.md",
+    "업무관련(SW validation - Testing)/minutes (회의록)/2025/250312 PMS 회의.md",
+    "업무관련(SW validation - Testing)/minutes (회의록)/2025/250311 CX PMS 교육 (2차).md",
+    "업무관련(SW validation - Testing)/minutes (회의록)/2025/250306 TS8 그룹 Jira_Confluence 업무 프로세스 관련 회의.md",
+    "업무관련(SW validation - Testing)/minutes (회의록)/2025/250305 CX PMS 구성 회의.md",
+    "업무관련(SW validation - Testing)/minutes (회의록)/2025",
+    "업무관련(SW validation - Testing)/minutes (회의록)/2024",
+    "업무관련(SW validation - Testing)/minutes (회의록)",
     "screenshots/Seq_Land2D.png",
     "screenshots/Seq_Component2D.png",
     "screenshots/ROI mismatch.png",
     "업무관련 개인폴더/업무기록/25.4월",
     "업무관련 개인폴더/업무기록/25.3월",
     "업무관련(SW validation - Testing)/JIRA-CONFLUENCE ADMIN TRAINING",
-    "업무관련(SW validation - Testing)/minutes (회의록)/2025",
-    "업무관련(SW validation - Testing)/minutes (회의록)/2024",
+    "업무관련(SW validation - Testing)/minutes/2025",
+    "업무관련(SW validation - Testing)/minutes/2024",
     "업무관련 개인폴더/업무기록/2024/9월 (0910~)",
-    "업무관련 개인폴더/업무기록/2024/8월 (0820~0909)",
-    "업무관련 개인폴더/업무기록/2024/12월",
     "screenshots/2025-01-20.png",
     "screenshots/250110 VTI 회의(제안사항).png",
     "업무관련(SW validation - Testing)/minutes/250110 VTI 회의(제안사항).png",
