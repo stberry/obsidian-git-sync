@@ -13,7 +13,7 @@ tags:
 ---
 <SE팀-SQA파트 목표>
 **2.SW 테스트 프로세스 및 시스템 구축 -  DEV.6 SW Qualification / Verification & Validation, TMMI**
-*****■ SQA SW System Test SQA 프로세스 수립*****
+***■ SQA SW System Test SQA 프로세스 수립***
 -  SW System Test 적용 과제 : iPIS-500 > 380 > 340 > 240 > iMAS ..  
 1. 제조 사업부 Setup Test SW System Test 진행 프로세스 공유
 2. iPIS-500 Test Process 수립 및 실제 테스트 진행 계획
