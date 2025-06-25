@@ -5,6 +5,8 @@
 
 - CSM & PMS TFT 구조
 	- CXM-Service = CRM service
+		- Issue&VOC : 시장요청사항
+		- 단순의뢰 : 고객지원이 타부서에 요청하는 것
 	- CXM-Sales = 영업
 	- PMS
 
