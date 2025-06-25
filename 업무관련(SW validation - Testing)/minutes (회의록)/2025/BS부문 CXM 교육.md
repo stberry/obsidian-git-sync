@@ -3,6 +3,11 @@
 - 사내 업무지원 챗봇 도입예정
 	- 데이터를 한곳에 모아서 학습
 
+- CSM & PMS TFT 구조
+	- CXM-Service = CRM service
+	- CXM-Sales = 영업
+	- PMS
+
 <질의응답>
 - 
 - 
