@@ -52,5 +52,6 @@
 	- Intensity Map (need to calculate)
 	- 제공한 7장의 이미지가 합쳐져서 하나의 완전한 이미지가 나오는 것이 목표
 
+\<Future work>
 - 차기 미팅: 이번주 금요일?
 	- 분석상황에 따라 진행여부 결정
