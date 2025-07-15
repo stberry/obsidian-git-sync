@@ -29,6 +29,8 @@
 
 코드 퀄리티 진행?
 - SonarCube 사용
+	- SonarCube는 Java, C# 등 가상머신쪽에 특화된 툴이라 
+	- UAT와 동시에 인텍플러스에서 사용하는 CodeSonar 툴을 사용하여 Static test 진행하고 결과를 제공, 이를 수정하는 것
 추정라인은 어느정도 예상되는가?
 - 
 
