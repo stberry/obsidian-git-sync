@@ -44,12 +44,10 @@
 	- Grab 이미지 : 5장이 1묶음으로 총 4묶음(20장)제공
 	- 데이터 프로파일 : 높이를 컬러로 표현한 이미지, 데이터는 Raw data
 	- 데이터 프로파일을 만들기 위한 참조 데이터
+
+- 3D
+	- 확인을 위한 영상이미지, Raw data
 	- Gray scale image
 	- Height Data (need to calculate)
 	- Intensity Map (need to calculate)
-- 3D
-	- 확인을 위한 영상이미지, Raw data
-	- 3D 데이터에서 높이를 제공하지 않는 이유는 포커스가 나갔을때 노이즈로 측정됨
-
-<인수기준>
-- 
+	- 제공한 7장의 이미지가 합쳐져서 하나의 완전한 이미지가 나오는 것이 목표
