@@ -1,8 +1,5 @@
 https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리 중, ==**동기화 수시 체크
 
-
-
-
 <0818 이슈>
 - [ ] 로더 바코드 리더 재튜닝 (AutoID Tuner)
 	- 바코드 리더가 고정되지 않아서 많이 흔들림, 인식오류발생
@@ -57,7 +54,7 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 - [ ] 고질적인 문제 (사소한 문제일 수 있으나 사용성에 신경쓴다면 고치고 넘어가야 함)
 	- [ ] insp item setup시 항목을 더블클릭하면 상세항목을 볼 수 있어야 하나 프로그램 크래시 발생 (iPIS340HX에서 발생했던 현상)
 	- [ ] ~~insp item setup에서 Use로 되어있는 항목을 체크해제 하고 Cancel 할 경우 변경은 없으나 재진입시 체크 해제된 상태로 보임, 설정에는 큰 변화 없음 (iPIS340HX에서 발생했던 현상)~~ -> ==UI 이슈로 통합하여 올림
-	- [ ] surface criteria에서 polygon 추가 후 순서 변경 뒤에 polygon 크기를 변경하거나 이동했을때 프로그램 크래시 ([iPIS500I에서 발생했던 현상](https://do-intekplus.atlassian.net/browse/IPIS500I-316))
+	- [ ] surface criteria에서 polygon 추가 후 순서 변경 뒤에 polygon 크기를 변경하거나 이동했을때 프로그램 크래시 (iPIS500I에서 발생했던 현상)
 	- [ ] surface criteria에서 상세설정값 입력시에 문자가 그대로 입력되는 현상
 - [ ] [Manual Inspection] Side 설정 중 2D 탭에서 offset 설정시 Side 1을 설정하면 Side 2에 적용됨 (서로 교차되어 적용)
 	- Package Model - Side Picker offset 에도 동일한 현상인지 체크 필요
