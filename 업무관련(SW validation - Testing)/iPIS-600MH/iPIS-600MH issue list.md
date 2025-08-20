@@ -63,3 +63,4 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 - [ ] image 오픈 후 Pan image와 Show whole image 기능 일시적 비활성화
 - [ ] Host에서 고배율 체크 및 해제시 Vision에 Scale 반영 안되는 문제
 - [ ] batch inspection 기능 진입 후 quit 시 이미지를 획득하는 현상
+- [ ] 레시피 항목 중 2D Bottom Z High Magnification Offset 값 저장 안됨
