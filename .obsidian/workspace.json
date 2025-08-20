@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50174abe19ee1184",
+        "id": "d44fad2c6240d98a",
         "type": "tabs",
         "children": [
           {
-            "id": "589d88147d9b4510",
+            "id": "34d977784fd5090e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "810433d84ceead18",
@@ -165,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589d88147d9b4510",
+  "active": "34d977784fd5090e",
   "lastOpenFiles": [
     "업무관련 개인폴더/업무기록/2025-08-19.md",
     "업무관련 개인폴더/업무기록/2025-08-20.md",
