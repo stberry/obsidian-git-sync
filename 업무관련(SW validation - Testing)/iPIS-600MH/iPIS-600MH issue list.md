@@ -1,3 +1,8 @@
+https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리 중, ==**동기화 수시 체크
+
+
+
+
 <0818 이슈>
 - [ ] 로더 바코드 리더 재튜닝 (AutoID Tuner)
 	- 바코드 리더가 고정되지 않아서 많이 흔들림, 인식오류발생
@@ -35,8 +40,6 @@
 	- 현재 메모리 64GB, 메모리 부족으로 쓰레드를 적게 할당하여 사용중임, 향후 256GB 까지 늘릴것
 - [ ] [PEAR] probe config - 3D bottom 항목
 - [ ] [Self Condition Check] 시 Jam 메시지와 함께 UI가 변경됨
-- [ ] 패키지 Pick 상태에서 실린더를 들어올리면 패키지가 떨어짐
-	- Vaccum 센서 체크를 통해 Vaccum 동작시 실린더 업을 하지 못하도록 안전장치 삽입
 
 \<bug list>
 - [ ] ~~[Pad changing] 레시피 미오픈일때 Pad changing을 할 경우 프로그램 크래시~~
