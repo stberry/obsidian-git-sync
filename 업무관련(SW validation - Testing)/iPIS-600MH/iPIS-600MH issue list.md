@@ -57,6 +57,7 @@
 	- [ ] surface criteria에서 polygon 추가 후 순서 변경 뒤에 polygon 크기를 변경하거나 이동했을때 프로그램 크래시 ([iPIS500I에서 발생했던 현상](https://do-intekplus.atlassian.net/browse/IPIS500I-316))
 	- [ ] surface criteria에서 상세설정값 입력시에 문자가 그대로 입력되는 현상
 - [ ] [Manual Inspection] Side 설정 중 2D 탭에서 offset 설정시 Side 1을 설정하면 Side 2에 적용됨 (서로 교차되어 적용)
+	- Package Model - Side Picker offset 에도 동일한 현상인지 체크 필요
 - [ ] [Side vision] Stitching Align 후 이후 시퀀스(Emtpy checker Blob, Edge align)에 Stitching 결과가 적용되지 않음, 0 pane을 선택하면 변경되나 Run inspection 시 원본 이미지로 돌아감
 - [ ] BGA Ball inspection - Ball align 후 ball의 중심점이 잘못 표시되는 문제
 - [ ] image 오픈 후 Pan image와 Show whole image 기능 비활성화
