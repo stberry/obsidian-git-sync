@@ -60,7 +60,7 @@
 	- Package Model - Side Picker offset 에도 동일한 현상인지 체크 필요
 - [ ] [Side vision] Stitching Align 후 이후 시퀀스(Emtpy checker Blob, Edge align)에 Stitching 결과가 적용되지 않음, 0 pane을 선택하면 변경되나 Run inspection 시 원본 이미지로 돌아감
 - [ ] BGA Ball inspection - Ball align 후 ball의 중심점이 잘못 표시되는 문제
-- [ ] image 오픈 후 Pan image와 Show whole image 기능 비활성화
+- [ ] image 오픈 후 Pan image와 Show whole image 기능 일시적 비활성화
 	- 이미지 오픈
 	- Zoom image (Select Zoom image, Select 1:1 Zoom image, Ctrl + Mouse scroll zoom)
 	- 마우스 우클릭 - Show Whole image
