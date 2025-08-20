@@ -36,7 +36,7 @@
 - [ ] [PEAR] probe config - 3D bottom 항목
 - [ ] [Self Condition Check] 시 Jam 메시지와 함께 UI가 변경됨
 - [ ] 패키지 Pick 상태에서 실린더를 들어올리면 패키지가 떨어짐
-	- Vaccum 센서 체크를 통해 Vaccum 동작시 실린더 업을 하지 못하도록 안전장치 삽입입
+	- Vaccum 센서 체크를 통해 Vaccum 동작시 실린더 업을 하지 못하도록 안전장치 삽입
 
 \<bug list>
 - [ ] ~~[Pad changing] 레시피 미오픈일때 Pad changing을 할 경우 프로그램 크래시~~
@@ -61,10 +61,4 @@
 - [ ] [Side vision] Stitching Align 후 이후 시퀀스(Emtpy checker Blob, Edge align)에 Stitching 결과가 적용되지 않음, 0 pane을 선택하면 변경되나 Run inspection 시 원본 이미지로 돌아감
 - [ ] BGA Ball inspection - Ball align 후 ball의 중심점이 잘못 표시되는 문제
 - [ ] image 오픈 후 Pan image와 Show whole image 기능 일시적 비활성화
-	- 이미지 오픈
-	- Zoom image (Select Zoom image, Select 1:1 Zoom image, Ctrl + Mouse scroll zoom)
-	- 마우스 우클릭 - Show Whole image
-	- Description: 우측 버튼을 눌러도 동일한 현상, 약간만 zoom 해도 정상적으로 활성화
 - [ ] Host에서 고배율 체크 및 해제시 Vision에 Scale 반영 안되는 문제
-	- Host: Package model - Use 2D Bottom Vision with High Magnification - save(send to vision)
-	- Vision 접속하여 scale값 확인
