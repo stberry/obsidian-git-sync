@@ -1,17 +1,3 @@
-- 오전
-	- ...
-- 오후
-	- ...
-
-<수행 경과>
-- [ ] Work progress check (Jira) - SQA
-
-<600MH>
-- TC 작업
-- 결함 발견시 버그 등록
-- 골든디바이스 작업 등 세팅문제로 목요일부터 장비 사용 가능
-- 매일 야간조 퇴근전 Aging test로 dry run 실시, 주간조 확인
-
 <0818 이슈>
 - [ ] 로더 바코드 리더 재튜닝 (AutoID Tuner)
 	- 바코드 리더가 고정되지 않아서 많이 흔들림, 인식오류발생
@@ -49,7 +35,8 @@
 	- 현재 메모리 64GB, 메모리 부족으로 쓰레드를 적게 할당하여 사용중임, 향후 256GB 까지 늘릴것
 - [ ] [PEAR] probe config - 3D bottom 항목
 - [ ] [Self Condition Check] 시 Jam 메시지와 함께 UI가 변경됨
-- [ ] [2D vision] 고배율 포커스 이슈
+- [ ] 패키지 Pick 상태에서 실린더를 들어올리면 패키지가 떨어짐
+	- Vaccum 센서 체크를 통해 Vaccum 동작시 실린더 업을 하지 못하도록 안전장치 삽입입
 
 \<bug list>
 - [ ] ~~[Pad changing] 레시피 미오픈일때 Pad changing을 할 경우 프로그램 크래시~~
