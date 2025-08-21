@@ -19,7 +19,7 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 - [ ] [New recipe wizard] Boat 이미지 변경
 - [x] [Package model] Vision option - 3D bottom 항목제거 필요
 - [ ] [Boat model] Boat 이미지 변경
-- [ ] [Sort model] 3D insp 항목제거 필요
+- [x] [Sort model] 3D insp 항목제거 필요
 - [ ] [IR TOP] 3D insp 항목이 남아있음, 수정필요
 - [ ] [Multipicker setup wizard] 전반적인 세팅 (3D bottom 없애는 것 포함)
 - [x] [System option] System ID - 340으로 되어있음, 변경 필요
@@ -28,8 +28,8 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 - [x] [JAM property - Inspect Picker1]3D 관련 메시지 남아있음, 항목제거 필요 (6, 7, 8)
 - [x] [JAM property - TOP IR Inspector] 3D 관련 메시지 남아있음, 항목제거 필요 (3)
 - [x] [JAM property - Side Inspector] 3D 관련 메시지 남아있음, 항목제거 필요 (18)
-- [ ] [Debug] 3D insp 관련 항목이 남아있음, 항목제거 필요
-- [ ] [Hanlder map] 600MH 모델로 그림 수정필요
+- [x] [Debug] 3D insp 관련 항목이 남아있음, 항목제거 필요
+- [x] [Hanlder map] 600MH 모델로 그림 수정필요
 - [ ] [Manual Inspection] Action 버튼 위 드롭박스 3D Ref. Test / Pick boat to JIG / Pick JIG to boat 메뉴, 항목제거 필요
 - [ ] [Manual Inspection] Auto Calibration : 동작확인이 필요하나 640HX에서 쓰던기능이며 핸들러 구조가 많이 다르기에 제대로 동작하지 않을것으로 예상됨, 항목제거?
 - [x] [Manual Inspection] Auto Focus Tuning - Recipe Z offset - Apply Difference to 3D BTM INSP. Z Offset
