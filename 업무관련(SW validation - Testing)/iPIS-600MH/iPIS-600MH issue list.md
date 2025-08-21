@@ -71,5 +71,5 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 	- Manual Inspection
 	- 2D Bottom
 	- Full action
-	- 이미지가 정상적으로 촬영되어야 함
+	- expected: 이미지가 정상적으로 촬영되어야 함
 	- actual: 프로그램 크래시
