@@ -65,4 +65,11 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 - [ ] batch inspection 기능 진입 후 quit 시 이미지를 획득하는 현상
 - [ ] ~~레시피 항목 중 2D Bottom Vision Z High Magnification Offset 값 저장 안됨
 	- 고배율 레시피를 별도로 작성하므로 Z offset을 통합하였음
-- [ ] 
+- [ ] [Manual inspection] 2D bottom 검사 중 Vision 프로그램 크래시
+	- Device info: High_RNR.Job (정확한 파일명)
+	- 레시피 오픈
+	- Manual Inspection
+	- 2D Bottom
+	- Full action
+	- 이미지가 정상적으로 촬영되어야 함
+	- actual: 프로그램 크래시
