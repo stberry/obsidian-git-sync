@@ -64,3 +64,33 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 	- 고배율 레시피를 별도로 작성하므로 Z offset을 통합하였음 (해당 설정 삭제)
 - [ ] [Manual inspection] 2D bottom 검사 중 Vision 프로그램 크래시
 	- Device info: 81X73_PCB_2X3_VERIFICATION_HIGH_RNR.job
+
+**1. Vision**
+
+- **2D Btm (BGA Inspection)**
+    - Debug info에서 Ball spec point 위치 확인 필요.
+        - Ball offset 검사 결과값은 정상이나 Spec point와 Ball search center point 간 차이 존재.
+    - Normal/High 배율 전환 시 Scale이 항상 High 배율로 표시 → Normal 배율 Setup 불가.
+    - Batch inspection에서 Quit로 빠져나올 때 Image를 획득하는 문제가 있음. Image를 획득하지 않도록 수정 필요.
+    - Manual inspection에서 Raw image save 활성화 후 Inspection 진행 시 Raw image 파일명의 PocketID 확인 필요.
+    - Batch inspection GR&R option으로 data 획득 시 PKG 구분되지 않음. 확인 필요.
+        - Pocket ID 순서가 일정하지 않은 것 같으며 여러 개 PKG 반복 검사 시 구분하기 어려움.
+- **Side-1, Side-2**
+    - Stitching align은 정상이나, Setup 시 Stitching 하기 전 Raw image가 표시되어 Setup 진행 불가.
+
+**2. Host**
+
+- Rotation picker Z축 offset 관련
+    - Side-1 Z offset 입력 parameter 부재.
+    - Z offset이 2D Insp Z offset과 Z High offset 두 종류로 구분되는데 필요성 의문.
+        - High/Normal 배율은 Job을 다르게 가져가야 하기에 Z offset을 별도로 구분할 필요가 없음.
+        - Z offset이 구분되어 있을 경우 혼란 가능성 있음.
+    - 2D Bottom Z High offset 값이 Job open 시 0으로 돌아감. 확인 필요.
+
+**3. Host & Vision 공통**
+
+- Manual inspection 시 Auto focus option에서 Live image 확인 불가, Motor 동작도 되지 않음.
+
+급한게 2D Bottom normal 배율에서 Scale이 바뀌지 않는 것입니다. 엊그제 밤에는 Normal 배율의 Scale이 표시가 되었는데 어젯밤부터 Normal배율에서 High배율 Scale이 표시되면서 Normal배율 Scale로 돌아오지가 않습니다.
+
+그리고 iPack 속도가 너무 느립니다. 이 부분이 개선 가능할지 모르겠는데 Stitching을 하다보니까 그런 것인데 Surface에서 영역의 크기를 변경한다던지 Threshold를 변경한다던지 딜레이가 너무 걸립니다. 우선 10개 프레임에 검사항목들도 많이 추가하면 1개 PKG검사 시간이 20초입니다. 개선 가능한지 확인 필요합니다.
