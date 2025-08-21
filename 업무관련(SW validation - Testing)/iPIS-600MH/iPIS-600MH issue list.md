@@ -23,7 +23,7 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 - [ ] [IR TOP] 3D insp 항목이 남아있음, 수정필요
 - [ ] [Multipicker setup wizard] 전반적인 세팅 (3D bottom 없애는 것 포함)
 - [x] [System option] System ID - 340으로 되어있음, 변경 필요
-- [ ] ~~[System option] Use seperate invalid package sorting - 3D bottom invalid sorting rail 항목제거 필요~~
+- [x] ~~[System option] Use seperate invalid package sorting - 3D bottom invalid sorting rail 항목제거 필요~~
 - [x] [System option] Remaining Review Image directory - 3D bottom 항목제거 필요
 - [x] [JAM property - Inspect Picker1]3D 관련 메시지 남아있음, 항목제거 필요 (6, 7, 8)
 - [x] [JAM property - TOP IR Inspector] 3D 관련 메시지 남아있음, 항목제거 필요 (3)
@@ -37,7 +37,7 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 	- 현재 메모리 64GB, 메모리 부족으로 쓰레드를 적게 할당하여 사용중임, 향후 256GB 까지 늘릴것
 - [ ] [PEAR] probe config - 3D bottom 항목
 - [x] [Self Condition Check] 시 Jam 메시지와 함께 UI가 변경됨
-	- 의도된 기능능
+	- 의도된 기능
 
 \<bug list>
 - [ ] ~~[Pad changing] 레시피 미오픈일때 Pad changing을 할 경우 프로그램 크래시~~
