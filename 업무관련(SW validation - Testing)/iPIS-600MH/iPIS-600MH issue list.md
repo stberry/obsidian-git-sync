@@ -61,15 +61,9 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 - [ ] [Side vision] Stitching Align 후 이후 시퀀스(Emtpy checker Blob, Edge align)에 Stitching 결과가 적용되지 않음, 0 pane을 선택하면 변경되나 Run inspection 시 원본 이미지로 돌아감
 - [ ] BGA Ball inspection - Ball align 후 ball의 중심점이 잘못 표시되는 문제
 - [ ] image 오픈 후 Pan image와 Show whole image 기능 일시적 비활성화
-- [ ] Host에서 고배율 체크 및 해제시 Vision에 Scale 반영 안되는 문제
+- [x] Host에서 고배율 체크 및 해제시 Vision에 Scale 반영 안되는 문제
 - [ ] batch inspection 기능 진입 후 quit 시 이미지를 획득하는 현상
-- [ ] ~~레시피 항목 중 2D Bottom Vision Z High Magnification Offset 값 저장 안됨
-	- 고배율 레시피를 별도로 작성하므로 Z offset을 통합하였음
+- [x] ~~레시피 항목 중 2D Bottom Vision Z High Magnification Offset 값 저장 안됨
+	- 고배율 레시피를 별도로 작성하므로 Z offset을 통합하였음 (해당 설정 삭제)
 - [ ] [Manual inspection] 2D bottom 검사 중 Vision 프로그램 크래시
-	- Device info: High_RNR.Job (정확한 파일명)
-	- 레시피 오픈
-	- Manual Inspection
-	- 2D Bottom
-	- Full action
-	- expected: 이미지가 정상적으로 촬영되어야 함
-	- actual: 프로그램 크래시
+	- Device info: 81X73_PCB_2X3_VERIFICATION_HIGH_RNR.job
