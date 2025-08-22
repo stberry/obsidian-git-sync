@@ -16,12 +16,12 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 \<issues>
 - [x] [UI] 3D bottom 항목제거 필요
 - [x] [New recipe wizard] 3D bottom 항목제거 필요
-- [ ] [New recipe wizard] Boat 이미지 변경
+- [ ] [New recipe wizard] Boat 포켓 이미지 변경
 - [x] [Package model] Vision option - 3D bottom 항목제거 필요
-- [ ] [Boat model] Boat 이미지 변경
+- [ ] [Boat model] Boat 포켓 이미지 변경
 - [x] [Sort model] 3D insp 항목제거 필요
 - [ ] [IR TOP] 3D insp 항목이 남아있음, 수정필요
-- [ ] [Multipicker setup wizard] 전반적인 세팅 (3D bottom 없애는 것 포함)
+- [ ] [Multipicker setup wizard] 이미지 수정
 - [x] [System option] System ID - 340으로 되어있음, 변경 필요
 - [x] ~~[System option] Use seperate invalid package sorting - 3D bottom invalid sorting rail 항목제거 필요~~
 - [x] [System option] Remaining Review Image directory - 3D bottom 항목제거 필요
