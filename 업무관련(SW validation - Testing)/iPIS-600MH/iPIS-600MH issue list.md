@@ -80,7 +80,7 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 	- Device info: 81X73_PCB_2X3_VERIFICATION_HIGH_RNR.job
 	- Image grab시 크래시 발생
 - [ ] [Side vision] Job teaching - Stitching align ROI Calc 클릭시 프로그램 크래시
-	- [ ] Jira 상태확인
+	- [ ] Jira 상태 확인
 
 
 
