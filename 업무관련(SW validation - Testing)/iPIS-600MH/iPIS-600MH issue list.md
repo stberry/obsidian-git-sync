@@ -20,7 +20,8 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 - [x] [Package model] Vision option - 3D bottom 항목제거 필요
 - [ ] [Boat model] Boat 포켓 이미지 변경
 - [x] [Sort model] 3D insp 항목제거 필요
-- [ ] [IR TOP] 3D insp 항목이 남아있음, 수정필요
+- [x] [IR TOP] 3D insp 항목이 남아있음, 수정필요
+	- 레시피 설정이므로 현재 정상적으로 레시피를 설정하여 
 - [ ] [Multipicker setup wizard] 이미지 수정
 - [x] [System option] System ID - 340으로 되어있음, 변경 필요
 - [x] ~~[System option] Use seperate invalid package sorting - 3D bottom invalid sorting rail 항목제거 필요~~
@@ -33,7 +34,7 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 - [x] [Manual Inspection] Action 버튼 위 드롭박스 3D Ref. Test / Pick boat to JIG / Pick JIG to boat 메뉴, 항목제거 필요
 - [x] [Manual Inspection] Auto Calibration : 동작확인이 필요하나 640HX에서 쓰던기능이며 핸들러 구조가 많이 다르기에 제대로 동작하지 않을것으로 예상됨, 항목제거?
 - [x] [Manual Inspection] Auto Focus Tuning - Recipe Z offset - Apply Difference to 3D BTM INSP. Z Offset
-- [ ] [Lot] 2D top 메모리 할당 이슈
+- [x] [Lot] 2D top 메모리 할당 이슈
 	- 현재 메모리 64GB, 메모리 부족으로 쓰레드를 적게 할당하여 사용중임, 향후 256GB 까지 늘릴것
 - [ ] [PEAR] probe config - 3D bottom 항목
 - [x] [Self Condition Check] 시 Jam 메시지와 함께 UI가 변경됨
@@ -60,8 +61,11 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 	- [ ] ~~insp item setup에서 Use로 되어있는 항목을 체크해제 하고 Cancel 할 경우 변경은 없으나 재진입시 체크 해제된 상태로 보임, 설정에는 큰 변화 없음 (iPIS340HX에서 발생했던 현상)~~ -> ==UI 이슈로 통합하여 올림
 	- [ ] surface criteria에서 polygon 추가 후 순서 변경 뒤에 polygon 크기를 변경하거나 이동했을때 프로그램 크래시 ([iPIS500I에서 발생했던 현상](https://do-intekplus.atlassian.net/browse/IPIS500I-316))
 	- [ ] surface criteria에서 상세설정값 입력시에 문자가 그대로 입력되는 현상
-- [ ] [Manual Inspection] Side 설정 중 2D 탭에서 offset 설정시 Side 1을 설정하면 Side 2에 적용됨 (서로 교차되어 적용)
-- [ ] [Side vision] Stitching Align 후 이후 시퀀스(Emtpy checker Blob, Edge align)에 Stitching 결과가 적용되지 않음, 0 pane을 선택하면 변경되나 Run inspection 시 원본 이미지로 돌아감
+- [x] [Manual Inspection] Side 설정 중 2D 탭에서 offset 설정시 Side 1을 설정하면 Side 2에 적용됨 (서로 교차되어 적용)
+	- [x] Jira 상태 확인
+	- Side 1 offset 자체가 없었음, 추가완료
+- [x] [Side vision] Stitching Align 후 이후 시퀀스(Emtpy checker Blob, Edge align)에 Stitching 결과가 적용되지 않음, 0 pane을 선택하면 변경되나 Run inspection 시 원본 이미지로 돌아감
+	- [ ] Jira 상태 확인
 - [ ] BGA Ball inspection - Ball align 후 ball의 중심점이 잘못 표시되는 문제
 	- Ball offset 검사 결과값은 정상이나 Spec point와 Ball search center point 간 차이 존재.
 - [ ] image 오픈 후 Pan image와 Show whole image 기능 일시적 비활성화
@@ -75,3 +79,12 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 	- [ ] Jira 상태 확인
 	- Device info: 81X73_PCB_2X3_VERIFICATION_HIGH_RNR.job
 	- Image grab시 크래시 발생
+- [ ] [Side vision] Job teaching - Stitching align ROI Calc 클릭시 프로그램 크래시
+	- [ ] Jira 상태확인
+
+
+
+
+<노트북 검증중>
+- [ ] [Side vision] Job teaching 후 Rear side 클릭시 프로그램 크래시
+	- [ ] 
