@@ -69,5 +69,7 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 - [ ] batch inspection 기능 진입 후 quit 시 이미지를 획득하는 현상
 - [x] ~~레시피 항목 중 2D Bottom Vision Z High Magnification Offset 값 저장 안됨
 	- 고배율 레시피를 별도로 작성하므로 Z offset을 통합하였음 (해당 설정 삭제)
-- [ ] [Manual inspection] 2D bottom 검사 중 Vision 프로그램 크래시
+- [x] [Manual inspection] 2D bottom 검사 중 Vision 프로그램 크래시
+	- [ ] Jira 상태 확인
 	- Device info: 81X73_PCB_2X3_VERIFICATION_HIGH_RNR.job
+	- Image grab시 크래시 발생
