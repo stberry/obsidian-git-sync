@@ -38,6 +38,7 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 - [ ] [PEAR] probe config - 3D bottom 항목
 - [x] [Self Condition Check] 시 Jam 메시지와 함께 UI가 변경됨
 	- 의도된 기능
+- [x] Side inspection : Pixel calibration 진입후 Quit 하면 크래시
 
 \<bug list>
 - [ ] ~~[Pad changing] 레시피 미오픈일때 Pad changing을 할 경우 프로그램 크래시~~
