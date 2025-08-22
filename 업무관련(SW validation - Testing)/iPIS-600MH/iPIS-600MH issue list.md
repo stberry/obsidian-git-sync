@@ -54,6 +54,8 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 	- [x] Jira 상태 확인
 - [x] [Manual Inspection] Auto focus tuning - JOG 동작 안함 (Jira 등록)
 	- [x] Jira 상태 확인
+- [ ] Side vision 프로그램 불안정
+	- Side vision 잡 세팅시 프로그램 크래시 다수 발생 (Jira 등록)
 ---
 ---아래 사항부터는 모두 Jira 등록됨---
 - [ ] 고질적인 문제 (사소한 문제일 수 있으나 사용성에 신경쓴다면 고치고 넘어가야 함)
@@ -89,4 +91,5 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 - [ ] [Side vision] Job teaching 후 Rear side 클릭시 프로그램 크래시
 - [ ] [Side vision] 프로그램 크래시 발생 후 재 가동시 이미지 및 Layout editor 기능 오류 발생
 	- Rear side 클릭시 정상화
+- [ ] [Side vision] Geo inspection 항목 추가 후 Batch inspection 이미지 오픈시 프로그램 크래시 발생
 
