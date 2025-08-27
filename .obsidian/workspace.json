@@ -1,55 +1,70 @@
 {
   "main": {
-    "id": "c3f6b8361ce9f47e",
+    "id": "45eceb19c561532d",
     "type": "split",
     "children": [
       {
-        "id": "bb02d16ab238728c",
+        "id": "30f388739d08badf",
         "type": "tabs",
         "children": [
           {
-            "id": "3196817dd79b7bd1",
+            "id": "508637139e618058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2025-08-27.md",
+                "file": "업무관련 개인폴더/업무기록/2025-08-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-27"
+              "title": "2025-08-19"
             }
           },
           {
-            "id": "215979409a70ceaa",
+            "id": "e2ff4128256fd44c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2025-08-23.md",
+                "file": "업무관련 개인폴더/업무기록/2025-08-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-23"
+              "title": "2025-08-18"
+            }
+          },
+          {
+            "id": "6576fe6ed62557f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "업무관련 개인폴더/업무기록/2025-08-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-26"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6f41cf5b035fdbee",
+    "id": "77464dfdea050380",
     "type": "split",
     "children": [
       {
-        "id": "9c6522bb6adb526d",
+        "id": "9212f7f77b42a9c5",
         "type": "tabs",
         "children": [
           {
-            "id": "6a629b4740c34625",
+            "id": "065cc061d5083b6b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +77,7 @@
             }
           },
           {
-            "id": "a71a3eaf1c901eb9",
+            "id": "38ef3493c144e3c4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +94,7 @@
             }
           },
           {
-            "id": "665e75747e39e6b6",
+            "id": "a5c224902375404c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,24 +107,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "810433d84ceead18",
+    "id": "afc0cf9f35abb4cd",
     "type": "split",
     "children": [
       {
-        "id": "bcbf5905d6890842",
+        "id": "90599863570c8190",
         "type": "tabs",
         "children": [
           {
-            "id": "ee92f7fbcb7bb350",
+            "id": "15e760e8310a0a0c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/10월/2024-10-22.md",
+                "file": "screenshots/Image.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024-10-22의 백링크"
+              "title": "Image의 백링크"
             }
           },
           {
-            "id": "a28864c16802a8a4",
+            "id": "09bc543e2b73925d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/10월/2024-10-22.md",
+                "file": "screenshots/Image.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2024-10-22의 나가는 링크"
+              "title": "Image의 나가는 링크"
             }
           },
           {
-            "id": "6fe594dc16ef44e0",
+            "id": "20285feca3d65928",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,15 +164,15 @@
             }
           },
           {
-            "id": "d0571e9a425e1ab6",
+            "id": "f533fa13815dd060",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/10월/2024-10-22.md"
+                "file": "screenshots/Image.jpg"
               },
               "icon": "lucide-list",
-              "title": "2024-10-22 개요"
+              "title": "Image 개요"
             }
           }
         ]
@@ -170,64 +184,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3196817dd79b7bd1",
+  "active": "6576fe6ed62557f0",
   "lastOpenFiles": [
-    "업무관련(SW validation - Testing)/iPIS-600MH/iPIS-600MH issue list.md",
     "업무관련 개인폴더/업무기록/2025-08-27.md",
+    "업무관련(SW validation - Testing)/iPIS-600MH/To do list.md",
     "업무관련 개인폴더/업무기록/2025-08-26.md",
     "업무관련 개인폴더/업무기록/2025-08-25.md",
     "업무관련 개인폴더/업무기록/2025-08-23.md",
     "업무관련 개인폴더/업무기록/2025-08-22.md",
     "업무관련 개인폴더/업무기록/2025-08-21.md",
-    "업무관련 개인폴더/업무기록/2025-08-20.md",
-    "업무관련 개인폴더/업무기록/2025-08-18.md",
-    "업무관련(SW validation - Testing)/iPIS-600MH/To do list.md",
-    "업무관련(SW validation - Testing)/iPIS-600MH",
-    "업무관련 개인폴더/업무기록/2025-08-19.md",
-    "업무관련 개인폴더/업무기록/2025-08-11.md",
-    "업무관련 개인폴더/업무기록/2025-08-08.md",
-    "무제.canvas",
-    "업무관련 개인폴더/업무기록/2025-08-12.md",
-    "업무관련 개인폴더/업무기록/2025-08-13.md",
-    "업무관련 개인폴더/업무기록/2025-08-14.md",
     "conflict-files-obsidian-git.md",
-    "업무관련 개인폴더/업무기록/2025-08-07.md",
-    "업무관련 개인폴더/업무기록/2025-08-06.md",
-    "업무관련 개인폴더/업무기록/2025-08-05.md",
-    "업무관련 개인폴더/업무기록/2025-07-31.md",
-    "업무관련 개인폴더/업무기록/25.7월/2025-07-08.md",
-    "업무관련 개인폴더/업무기록/25.7월/2025-07-30.md",
-    "업무관련 개인폴더/업무기록/25.7월/2025-07-23.md",
-    "업무관련 개인폴더/업무기록/25.7월/2025-07-31.md",
-    "업무관련 개인폴더/업무기록/25.7월/2025-07-28.md",
-    "업무관련 개인폴더/업무기록/25.7월",
-    "screenshots/600MH.png",
-    "minutes (회의록)/2025",
-    "minutes (회의록)/2024",
-    "minutes (회의록)",
-    "screenshots/MED6 TFM 실린더이슈.png",
-    "업무관련 개인폴더/업무기록/25.6월",
+    "업무관련(SW validation - Testing)/iPIS-600MH/iPIS-600MH issue list.md",
+    "업무관련(SW validation - Testing)/iPIS-600MH",
+    "업무관련 개인폴더/업무기록/2025-08-20.md",
+    "업무관련 개인폴더/업무기록/2025-08-19.md",
+    "업무관련 개인폴더/업무기록/2025-08-18.md",
+    "업무관련(SW validation - Testing)/JIRA-CONFLUENCE ADMIN TRAINING/Jira 관리자 설정 이슈 핵심요소와 프로젝트 할당.md",
+    "업무관련(SW validation - Testing)/JIRA-CONFLUENCE ADMIN TRAINING",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-29.md",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-30.md",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-28.md",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-27.md",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-26.md",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-23.md",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-22.md",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-21.md",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-19.md",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-16.md",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-20.md",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-15.md",
+    "업무관련 개인폴더/업무기록/25.5월/2025-05-14.md",
     "업무관련 개인폴더/업무기록/25.5월",
-    "document template",
-    "업무관련(SW validation - Testing)/minutes (회의록)/2025",
-    "업무관련(SW validation - Testing)/minutes (회의록)/2024",
-    "screenshots/Seq_Land2D.png",
-    "screenshots/Seq_Component2D.png",
-    "screenshots/ROI mismatch.png",
-    "screenshots/2025-01-20.png",
-    "screenshots/250110 VTI 회의(제안사항).png",
-    "업무관련(SW validation - Testing)/minutes/250110 VTI 회의(제안사항).png",
+    "업무관련 개인폴더/업무기록/25.2월",
+    "업무관련 개인폴더/업무기록/25.7월",
+    "업무관련 개인폴더/업무기록/25.6월",
+    "업무관련 개인폴더/업무기록/25.4월",
+    "업무관련 개인폴더/업무기록/25.3월",
+    "업무관련 개인폴더/업무기록/25.1월",
+    "업무관련 개인폴더/업무기록/2024/9월 (0910~)",
+    "무제.canvas",
+    "screenshots/품의서 샘플.png",
+    "screenshots/보유자재 Recipe list (DVI005).png",
+    "screenshots/iPIS-500 Library Construction.png",
+    "screenshots/iPIS 장비 동작구조.png",
+    "screenshots/Vortex picker vacuum line connected.png",
+    "screenshots/Vortex picker fully connected.png",
+    "screenshots/Vortex picker (2).png",
     "screenshots/Viettel SW Online meeting.png",
-    "screenshots/iPIS 장비 동작구조.png"
+    "screenshots/Story workflow.png",
+    "screenshots/Static test issue list.png"
   ]
 }
