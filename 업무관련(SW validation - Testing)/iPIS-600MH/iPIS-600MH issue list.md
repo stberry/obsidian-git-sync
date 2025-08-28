@@ -54,7 +54,7 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 	- [x] Jira 상태 확인
 - [x] [Manual Inspection] Auto focus tuning - JOG 동작 안함 (Jira 등록)
 	- [x] Jira 상태 확인
-- [ ] Side vision 프로그램 불안정
+- [x] Side vision 프로그램 불안정
 	- Batch inspection 이미지 오픈시 프로그램 크래시 (Jira 버그 등록)  
 	- 간헐적 크래시 발생, 호스트와 연결하지 않은 채 검사항목에 진입할 경우 크래시 발생
 		- Job 세팅 후 Rear side 클릭시 프로그램 크래시  
@@ -63,22 +63,22 @@ https://do-intekplus.atlassian.net/browse/SPIL600-289 에서도 동시에 관리
 ---
 ---아래 사항부터는 모두 Jira 등록됨---
 - [ ] 고질적인 문제 (사소한 문제일 수 있으나 사용성에 신경쓴다면 고치고 넘어가야 함)
-	- [ ] insp item setup시 항목을 더블클릭하면 상세항목을 볼 수 있어야 하나 프로그램 크래시 발생 (iPIS340HX에서 발생했던 현상)
+	- [x] insp item setup시 항목을 더블클릭하면 상세항목을 볼 수 있어야 하나 프로그램 크래시 발생 (iPIS340HX에서 발생했던 현상)
 	- [ ] ~~insp item setup에서 Use로 되어있는 항목을 체크해제 하고 Cancel 할 경우 변경은 없으나 재진입시 체크 해제된 상태로 보임, 설정에는 큰 변화 없음 (iPIS340HX에서 발생했던 현상)~~ -> ==UI 이슈로 통합하여 올림
-	- [ ] surface criteria에서 polygon 추가 후 순서 변경 뒤에 polygon 크기를 변경하거나 이동했을때 프로그램 크래시 ([iPIS500I에서 발생했던 현상](https://do-intekplus.atlassian.net/browse/IPIS500I-316))
+	- [x] surface criteria에서 polygon 추가 후 순서 변경 뒤에 polygon 크기를 변경하거나 이동했을때 프로그램 크래시 ([iPIS500I에서 발생했던 현상](https://do-intekplus.atlassian.net/browse/IPIS500I-316))
 	- [ ] surface criteria에서 상세설정값 입력시에 문자가 그대로 입력되는 현상
 - [x] [Manual Inspection] Side 설정 중 2D 탭에서 offset 설정시 Side 1을 설정하면 Side 2에 적용됨 (서로 교차되어 적용)
 	- [x] Jira 상태 확인
 	- Side 1 offset 자체가 없었음, 추가완료
 - [x] [Side vision] Stitching Align 후 이후 시퀀스(Emtpy checker Blob, Edge align)에 Stitching 결과가 적용되지 않음, 0 pane을 선택하면 변경되나 Run inspection 시 원본 이미지로 돌아감
-	- [ ] Jira 상태 확인
+	- [x] Jira 상태 확인
 - [ ] BGA Ball inspection - Ball align 후 ball의 중심점이 잘못 표시되는 문제
 	- Ball offset 검사 결과값은 정상이나 Spec point와 Ball search center point 간 차이 존재.
 - [ ] image 오픈 후 Pan image와 Show whole image 기능 일시적 비활성화
 - [x] Host에서 고배율 체크 및 해제시 Vision에 Scale 반영 안되는 문제
-	- [ ] Jira 상태 확인
+	- [x] Jira 상태 확인
 - [x] batch inspection 기능 진입 후 quit 시 이미지를 획득하는 현상
-	- [ ] Jira 상태 확인
+	- [x] Jira 상태 확인
 - [x] ~~레시피 항목 중 2D Bottom Vision Z High Magnification Offset 값 저장 안됨
 	- 고배율 레시피를 별도로 작성하므로 Z offset을 통합하였음 (해당 설정 삭제)
 - [x] [Manual inspection] 2D bottom 검사 중 Vision 프로그램 크래시
