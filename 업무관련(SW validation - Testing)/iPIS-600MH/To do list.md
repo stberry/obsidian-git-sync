@@ -3,6 +3,9 @@
 
 STR
 - STR documentation
+	- [ ] Copy STR from iPIS-500
+	- [ ] Data modification
+	- [ ] Data update
 - Dashboard
 	- 대시보드 구성 - 다이나믹 대시보드
 		- 컨트롤러 - 프로젝트 선택
