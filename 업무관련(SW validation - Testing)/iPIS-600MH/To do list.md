@@ -3,7 +3,7 @@
 
 STR
 - STR documentation
-	- [ ] Copy STR from iPIS-500
+	- [x] Copy STR from iPIS-500
 	- [ ] Data modification
 	- [ ] Data update
 - Dashboard
