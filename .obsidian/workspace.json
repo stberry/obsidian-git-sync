@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2025-09-25.md",
+                "file": "업무관련 개인폴더/업무기록/2025-09-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-25"
+              "title": "2025-09-30"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -155,21 +155,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fd07bccd6120a350",
   "lastOpenFiles": [
+    "업무관련 개인폴더/업무기록/2025-09-26.md",
+    "업무관련 개인폴더/업무기록/2025-09-30.md",
+    "업무관련 개인폴더/업무기록/2025-09-25.md",
     "업무관련 개인폴더/업무기록/2025-09-22.md",
     "conflict-files-obsidian-git.md",
-    "업무관련 개인폴더/업무기록/2025-09-25.md",
     "업무관련 개인폴더/업무기록/2025-09-19.md",
     "업무관련 개인폴더/업무기록/무제.md",
     "minutes (회의록)/2025/250917 PI 부문 세미나.md",
@@ -193,8 +195,6 @@
     "업무관련 개인폴더/업무기록/25.8월/2025-08-27.md",
     "업무관련 개인폴더/업무기록/25.8월/2025-08-26.md",
     "업무관련 개인폴더/업무기록/25.8월/2025-08-25.md",
-    "업무관련 개인폴더/업무기록/25.8월/2025-08-23.md",
-    "업무관련 개인폴더/업무기록/25.8월/2025-08-22.md",
     "업무관련(SW validation - Testing)/iPIS-600MH",
     "업무관련(SW validation - Testing)/JIRA-CONFLUENCE ADMIN TRAINING",
     "업무관련 개인폴더/업무기록/25.5월",
