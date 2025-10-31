@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2025-10-31.md",
+                "file": "minutes (회의록)/2025/251031 CX WMS 회의.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-31"
+              "title": "251031 CX WMS 회의"
             }
           }
         ]
@@ -165,10 +165,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "065cc061d5083b6b",
+  "active": "fd07bccd6120a350",
   "lastOpenFiles": [
-    "minutes (회의록)/2025/251031 CX WMS 회의.md",
     "업무관련 개인폴더/업무기록/2025-10-31.md",
+    "minutes (회의록)/2025/251031 CX WMS 회의.md",
     "minutes (회의록)/2025/251001 CXM 회의.md",
     "업무관련 개인폴더/업무기록/2025-10-15.md",
     "conflict-files-obsidian-git.md",
