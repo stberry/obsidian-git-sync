@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "minutes (회의록)/2025/251031 CX WMS 회의.md",
+                "file": "업무관련 개인폴더/업무기록/2025-10-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251031 CX WMS 회의"
+              "title": "2025-10-31"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "2025-10-31"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,12 +179,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "64cd9fa7bea72792",
+  "active": "fd07bccd6120a350",
   "lastOpenFiles": [
     "minutes (회의록)/2025/251031 CX WMS 회의.md",
+    "업무관련 개인폴더/업무기록/2025-10-31.md",
     "minutes (회의록)/2025/251001 CXM 회의.md",
     "업무관련 개인폴더/업무기록/2025-10-15.md",
-    "업무관련 개인폴더/업무기록/2025-10-31.md",
     "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2025-10-24.md",
     "업무관련 개인폴더/업무기록/2025-10-23.md",
