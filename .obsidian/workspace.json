@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "30f388739d08badf",
+        "id": "55b74be015cda502",
         "type": "tabs",
         "children": [
           {
-            "id": "74bb268389f3c5c8",
+            "id": "1e9a287c09d5f70c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "업무관련 개인폴더/업무기록/2025-11-07.md",
-                "bFile": "업무관련 개인폴더/업무기록/2025-11-07.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "업무관련 개인폴더/업무기록/2025-11-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2025-11-07"
-            }
-          },
-          {
-            "id": "75842ac7ec8ba04d",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "2025-11-11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,12 +175,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75842ac7ec8ba04d",
+  "active": "1e9a287c09d5f70c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "업무관련 개인폴더/업무기록/25.12.07~25.12.12 해외출장.md",
+    "업무관련 개인폴더/업무기록/2025-11-11.md",
     "업무관련 개인폴더/업무기록/2025-11-10.md",
-    "업무관련 개인폴더/업무기록/2025-11-08.md",
+    "screenshots/25 베트남 출장 일정표(251207~251212).png",
     "업무관련 개인폴더/업무기록/2025-11-07.md",
+    "conflict-files-obsidian-git.md",
+    "업무관련 개인폴더/업무기록/2025-11-08.md",
     "업무관련 개인폴더/업무기록/2025-11-06.md",
     "minutes (회의록)/2025/251031 CX WMS 회의.md",
     "업무관련 개인폴더/업무기록/2025-10-31.md",
@@ -219,8 +206,6 @@
     "업무관련 개인폴더/업무기록/2025-10-28.md",
     "screenshots/500g_1.410.01.0027 테스트(1).png",
     "screenshots/500g_1.410.01.0027 테스트(2).png",
-    "업무관련 개인폴더/업무기록/2025-10-21.md",
-    "업무관련 개인폴더/업무기록/2025-10-20.md",
     "업무관련 개인폴더/업무기록/25.9월",
     "업무관련(SW validation - Testing)/VTI",
     "업무관련 개인폴더/업무기록/25.8월",
@@ -238,7 +223,6 @@
     "screenshots/iPIS 장비 동작구조.png",
     "screenshots/Vortex picker vacuum line connected.png",
     "screenshots/Vortex picker fully connected.png",
-    "screenshots/Vortex picker (2).png",
-    "screenshots/Viettel SW Online meeting.png"
+    "screenshots/Vortex picker (2).png"
   ]
 }
