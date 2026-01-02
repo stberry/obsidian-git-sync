@@ -11,3 +11,11 @@
 	- 모듈 등록 기능으로 해결?
 	- 옵션을 주고 Picker 개수를 설정하여 만드는 방법?
 - Manual inspection에서 Move Insp POS 눌렀다가 바로 Move Front POS 눌렀을때 인덱서가 Front 도착후 다시 Insp POS 쪽으로 되돌아가는 현상 (반대도 마찬가지)
+
+\<Maria Weekly meeting>
+- Vision에서 Not Selected로 뜨는 경우는?
+	- 설명 필요
+- Handler .job / Vision .vmjob의 관계
+	- 설명 필요
+	- 두개가 연결되었을때 Job을 불러오면 ?가 아닌 BGA나 QFN 등 특정 칩 모양이 나올 수 있도록 하는 Job 구성 필요
+- Switch to Host 기능에 대한 설명
