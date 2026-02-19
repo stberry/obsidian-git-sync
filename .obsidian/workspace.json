@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30f388739d08badf",
+        "id": "55b74be015cda502",
         "type": "tabs",
         "children": [
           {
-            "id": "51f2c46a2057f933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련 개인폴더/업무기록/2025-12-19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-19"
-            }
-          },
-          {
-            "id": "488244e8282289ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련 개인폴더/업무기록/2025-12-16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-16"
-            }
-          },
-          {
-            "id": "95f18fe633728ac3",
+            "id": "e505d0b4c4a5817d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,63 +22,49 @@
             }
           },
           {
-            "id": "44386e880d74c0cd",
+            "id": "e4a5eaa3fdead9da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2026-02-10.md",
+                "file": "업무관련 개인폴더/업무기록/2026-01-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-10"
+              "title": "2026-01-07"
             }
           },
           {
-            "id": "4bf0eebd66539f2c",
+            "id": "88ab997b71b220b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2026-02-10.md",
+                "file": "업무관련 개인폴더/업무기록/2026-02-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-10"
+              "title": "2026-02-09"
             }
           },
           {
-            "id": "4bedec8a8bf0685a",
+            "id": "c751b68c7382eff4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2026-02-10.md",
+                "file": "업무관련 개인폴더/업무기록/2026-02-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-10"
-            }
-          },
-          {
-            "id": "38428f8f814cf0e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "업무관련 개인폴더/업무기록/2026-02-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-13"
+              "title": "2026-02-19"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,7 +87,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -163,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "afc0cf9f35abb4cd",
@@ -180,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "screenshots/Image.jpg",
+                "file": "업무관련 개인폴더/업무기록/2025-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Image의 백링크"
+              "title": "Backlinks for 2025-10-17"
             }
           },
           {
@@ -233,7 +190,7 @@
             }
           },
           {
-            "id": "2ac0d1fff0b0c6ed",
+            "id": "3d4f557586c51392",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -247,62 +204,61 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38428f8f814cf0e6",
+  "active": "c751b68c7382eff4",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/2026-02-10.md",
-    "업무관련 개인폴더/업무기록/2026-02-11.md",
     "업무관련 개인폴더/업무기록/2026-02-13.md",
+    "업무관련 개인폴더/업무기록/2026-02-19.md",
     "업무관련 개인폴더/업무기록/2026-02-12.md",
-    "conflict-files-obsidian-git.md",
+    "업무관련 개인폴더/업무기록/2026-02-11.md",
+    "업무관련 개인폴더/업무기록/2026-02-10.md",
     "업무관련 개인폴더/업무기록/2026-02-09.md",
+    "업무관련 개인폴더/업무기록/git  all.md",
+    "업무관련 개인폴더/업무기록/2026-01-28.md",
+    "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2026-02-05.md",
     "업무관련 개인폴더/업무기록/2026-02-03.md",
-    "업무관련 개인폴더/업무기록/2026-01-30.md",
-    "업무관련 개인폴더/업무기록/2026-01-28.md",
+    "업무관련 개인폴더/업무기록/26.1월",
+    "업무관련 개인폴더/업무기록/2026-01-27.md",
     "업무관련 개인폴더/업무기록/2026-01-16.md",
+    "업무관련 개인폴더/업무기록/2026-01-30.md",
     "업무관련 개인폴더/업무기록/2026-01-15.md",
     "업무관련 개인폴더/업무기록/2026-01-14.md",
-    "업무관련 개인폴더/업무기록/2026-01-13.md",
-    "업무관련 개인폴더/업무기록/2026-01-12.md",
     "업무관련 개인폴더/업무기록/2026-01-08.md",
-    "업무관련 개인폴더/업무기록/2026-01-27.md",
+    "업무관련 개인폴더/업무기록/2026-01-12.md",
+    "업무관련 개인폴더/업무기록/2026-01-13.md",
     "업무관련 개인폴더/업무기록/2026-01-07.md",
-    "업무관련 개인폴더/업무기록/2026-01-06.md",
     "업무관련 개인폴더/업무기록/2026-01-05.md",
-    "업무관련 개인폴더/업무기록/25' VIPER 특이사항.md",
+    "업무관련 개인폴더/업무기록/2026-01-06.md",
     "업무관련 개인폴더/업무기록/2026-01-02.md",
-    "업무관련 개인폴더/업무기록/2025/25.8월/2025-08-25.md",
-    "업무관련 개인폴더/업무기록/2025/25.8월/2025-08-26.md",
-    "업무관련 개인폴더/업무기록/2025/25.8월/2025-08-22.md",
-    "업무관련 개인폴더/업무기록/2025/25.8월/2025-08-27.md",
-    "업무관련 개인폴더/업무기록/2025/25.8월",
-    "업무관련 개인폴더/업무기록/2025/25.7월",
-    "업무관련 개인폴더/업무기록/2025/25.9월",
-    "업무관련 개인폴더/업무기록/2025/25.6월",
-    "업무관련 개인폴더/업무기록/2025/25.5월",
-    "업무관련 개인폴더/업무기록/2025/25.4월",
-    "업무관련 개인폴더/업무기록/2025/25.3월",
-    "업무관련 개인폴더/업무기록/2025/25.2월",
+    "업무관련 개인폴더/업무기록/2025/25.12월/2025-12-16.md",
+    "업무관련 개인폴더/업무기록/2025/25.12월/25.12.07~25.12.12 해외출장.md",
+    "업무관련 개인폴더/업무기록/2025",
+    "업무관련 개인폴더/업무기록/25' VIPER 특이사항.md",
     "업무관련 개인폴더/업무기록/2025/25.12월",
-    "업무관련 개인폴더/업무기록/2025/25.1월",
+    "업무관련 개인폴더/업무기록/2025/25.11월",
+    "업무관련 개인폴더/업무기록/Untitled/Untitled",
+    "업무관련 개인폴더/업무기록/2025/25.10월",
     "screenshots/25 베트남 출장 일정표(251207~251212).png",
-    "screenshots/500g_1.410.01.0027 테스트(2).png",
     "screenshots/500g_1.410.01.0027 테스트(1).png",
+    "screenshots/500g_1.410.01.0027 테스트(2).png",
+    "업무관련 개인폴더/업무기록/2025/25.9월",
+    "업무관련(SW validation - Testing)/VTI",
+    "업무관련 개인폴더/업무기록/2025/25.8월",
+    "업무관련(SW validation - Testing)/iPIS-600MH",
     "무제.canvas",
     "screenshots/품의서 샘플.png",
     "screenshots/보유자재 Recipe list (DVI005).png",
