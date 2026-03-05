@@ -55,16 +55,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2026-03-03.md",
+                "file": "업무관련 개인폴더/업무기록/2026-03-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-03"
+              "title": "2026-03-05"
+            }
+          },
+          {
+            "id": "e9bc298bac314b45",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.4"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -208,19 +220,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c751b68c7382eff4",
+  "active": "e9bc298bac314b45",
   "lastOpenFiles": [
     "업무관련 개인폴더/업무기록/2026-03-04.md",
+    "업무관련 개인폴더/업무기록/2026-03-05.md",
     "업무관련 개인폴더/업무기록/2026-03-03.md",
     "업무관련 개인폴더/업무기록/2026-02-27.md",
     "업무관련 개인폴더/업무기록/2026-02-26.md",
@@ -246,7 +259,6 @@
     "업무관련 개인폴더/업무기록/2026-01-08.md",
     "업무관련 개인폴더/업무기록/2026-01-12.md",
     "업무관련 개인폴더/업무기록/2026-01-13.md",
-    "업무관련 개인폴더/업무기록/2026-01-07.md",
     "업무관련 개인폴더/업무기록/2025",
     "업무관련 개인폴더/업무기록/2025/25.12월",
     "업무관련 개인폴더/업무기록/2025/25.11월",
