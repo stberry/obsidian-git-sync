@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2026-03-11.md",
+                "file": "업무관련 개인폴더/업무기록/2026-03-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-11"
+              "title": "2026-03-13"
+            }
+          },
+          {
+            "id": "19c18e26905ebff9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +189,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c1f17e0bcac221d3",
+  "active": "19c18e26905ebff9",
   "lastOpenFiles": [
+    "업무관련 개인폴더/업무기록/2026-03-13.md",
     "업무관련 개인폴더/업무기록/2026-03-11.md",
     "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/26.2월/2026-02-26.md",
@@ -204,7 +218,6 @@
     "업무관련 개인폴더/업무기록/26.1월/2026-01-12.md",
     "업무관련 개인폴더/업무기록/26.1월/2026-01-06.md",
     "업무관련 개인폴더/업무기록/26.1월/2026-01-07.md",
-    "업무관련 개인폴더/업무기록/26.1월/2026-01-05.md",
     "업무관련 개인폴더/업무기록/26.1월",
     "업무관련 개인폴더/업무기록/2025/25.8월",
     "업무관련 개인폴더/업무기록/2025/25.7월",
