@@ -35,8 +35,7 @@
               "title": "2026-03-13"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "19c18e26905ebff9",
+  "active": "c1f17e0bcac221d3",
   "lastOpenFiles": [
     "업무관련 개인폴더/업무기록/2026-03-11.md",
     "업무관련 개인폴더/업무기록/2026-03-13.md",
