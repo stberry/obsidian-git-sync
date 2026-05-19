@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e795ea14156f12c5",
+  "active": "3d4f557586c51392",
   "lastOpenFiles": [
     "업무관련 개인폴더/업무기록/2026-05-15.md",
     "업무관련 개인폴더/업무기록/2026-05-19.md",
