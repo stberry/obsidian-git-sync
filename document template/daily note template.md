@@ -3,5 +3,8 @@
 - 오후
 	- ...
 
+<목표>
+- [ ] Work progress check (Jira) - SQA
+
 <수행 경과>
 - [ ] Work progress check (Jira) - SQA
