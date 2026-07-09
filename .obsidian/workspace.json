@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무관련 개인폴더/업무기록/2026-07-08.md",
+                "file": "업무관련 개인폴더/업무기록/2026-07-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-08"
+              "title": "2026-07-09"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "afc0cf9f35abb4cd",
@@ -207,9 +208,10 @@
   },
   "active": "1af99904149debe6",
   "lastOpenFiles": [
+    "업무관련 개인폴더/업무기록/AS-IS.png",
+    "업무관련 개인폴더/업무기록/2026-07-08.md",
     "업무관련 개인폴더/업무기록/2026-07-09.md",
     "업무관련 개인폴더/업무기록/2026-07-07.md",
-    "업무관련 개인폴더/업무기록/2026-07-08.md",
     "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2026-07-03.md",
     "업무관련 개인폴더/업무기록/2026-07-06.md",
@@ -233,7 +235,6 @@
     "업무관련 개인폴더/업무기록/26.5월",
     "업무관련 개인폴더/업무기록/2026-06-17.md",
     "업무관련 개인폴더/업무기록/2026-06-16.md",
-    "업무관련 개인폴더/업무기록/2026-06-12.md",
     "screenshots/클로드 강의 목록.png",
     "screenshots/Intekplus-VTI co-work process.png",
     "업무관련 개인폴더/업무기록/클로드 강의 목록.png",
