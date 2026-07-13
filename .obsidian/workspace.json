@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,13 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1af99904149debe6",
+  "active": "065cc061d5083b6b",
   "lastOpenFiles": [
-    "업무관련 개인폴더/업무기록/2026-07-09.md",
     "업무관련 개인폴더/업무기록/2026-07-13.md",
-    "업무관련 개인폴더/업무기록/UMTC-KF LTV-200 검사기 개발.png",
-    "업무관련 개인폴더/업무기록/DTMC LTV-100 검사기 개발.png",
-    "업무관련 개인폴더/업무기록/ZDT LTV-100 검사기 개발.png",
+    "업무관련 개인폴더/업무기록/2026-07-09.md",
+    "screenshots/UMTC-KF LTV-200 검사기 개발.png",
+    "screenshots/DTMC LTV-100 검사기 개발.png",
+    "screenshots/ZDT LTV-100 검사기 개발.png",
     "업무관련 개인폴더/업무기록/2026-07-08.md",
     "업무관련 개인폴더/업무기록/2026-07-07.md",
     "conflict-files-obsidian-git.md",
