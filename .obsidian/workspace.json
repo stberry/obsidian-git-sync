@@ -151,12 +151,12 @@
               "title": "2026-09-30 의 개요"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +170,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f859c2664103eca0",
+  "active": "f533fa13815dd060",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/2026-09-30.md",
+    "conflict-files-obsidian-git.md",
     "업무관련 개인폴더/업무기록/26.2월/2026-02-26.md",
     "업무관련 개인폴더/업무기록/26.2월/2026-02-27.md",
     "업무관련 개인폴더/업무기록/26.2월/2026-02-25.md",
