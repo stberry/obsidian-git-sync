@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "test daily ",
+                "query": "tag:#테스트케이스",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "screenshots/Image.jpg",
-                "collapseAll": false,
+                "file": "업무관련 개인폴더/업무기록/2026-09-30.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Image의 백링크"
+              "title": "2026-09-30 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "screenshots/Image.jpg",
+                "file": "업무관련 개인폴더/업무기록/2026-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Image의 나가는 링크"
+              "title": "2026-09-30 의 나가는 링크"
             }
           },
           {
@@ -128,10 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
@@ -140,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "screenshots/Image.jpg"
+                "file": "업무관련 개인폴더/업무기록/2026-09-30.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Image 개요"
+              "title": "2026-09-30 의 개요"
             }
           }
         ]
