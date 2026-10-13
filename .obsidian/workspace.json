@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-10-13"
             }
+          },
+          {
+            "id": "a784667e104061ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0be37c7c9a7188f",
+  "active": "a784667e104061ae",
   "lastOpenFiles": [
     "업무관련 개인폴더/업무기록/2026-10-08.md",
     "업무관련 개인폴더/업무기록/2026-10-13.md",
